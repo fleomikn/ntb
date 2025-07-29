@@ -223,7 +223,7 @@ https://cmcdp.vtvdigital.vn/live/binhdinhtv/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://cmcdp1.vtvdigital.vn/live/gialaitv/playlist.m3u8
 
-#EXTINF:32,KHANH HOAtv.ktv.org.vn
+#EXTINF:32,KHANH HOA_ktv.ktv.org.vn
 #EXTVLCOPT:network-caching=1000
 https://tv.ktv.org.vn/ktv.m3u8
 #EXTINF:10,KTV_vtvcab_576
