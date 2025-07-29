@@ -223,9 +223,12 @@ https://cmcdp.vtvdigital.vn/live/binhdinhtv/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://cmcdp1.vtvdigital.vn/live/gialaitv/playlist.m3u8
 
-#EXTINF:32,KHANH HOA (NO LINK)
+#EXTINF:32,KHANH HOAtv.ktv.org.vn
 #EXTVLCOPT:network-caching=1000
-https://60acee235f4d5.streamlock.net/live/mystream/playlist.m3u8
+https://tv.ktv.org.vn/ktv.m3u8
+#EXTINF:10,KTV-HD
+#EXTVLCOPT:network-caching=1000
+
 #EXTINF:32,NINH THUAN_NTV
 #EXTVLCOPT:network-caching=1000
 https://60acee235f4d5.streamlock.net/live/mystream/playlist.m3u8
@@ -467,11 +470,7 @@ https://1011154949.vnns.net/CDN-FPT/HTV9-HD-ABR/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://1011154949.vnns.net/CDN-FPT/HTV-THETHAO-HD-1080p/playlist.m3u8
 
-#EXTINF:120,tv.ktv.org.vn
-#EXTVLCOPT:network-caching=1000
-https://tv.ktv.org.vn/ktv.m3u8
-#EXTINF:10,KTV-HD
-#EXTVLCOPT:network-caching=1000
+
 #EXTINF:10,SCTV2
 #EXTVLCOPT:network-caching=1000
 https://lsm-hlc.tv360.vn:18443/343.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5QmAVWgJ0NI8yUAIfjvqkdwo3aZCnukS5Q7+Eo0drdfFQT5HtI/kZ2VFyhiyY/h/s3UvbF7xy1YWPUR5UhU1KQ8IHoYYTZdOL/MZzxLOkAPv8H20oS8FoKGf64YPEC33SX6i1cssdKG55ElllwyY/9TDIb4qm27Q0L1q3YmhnGojA==&uid=24915856
