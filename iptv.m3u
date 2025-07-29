@@ -446,27 +446,26 @@ https://1011154949.vnns.net/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://1011154949.vnns.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 
-#EXTINF:12,HTV1-SD-ABR
+#EXTINF:12,HTV1 (720p)
 #EXTVLCOPT:network-caching=1000
-https://1011154949.vnns.net/CDN-FPT/HTV1-SD-ABR/playlist.m3u8
+https://vc.101vn.com/htv/htvcmb.php?id=2631
 #EXTINF:12,HTV2-HD-ABR
 #EXTVLCOPT:network-caching=1000
 https://1011154949.vnns.net/CDN-FPT/HTV2-HD-ABR/playlist.m3u8
-#EXTINF:12,HTV3-SD-ABR
+#EXTINF:12,HTV3 (576p) [Geo-blocked]
 #EXTVLCOPT:network-caching=1000
-https://1011154949.vnns.net/CDN-FPT/HTV3-SD-ABR/playlist.m3u8
+https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8
 #EXTINF:12,HTV4-SD-ABR_KEYs
 #EXTVLCOPT:network-caching=1000
 https://1011154949.vnns.net/CDN-FPT/HTV4-SD-ABR/playlist.m3u8
 #EXTINF:12,HTV7-HD-1080p
 #EXTVLCOPT:network-caching=1000
-https://1011154949.vnns.net/CDN-FPT/HTV7-HD-1080p/playlist.m3u8
-#EXTINF:12,HTV9-HD-ABR
+#EXTINF:12,HTV9 (576p)
 #EXTVLCOPT:network-caching=1000
-https://1011154949.vnns.net/CDN-FPT/HTV9-HD-ABR/playlist.m3u8
-#EXTINF:12,HTV-THETHAO-HD-1080p
+http://125hvt.ddns.net:21585/htv9/index.m3u8
+#EXTINF:12,HTV-THETHAO-HD-1080p HTV Sports (1080p) [Geo-blocked]
 #EXTVLCOPT:network-caching=1000
-https://1011154949.vnns.net/CDN-FPT/HTV-THETHAO-HD-1080p/playlist.m3u8
+https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 
 #EXTINF:10,SCTV2
 #EXTVLCOPT:network-caching=1000
@@ -501,3 +500,17 @@ https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:10,Bloomberg TV Asia Live Event (720p)
 #EXTVLCOPT:network-caching=1000
 https://bloomberg.com/media-manifest/streams/asia-event.m3u8
+
+#EXTINF:10,ON Football
+#EXTVLCOPT:network-caching=1000
+http://dvrfl05.bozztv.com/vch_vchannel11/index.m3u8
+#EXTINF:10,ON Style TV
+#EXTVLCOPT:network-caching=1000
+http://dvrfl05.bozztv.com/vch_vchannel10/index.m3u8
+#EXTINF:10,ON Vie Drama
+#EXTVLCOPT:network-caching=1000
+http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8
+
+#EXTINF:10,SCTV6 (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8
