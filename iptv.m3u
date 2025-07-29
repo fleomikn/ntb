@@ -468,54 +468,29 @@ https://1011154949.vnns.net/CDN-FPT/HTV9-HD-ABR/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://1011154949.vnns.net/CDN-FPT/HTV-THETHAO-HD-1080p/playlist.m3u8
 
-
 #EXTINF:10,SCTV2
 #EXTVLCOPT:network-caching=1000
-https://lsm-hlc.tv360.vn:18443/343.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5QmAVWgJ0NI8yUAIfjvqkdwo3aZCnukS5Q7+Eo0drdfFQT5HtI/kZ2VFyhiyY/h/s3UvbF7xy1YWPUR5UhU1KQ8IHoYYTZdOL/MZzxLOkAPv8H20oS8FoKGf64YPEC33SX6i1cssdKG55ElllwyY/9TDIb4qm27Q0L1q3YmhnGojA==&uid=24915856
 #EXTINF:10,SCTV6
 #EXTVLCOPT:network-caching=1000
-https://lsm-g11.tv360.vn:18443/297.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5QBXW6djzFQA1kJzBFXzr51zP+06fxRx06psj8DkZFQObeFlP7Y2j2abMV9dLT0nkn9XUdLC621wxMf92Vaa4ihVAC4qN7ksukc1zwVz9KdmoCmEgN+0LgCksOfiSFma9soeMUTJZGZM7whErYoHxGAE38f5+4QPuiZ1a/z63ZPUQ==&uid=24915856
-
 #EXTINF:10,VTVCab5-E Channel
 #EXTVLCOPT:network-caching=1000
-https://fo-hlc.tv360.vn/bpk-tv/212/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDQxNTU4ODIsInVyaSI6Ii9icGstdHYvMjEyL291dHB1dC9pbmRleC5tM3U4In0.jrog3ubtcDaE5Absoi5ztzBFrQwQb9QDqmlo7Tjf93Y&minrate=0&maxrate=10000000&uid=24915856
-
 #EXTINF:10,VTVCab1-Vie Giai tri
 #EXTVLCOPT:network-caching=1000
-https://fo-hlc.tv360.vn/bpk-tv/211/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDQxNTU3MjYsInVyaSI6Ii9icGstdHYvMjExL291dHB1dC9pbmRleC5tM3U4In0.rKdFP6jao2s2drEM8BudVr56hcZK-wq0qYrjonhnLKU&minrate=0&maxrate=10000000&uid=24915856
-
 #EXTINF:10,Outdoor
 #EXTVLCOPT:network-caching=1000
-https://lsm-g11.tv360.vn:18443/146.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5TqUyXju/+STp/UBZZItK+pEb97wGHSpgg1RK9YIcxOuilMHdoRHGFcUEkreQyGnFQOXURxHEaFAgE0P1ifikrHO6dTrYwPe1h8JfSV6R7kg2E9ak6Ln6BO7fe7f8HjTeQpfeRaCwYN3uDD2Lyz/EKn501MklNoVPTOdJnJZLfckw==&uid=24915856
-
 #EXTINF:10,AFN
 #EXTVLCOPT:network-caching=1000
-https://lsm-g11.tv360.vn:18443/178.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5TqUyXju/+STp/UBZZItK+pCcebmgwdh08MXYxZQvedIcUKLYwqFYYuFkRVev9dk3o1VtPZv/tUB+9Fu0/quZzypUQfFpM9P0GKj3WAvMNesxFiK/9yhAKwxndKyjcPv8FlLWDOL8XN2D2DqhrykTXgNDQBKRLHqrSkSN5TmXLYOQ==&uid=24915856
-
 #EXTINF:10,HGTV
 #EXTVLCOPT:network-caching=1000
-https://fo-hlc.tv360.vn/bpk-tv/295/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDQxNTQ4NDcsInVyaSI6Ii9icGstdHYvMjk1L291dHB1dC9pbmRleC5tcGQifQ.qs74RGxoAI3cAH2QEvi8Ldyh0OeY_8cVWI0pk8E9CS8&minrate=0&maxrate=10000000&uid=24915856
-
 #EXTINF:10,KBS World
 #EXTVLCOPT:network-caching=1000
-https://fo-hlc.tv360.vn/bpk-tv/422/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDQxNTM4MjEsInVyaSI6Ii9icGstdHYvNDIyL291dHB1dC9pbmRleC5tM3U4In0.AjTdI2XrxFmZi1_NO5YF6X7ZLp29E_pGoM1rjVGicTY&minrate=0&maxrate=10000000&uid=24915856
-
 #EXTINF:10,FRANCE 24
 #EXTVLCOPT:network-caching=1000
-https://fo-hlc.tv360.vn/bpk-tv/287/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDQxNTM4MjEsInVyaSI6Ii9icGstdHYvMjg3L291dHB1dC9pbmRleC5tM3U4In0.XhMhnc0r5E2h7ZkRfJN8fi6PoQv_DW9OjYWAYWhAByw&minrate=0&maxrate=10000000&uid=24915856
-
 #EXTINF:10,TV5 Monde
 #EXTVLCOPT:network-caching=1000
-https://fo-hlc.tv360.vn/bpk-tv/24/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDQxNTM3OTQsInVyaSI6Ii9icGstdHYvMjQvb3V0cHV0L2luZGV4Lm0zdTgifQ.rQz26jCXT2KqnGnr1aisj1s1MPH2-UCtFkTy8XZd6Gg&minrate=0&maxrate=10000000&uid=24915856
-
 #EXTINF:10,CNBC
 #EXTVLCOPT:network-caching=1000
-https://fo-hlc.tv360.vn/bpk-tv/293/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDQxNTUwMTgsInVyaSI6Ii9icGstdHYvMjkzL291dHB1dC9pbmRleC5tM3U4In0._lUjBMIlFw-XfnG_HQ8_GCtPQ7iIJT-Ijem2RAMJ2HU&minrate=0&maxrate=10000000&uid=24915856
-
 #EXTINF:10,HISTORY
 #EXTVLCOPT:network-caching=1000
-https://fo-hlc.tv360.vn/bpk-tv/191/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDQxNTUwOTAsInVyaSI6Ii9icGstdHYvMTkxL291dHB1dC9pbmRleC5tM3U4In0.4XyyzMLapJzav3QfpO5rB03mSsRP9CbvaU6qFS6vzA0&minrate=0&maxrate=10000000&uid=24915856
-
 #EXTINF:10,KIX
 #EXTVLCOPT:network-caching=1000
-https://fo-hlc.tv360.vn/bpk-tv/166/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3NDQxNTM3OTQsInVyaSI6Ii9icGstdHYvMTY2L291dHB1dC9pbmRleC5tM3U4In0.-8PdwZADA25lGzGAln96BDoh3XJCclDmnevlCupZxgs&minrate=0&maxrate=10000000&uid=24915856
