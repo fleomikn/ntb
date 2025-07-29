@@ -49,30 +49,34 @@ https://vtvgolive-webvtv.vtvdigital.vn/Ij-b3whGnNDEJy-eMQrPtA/1762107681/vtvgo/v
 #EXTVLCOPT:network-caching=1000
 https://vtvgolive-webvtv.vtvdigital.vn/Ij-b3whGnNDEJy-eMQrPtA/1762107681/vtvgo/vtv5tn-360p.m3u8
 
-#EXTINF:6,VTV6 CT-HD-GO_720
+#EXTINF:6,VTV6 CT(HD)_GO_720
 #EXTVLCOPT:network-caching=1000
 https://vtvgolive-webvtv.vtvdigital.vn/Fpz1lILGidyTO33Yx-SxGA/1762108352/vtvgo/vtv6-720p.m3u8
-#EXTINF:6,VTV6 CT_360
+#EXTINF:6,VTV6 CT_GO_360
 #EXTVLCOPT:network-caching=1000
 https://vtvgolive-webvtv.vtvdigital.vn/Fpz1lILGidyTO33Yx-SxGA/1762108352/vtvgo/vtv6-360p.m3u8
-#EXTINF:7,VTV7-HD-GO_720
+
+#EXTINF:7,VTV7(HD)_GO_720
 #EXTVLCOPT:network-caching=1000
 https://vtvgolive-webvtv.vtvdigital.vn/47GHszepQOSKYsMMtV28sA/1762108223/vtvgo/vtv7-720p.m3u8
-#EXTINF:7,VTV7_360
+#EXTINF:7,VTV7_GO_360
 #EXTVLCOPT:network-caching=1000
 https://vtvgolive-webvtv.vtvdigital.vn/47GHszepQOSKYsMMtV28sA/1762108223/vtvgo/vtv7-360p.m3u8
-#EXTINF:8,VTV8-HD-GO_720
+
+#EXTINF:8,VTV8(HD)_GO_720
 #EXTVLCOPT:network-caching=1000
 https://vtvgolive-webvtv.vtvdigital.vn/YtMk4J2U1rBl2ct5CS23BA/1762108246/vtvgo/vtv8-720p.m3u8
-#EXTINF:8,VTV8_360
+#EXTINF:8,VTV8_GO_360
 #EXTVLCOPT:network-caching=1000
 https://vtvgolive-webvtv.vtvdigital.vn/YtMk4J2U1rBl2ct5CS23BA/1762108246/vtvgo/vtv8-360p.m3u8
-#EXTINF:9,VTV9-HD-GO_720
+
+#EXTINF:9,VTV9(HD)_GO_720
 #EXTVLCOPT:network-caching=1000
 https://vtvgolive-webvtv.vtvdigital.vn/JMmx_57hxxdGoSN0VBJ5gw/1762108320/vtvgo/vtv9-720p.m3u8
-#EXTINF:9,VTV9_360
+#EXTINF:9,VTV9_GO_360
 #EXTVLCOPT:network-caching=1000
 https://vtvgolive-webvtv.vtvdigital.vn/JMmx_57hxxdGoSN0VBJ5gw/1762108320/vtvgo/vtv9-360p.m3u8
+
 #EXTINF:1,VTV1 AI-HD-GO_720
 #EXTVLCOPT:network-caching=1000
 https://vtvgolive-ssai.vtvdigital.vn/ZllAtFIpXOrGFGo2RPG_mA/1744288406/manifest/vtv1-ai/playlistvtv1-ai_720p.m3u8
