@@ -1,7 +1,11 @@
 #EXTM3U
-#EXTINF:1,VTV1-HD-ABR
+#EXTINF:1,VTV1-HD-GO_720
 #EXTVLCOPT:network-caching=1000
-https://1011154949.vnns.net/CDN-FPT/VTV1-HD-ABR/playlist.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/6-O4XHozY0_QoBl-NMCpaA/1753813592/manifest/vtv1/playlist_720p.m3u8
+#EXTINF:1,VTV1-HD_720
+#EXTVLCOPT:network-caching=1000
+
+https://cdn-live.vtv.vn/uLSjISIs0oFCVFyfqeEh0A/1753804745/live/vtv1/vtv1-720p.m3u8
 #EXTINF:2,VTV2-HD-GO_720
 #EXTVLCOPT:network-caching=1000
 https://vtvgolive-webvtv.vtvdigital.vn/YaZz4j9XYN8E6vzh9HVWxA/1762107104/vtvgo/vtv2-720p.m3u8
