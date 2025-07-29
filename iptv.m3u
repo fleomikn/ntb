@@ -4,10 +4,10 @@
 https://1011154949.vnns.net/CDN-FPT/VTV1-HD-ABR/playlist.m3u8
 #EXTINF:1,VTV1-HD-GO_720
 #EXTVLCOPT:network-caching=1000
-#_ERR https://vtvgolive-ssai.vtvdigital.vn/ejPqrELTrUb9IbiKWLDnnA/1744286776/manifest/vtv1/playlist_720p.m3u8
+#"_ERR https://vtvgolive-ssai.vtvdigital.vn/ejPqrELTrUb9IbiKWLDnnA/1744286776/manifest/vtv1/playlist_720p.m3u8"
 #EXTINF:1,VTV1-GO_360
 #EXTVLCOPT:network-caching=1000
-#_ERR https://vtvgolive-ssai.vtvdigital.vn/ejPqrELTrUb9IbiKWLDnnA/1744286776/manifest/vtv1/playlist_360p.m3u8
+#"_ERR https://vtvgolive-ssai.vtvdigital.vn/ejPqrELTrUb9IbiKWLDnnA/1744286776/manifest/vtv1/playlist_360p.m3u8"
 #EXTINF:2,VTV2-HD-GO_720
 #EXTVLCOPT:network-caching=1000
 https://vtvgolive-webvtv.vtvdigital.vn/YaZz4j9XYN8E6vzh9HVWxA/1762107104/vtvgo/vtv2-720p.m3u8
