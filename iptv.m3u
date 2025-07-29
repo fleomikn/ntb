@@ -49,10 +49,10 @@ https://vtvgolive-webvtv.vtvdigital.vn/Ij-b3whGnNDEJy-eMQrPtA/1762107681/vtvgo/v
 #EXTVLCOPT:network-caching=1000
 https://vtvgolive-webvtv.vtvdigital.vn/Ij-b3whGnNDEJy-eMQrPtA/1762107681/vtvgo/vtv5tn-360p.m3u8
 
-#EXTINF:6,VTV6 CT(HD)_GO_720
+#EXTINF:6,VTV CT(HD)_GO_720
 #EXTVLCOPT:network-caching=1000
 https://vtvgolive-webvtv.vtvdigital.vn/Fpz1lILGidyTO33Yx-SxGA/1762108352/vtvgo/vtv6-720p.m3u8
-#EXTINF:6,VTV6 CT_GO_360
+#EXTINF:6,VTV CT_GO_360
 #EXTVLCOPT:network-caching=1000
 https://vtvgolive-webvtv.vtvdigital.vn/Fpz1lILGidyTO33Yx-SxGA/1762108352/vtvgo/vtv6-360p.m3u8
 
@@ -77,87 +77,125 @@ https://vtvgolive-webvtv.vtvdigital.vn/JMmx_57hxxdGoSN0VBJ5gw/1762108320/vtvgo/v
 #EXTVLCOPT:network-caching=1000
 https://vtvgolive-webvtv.vtvdigital.vn/JMmx_57hxxdGoSN0VBJ5gw/1762108320/vtvgo/vtv9-360p.m3u8
 
-#EXTINF:1,VTV1 AI-HD-GO_720
+#EXTINF:30,HA NOI1_H1
 #EXTVLCOPT:network-caching=1000
-https://vtvgolive-ssai.vtvdigital.vn/ZllAtFIpXOrGFGo2RPG_mA/1744288406/manifest/vtv1-ai/playlistvtv1-ai_720p.m3u8
-#EXTINF:1,VTV1 AI_480
+https://cmcdp2.vtvdigital.vn/hls/HANOI1TV/index.m3u8
+#EXTINF:30,HA NOI2_H2
 #EXTVLCOPT:network-caching=1000
-https://vtvgolive-ssai.vtvdigital.vn/ZllAtFIpXOrGFGo2RPG_mA/1744288406/manifest/vtv1-ai/playlistvtv1-ai_480p.m3u8
-#EXTINF:3,VTV3 AI-HD-GO_720
+https://cmcdp3.vtvdigital.vn/hls/HANOI2TV/index.m3u8
+
+#EXTINF:32,HUE_HUE TV
 #EXTVLCOPT:network-caching=1000
-https://vtvgolive-ssai.vtvdigital.vn/HW6geBj8ho67i8XgIM5P_g/1744288444/manifest/vtv3-ai/playlistvtv3-ai_720p.m3u8
-#EXTINF:3,VTV3 AI_480
+https://live.huetv.com.vn/TRT-Online/playlist.m3u8
+
+#EXTINF:32,LAI CHAU_LTV
 #EXTVLCOPT:network-caching=1000
-https://vtvgolive-ssai.vtvdigital.vn/HW6geBj8ho67i8XgIM5P_g/1744288444/manifest/vtv3-ai/playlistvtv3-ai_480p.m3u8
-#EXTINF:10,AN GIANG_ATV
+https://cmcdp2.vtvdigital.vn/hls/LAICHAUTV/index.m3u8
+
+#EXTINF:26,DIEN BIEN_ĐTV
 #EXTVLCOPT:network-caching=1000
-https://cmcdp3.vtvdigital.vn/hls/ANGIANGTV/index.m3u8
-#EXTINF:10,AN GIANG_ATV_angiang.720p
+https://cmcdp1.vtvdigital.vn/live/dienbientv/playlist.m3u8
+
+#EXTINF:20,SON LA_STV
 #EXTVLCOPT:network-caching=1000
-https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDQxMjM2MjcsInVyaSI6IlwvaHR2Y1wvYW5naWFuZy43MjBwLmFkbS50bXMiLCJpcCI6IiJ9.yEAin4r3ZNA6RHPMKnMrZ8Mo_lRcRJe1aM12J8KIde8-/htvc/angiang.720p.adm.tms/playlist.m3u8
-#EXTINF:16,BA RIA-VUNG TAU_BRT
+https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/playlist.m3u8
+
+#EXTINF:20,QUANG NINH_QTV_ERR
 #EXTVLCOPT:network-caching=1000
-https://cmcdp2.vtvdigital.vn/hls/VUNGTAUTV/index.m3u8
-#EXTINF:16,BA RIA-VUNG TAU_BRT_brvt.720p
+https://cmcdp1.vtvdigital.vn/live/quangbinhtv/playlist.m3u8
+
+#EXTINF:20,THANH HOA_TTV
 #EXTVLCOPT:network-caching=1000
-https://1011337676.vnns.net/htvc/brvt.720p.adm.tms/playlist.m3u8
-#EXTINF:16,BA RIA-VUNG TAU_BRT_brvt.720p(1)
+https://cmcdp.vtvdigital.vn/live/thanhhoatv/playlist.m3u8
+#EXTINF:20,THANH HOA_TTV_HLS
 #EXTVLCOPT:network-caching=1000
-https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDQxMjQwMTAsInVyaSI6IlwvaHR2Y1wvYnJ2dC43MjBwLmFkbS50bXMiLCJpcCI6IiJ9.g1HumJCc7YjAGiiw_8KFiCyZWlG7WQDKRlrOq3gbQtU-/htvc/brvt.720p.adm.tms/playlist.m3u8
+https://cmcdp3.vtvdigital.vn/hls/THANHHOATV/index.m3u8
+
+#EXTINF:32,NGHE AN_NTV
+#EXTVLCOPT:network-caching=1000
+https://cmcdp2.vtvdigital.vn/hls/NGHEANTV/index.m3u8
+
+#EXTINF:32,HA TINH_HTTV_hatinh.480p
+#EXTVLCOPT:network-caching=1000
+https://1011337676.vnns.net/htvc/hatinh.480p.fpt.tms/playlist.m3u8
+
+#EXTINF:32,CAO BANG (NO LINK)
+#EXTVLCOPT:network-caching=1000
+https://1011337676.vnns.net/htvc/hatinh.480p.fpt.tms/playlist.m3u8
+
+#EXTINF:20,TUYEN QUANG_TTV
+#EXTVLCOPT:network-caching=1000
+https://cmcdp1.vtvdigital.vn/live/tuyenquangtv/playlist.m3u8
+#EXTINF:20,HA GIANG_HGTV
+#EXTVLCOPT:network-caching=1000
+https://cmcdp3.vtvdigital.vn/hls/HAGIANGTV/index.m3u8
+
+#EXTINF:32,YEN BAI (NO LINK)
+#EXTVLCOPT:network-caching=1000
+https://cmcdp1.vtvdigital.vn/live/laocaitv/playlist.m3u8
+
+#EXTINF:32,LAO CAI_THLC
+#EXTVLCOPT:network-caching=1000
+https://cmcdp1.vtvdigital.vn/live/laocaitv/playlist.m3u8
+
+#EXTINF:20,THAI NGUYEN_TN1
+#EXTVLCOPT:network-caching=1000
+https://cmcdp2.vtvdigital.vn/hls/THAINGUYENTV/index.m3u8
+#EXTINF:20,BAC KAN_TBK
+#EXTVLCOPT:network-caching=1000
+https://cmcdp.vtvdigital.vn/live/backantv/playlist.m3u8
+
+#EXTINF:32,PHU THO_PTV
+#EXTVLCOPT:network-caching=1000
+https://cmcdp3.vtvdigital.vn/hls/PHUTHOTV/index.m3u8
+#EXTINF:32,VINH PHUC_VP
+#EXTVLCOPT:network-caching=1000
+https://cmcdp2.vtvdigital.vn/hls/VINHPHUCTV/index.m3u8
+#EXTINF:32,VINH PHUC_VP_vinhphuc.480p
+#EXTVLCOPT:network-caching=1000
+https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDQxMjUxNjQsInVyaSI6IlwvaHR2Y1wvdmluaHBodWMuNDgwcC5mcHQudG1zIiwiaXAiOiIifQ.iMRiWZZNQRMF6V6HMjhrfKnquipRyeOx2BD2SVeOjbg-/htvc/vinhphuc.480p.fpt.tms/playlist.m3u8
+#EXTINF:32,HOA BINH_HBTV
+#EXTVLCOPT:network-caching=1000
+https://cmcdp.vtvdigital.vn/live/hoabinhtv/playlist.m3u8
+
 #EXTINF:11,BAC GIANG_BGTV
 #EXTVLCOPT:network-caching=1000
 https://cmcdp3.vtvdigital.vn/hls/BACGIANGTV/index.m3u8
-#EXTINF:12,BAC NINH_BTV
+#EXTINF:11,BAC NINH_BTV
 #EXTVLCOPT:network-caching=1000
 https://cmcdp3.vtvdigital.vn/hls/BACNINHTV/index.m3u8
-#EXTINF:13,BAC KAN_TBK
+
+#EXTINF:32,HUNG YEN_HY
 #EXTVLCOPT:network-caching=1000
-https://cmcdp.vtvdigital.vn/live/backantv/playlist.m3u8
-#EXTINF:14,BAC LIEU_BTV
+https://cmcdp3.vtvdigital.vn/hls/HUNGYENTV/index.m3u8
+#EXTINF:32,THAI BINH_TBTV
 #EXTVLCOPT:network-caching=1000
-https://cmcdp3.vtvdigital.vn/hls/BACLIEUTV/index.m3u8
-#EXTINF:14,BAC LIEU_BTV_baclieu1.480p
+https://cmcdp2.vtvdigital.vn/hls/THAIBINHTV/index.m3u8
+
+#EXTINF:30,HAI PHONG (NO LINK)
 #EXTVLCOPT:network-caching=1000
-https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDQxMjM3NjcsInVyaSI6IlwvaHR2Y1wvYmFjbGlldTEuNDgwcC5hZG0udG1zIiwiaXAiOiIifQ.8ju9p0lrHMpCeV12ExF7fQj3HNNwz5cwUEueKyXHo6M-/htvc/baclieu1.480p.adm.tms/playlist.m3u8
-#EXTINF:15,BEN TRE_THBT
+https://6241b84c81fd8af.cmccloud.com.vn/HaiduongTV/haiduongtv1.m3u8
+#EXTINF:30,HAI DUONG_THD
 #EXTVLCOPT:network-caching=1000
-https://cmcdp.vtvdigital.vn/live/bentretv/playlist.m3u8
-#EXTINF:15,BEN TRE_THBT_bentre.adm.480p
+https://6241b84c81fd8af.cmccloud.com.vn/HaiduongTV/haiduongtv1.m3u8
+
+#EXTINF:32,NINH BINH_NBTV
 #EXTVLCOPT:network-caching=1000
-https://htvc271120.cdn.vnns.io/bentre.adm.480p.tms/playlist.m3u8
-#EXTINF:17,BINH THUAN_BTV
+https://cmcdp3.vtvdigital.vn/hls/NINHBINHTV/index.m3u8
+#EXTINF:32,NAM DINH_NTV
 #EXTVLCOPT:network-caching=1000
-https://cmcdp2.vtvdigital.vn/hls/BINHTHUANTV/index.m3u8
-#EXTINF:17,BINH THUAN_BTV_binhthuansd.720p
+https://cmcdp2.vtvdigital.vn/hls/NAMDINHTV/index.m3u8
+#EXTINF:32,HA NAM (NO LINK)
 #EXTVLCOPT:network-caching=1000
-https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDQxMjM4NjIsInVyaSI6IlwvaHR2Y1wvYmluaHRodWFuc2QuNzIwcC50bXMiLCJpcCI6IiJ9.3JLb1dUqPo4v1PpuxFGFNRGqu5FfV3odKg_5Iavritc-/htvc/binhthuansd.720p.tms/playlist.m3u8
-#EXTINF:18,BINH DINH_BTV
+https://cmcdp2.vtvdigital.vn/hls/NAMDINHTV/index.m3u8
+
+#EXTINF:20,QUANG BINH_QBTV
 #EXTVLCOPT:network-caching=1000
-https://cmcdp.vtvdigital.vn/live/binhdinhtv/playlist.m3u8
-#EXTINF:19,BINH DUONG 1_BTV1
+https://cmcdp1.vtvdigital.vn/live/quangbinhtv/playlist.m3u8
+#EXTINF:20,QUANG TRI_QRTV
 #EXTVLCOPT:network-caching=1000
-https://cmcdp2.vtvdigital.vn/hls/BINHDUONGTV/index.m3u8
-#EXTINF:19,BINH DUONG 1_BTV1_btv1.480p
-#EXTVLCOPT:network-caching=1000
-https://htvc271120.cdn.vnns.io/93272b069e98bca9c98f6a421b7f53be1744728043/btv1.480p.tms/playlist.m3u8
-#EXTINF:20,BINH PHUOC_BPTV1
-#EXTVLCOPT:network-caching=1000
-https://cmcdp2.vtvdigital.vn/hls/BINHPHUOCTV/index.m3u8
-#EXTINF:20,BINH PHUOC_BPTV1_binhphuoc1sd.720p
-#EXTVLCOPT:network-caching=1000
-https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDQxMjM5MzEsInVyaSI6IlwvaHR2Y1wvYmluaHBodW9jMXNkLjcyMHAuYWRtLnRtcyIsImlwIjoiIn0.gxKoPkg0pBrNS_aH4p50d0Fw2svB43s_Az4FWDLB_Jk-/htvc/binhphuoc1sd.720p.adm.tms/playlist.m3u8
-#EXTINF:21,CA MAU_CTV
-#EXTVLCOPT:network-caching=1000
-https://cmcdp.vtvdigital.vn/live/camautv/playlist.m3u8
-#EXTINF:21,CA MAU_CTV_camau.720p
-#EXTVLCOPT:network-caching=1000
-https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDQxMjQxNzAsInVyaSI6IlwvaHR2Y1wvY2FtYXUuNzIwcC5uYi5hZG0udG1zIiwiaXAiOiIifQ.AmjalssYBLbo1g9Wzuc6jhD8uJTDOFJmhJMe9Iv0HZU-/htvc/camau.720p.nb.adm.tms/playlist.m3u8
-#EXTINF:22,CAN THO_THTPCT
-#EXTVLCOPT:network-caching=1000
-https://live.canthotv.vn/live/tv_web/playlist.m3u8
-#EXTINF:22,CAN THO_THTPCT_cantho.720p
-#EXTVLCOPT:network-caching=1000
-https //1011337676.vnns.net/htvc/cantho.720p.adm.tms/playlist.m3u8
+https://cmcdp1.vtvdigital.vn/live/quangtritv/playlist.m3u8
+
 #EXTINF:23,DA NANG_DANANG TV1
 #EXTVLCOPT:network-caching=1000
 https://cmcdp3.vtvdigital.vn/hls/DANANGTV/index.m3u8
@@ -167,30 +205,76 @@ https://1011337676.vnns.net/htvc/danang1sd.720.adm.tms/playlist.m3u8
 #EXTINF:23,DA NANG_DANANG TV2_danang2.480p
 #EXTVLCOPT:network-caching=1000
 https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDQxMjQ4NjIsInVyaSI6IlwvaHR2Y1wvZGFuYW5nMi40ODBwLmZwdC50bXMiLCJpcCI6IiJ9.qa3kgASkBEvZhrDDlQk9yViGPPrFleQc_EpQ03_EgVw-/htvc/danang2.480p.fpt.tms/playlist.m3u8
+#EXTINF:23,QUANG NAM_QRT
+#EXTVLCOPT:network-caching=1000
+https://cmcdp1.vtvdigital.vn/live/quangnamtv/playlist.m3u8
+
+#EXTINF:20,QUANG NGAI_PTQ
+#EXTVLCOPT:network-caching=1000
+https://cmcdp.vtvdigital.vn/live/quangngaitv/playlist.m3u8
+#EXTINF:20,KOM TUM_KRT
+#EXTVLCOPT:network-caching=1000
+https://cmcdp.vtvdigital.vn/live/kontumtv/playlist.m3u8
+
+#EXTINF:18,BINH DINH_BTV
+#EXTVLCOPT:network-caching=1000
+https://cmcdp.vtvdigital.vn/live/binhdinhtv/playlist.m3u8
+#EXTINF:18,GIA LAI_THGL
+#EXTVLCOPT:network-caching=1000
+https://cmcdp1.vtvdigital.vn/live/gialaitv/playlist.m3u8
+
+#EXTINF:32,KHANH HOA (NO LINK)
+#EXTVLCOPT:network-caching=1000
+https://60acee235f4d5.streamlock.net/live/mystream/playlist.m3u8
+#EXTINF:32,NINH THUAN_NTV
+#EXTVLCOPT:network-caching=1000
+https://60acee235f4d5.streamlock.net/live/mystream/playlist.m3u8
+
+#EXTINF:32,LAM DONG_LTV
+#EXTVLCOPT:network-caching=1000
+https://cmcdp1.vtvdigital.vn/live/lamdongtv/playlist.m3u8
+#EXTINF:32,LAM DONG_LTV_lamdong.480p.fpt
+#EXTVLCOPT:network-caching=1000
+https://1011337676.vnns.net/htvc/lamdong.480p.fpt.tms/playlist.m3u8
+#EXTINF:32,DAK NONG_PTD
+#EXTVLCOPT:network-caching=1000
+https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8
+#EXTINF:25,DAK NONG_PTD_dacnong.480p
+#EXTVLCOPT:network-caching=1000
+https://1011337676.vnns.net/htvc/dacnong.480p.fpt.tms/playlist.m3u8
+#EXTINF:32,BINH THUAN_BTV
+#EXTVLCOPT:network-caching=1000
+https://cmcdp2.vtvdigital.vn/hls/BINHTHUANTV/index.m3u8
+#EXTINF:32,BINH THUAN_BTV_binhthuansd.720p
+#EXTVLCOPT:network-caching=1000
+https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDQxMjM4NjIsInVyaSI6IlwvaHR2Y1wvYmluaHRodWFuc2QuNzIwcC50bXMiLCJpcCI6IiJ9.3JLb1dUqPo4v1PpuxFGFNRGqu5FfV3odKg_5Iavritc-/htvc/binhthuansd.720p.tms/playlist.m3u8
+
 #EXTINF:24,DAK LAK_DRT
 #EXTVLCOPT:network-caching=1000
 https://cmcdp.vtvdigital.vn/live/daklaktv/playlist.m3u8
 #EXTINF:24,DAK LAK_DRT_daklak.480p
 #EXTVLCOPT:network-caching=1000
 https://1011337676.vnns.net/htvc/daklak.480p.fpt.tms/playlist.m3u8
-#EXTINF:25,DAK NONG_PTD
+#EXTINF:24,PHU YEN_PTP
 #EXTVLCOPT:network-caching=1000
-https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8
-#EXTINF:25,DAK NONG_PTD_dacnong.480p
+https://cmcdp.vtvdigital.vn/live/phuyentv/playlist.m3u8
+
+#EXTINF:16,BA RIA-VUNG TAU_BRT
 #EXTVLCOPT:network-caching=1000
-https://1011337676.vnns.net/htvc/dacnong.480p.fpt.tms/playlist.m3u8
-#EXTINF:26,DIEN BIEN_ĐTV
+https://cmcdp2.vtvdigital.vn/hls/VUNGTAUTV/index.m3u8
+#EXTINF:16,BA RIA-VUNG TAU_BRT_brvt.720p
 #EXTVLCOPT:network-caching=1000
-https://cmcdp1.vtvdigital.vn/live/dienbientv/playlist.m3u8
-#EXTINF:27,DONG THAP_THDT1
+https://1011337676.vnns.net/htvc/brvt.720p.adm.tms/playlist.m3u8
+#EXTINF:16,BA RIA-VUNG TAU_BRT_brvt.720p(1)
 #EXTVLCOPT:network-caching=1000
-https://cmcdp3.vtvdigital.vn/hls/DONGTHAPTV/index.m3u8
-#EXTINF:27,DONG THAP1_THDT1_DONGTHAP-SD-ABR
+https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDQxMjQwMTAsInVyaSI6IlwvaHR2Y1wvYnJ2dC43MjBwLmFkbS50bXMiLCJpcCI6IiJ9.g1HumJCc7YjAGiiw_8KFiCyZWlG7WQDKRlrOq3gbQtU-/htvc/brvt.720p.adm.tms/playlist.m3u8
+#EXTINF:19,BINH DUONG 1_BTV1
 #EXTVLCOPT:network-caching=1000
-https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDQxMjQzNDcsInVyaSI6IlwvQ0ROLUZQVDAyXC9ET05HVEhBUC1TRC1BQlIiLCJpcCI6IiJ9.SkzP4YYi6Y-xC4gT3tB7cBo0alCy_NZtslTz7dapoFU-/CDN-FPT02/DONGTHAP-SD-ABR/playlist.m3u8
-#EXTINF:27,DONG THAP2 Mien Tay_mientay.480p
+https://cmcdp2.vtvdigital.vn/hls/BINHDUONGTV/index.m3u8
+#EXTINF:19,BINH DUONG 1_BTV1_btv1.480p
 #EXTVLCOPT:network-caching=1000
-https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDQxMjQ1MTcsInVyaSI6IlwvaHR2Y1wvbWllbnRheS40ODBwLmFkbS50bXMiLCJpcCI6IiJ9.9ykuxdlbggdcPMoFRkcQB6D-jJuQRu4AlN0QWgY_MiU-/htvc/mientay.480p.adm.tms/playlist.m3u8
+https://htvc271120.cdn.vnns.io/93272b069e98bca9c98f6a421b7f53be1744728043/btv1.480p.tms/playlist.m3u8
+
 #EXTINF:28,DONG NAI1_DN1RTV
 #EXTVLCOPT:network-caching=1000
 https://cmcdp3.vtvdigital.vn/hls/DONGNAITV/index.m3u8
@@ -200,138 +284,42 @@ https://1011154949.vnns.net/CDN-FPT/DONGNAI1-SD-ABR/playlist.m3u8
 #EXTINF:28,DONG NAI2_DN2RTV_dongnai2.adm.480p
 #EXTVLCOPT:network-caching=1000
 https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDQxMjQyMjEsInVyaSI6IlwvaHR2Y1wvZG9uZ25haTIuYWRtLjQ4MHAudG1zIiwiaXAiOiIifQ.SGkKsaCJIXadF77Ewv_cF9yMsZZYbyHEfbXHdKRFSGo-/htvc/dongnai2.adm.480p.tms/playlist.m3u8
-#EXTINF:29,GIA LAI_THGL
+#EXTINF:28,BINH PHUOC_BPTV1
 #EXTVLCOPT:network-caching=1000
-https://cmcdp1.vtvdigital.vn/live/gialaitv/playlist.m3u8
-#EXTINF:30,HA NOI1_H1
+https://cmcdp2.vtvdigital.vn/hls/BINHPHUOCTV/index.m3u8
+#EXTINF:28,BINH PHUOC_BPTV1_binhphuoc1sd.720p
 #EXTVLCOPT:network-caching=1000
-https://cmcdp2.vtvdigital.vn/hls/HANOI1TV/index.m3u8
-#EXTINF:30,HA NOI2_H2
-#EXTVLCOPT:network-caching=1000
-https://cmcdp3.vtvdigital.vn/hls/HANOI2TV/index.m3u8
-#EXTINF:32,HA GIANG_HGTV
-#EXTVLCOPT:network-caching=1000
-https://cmcdp3.vtvdigital.vn/hls/HAGIANGTV/index.m3u8
-#EXTINF:32,HA TINH_HTTV_hatinh.480p
-#EXTVLCOPT:network-caching=1000
-https://1011337676.vnns.net/htvc/hatinh.480p.fpt.tms/playlist.m3u8
-#EXTINF:30,HAI DUONG_THD
-#EXTVLCOPT:network-caching=1000
-https://6241b84c81fd8af.cmccloud.com.vn/HaiduongTV/haiduongtv1.m3u8
-#EXTINF:31,HOA BINH_HBTV
-#EXTVLCOPT:network-caching=1000
-https://cmcdp.vtvdigital.vn/live/hoabinhtv/playlist.m3u8
-#EXTINF:32,HAU GIANG_HGTV
-#EXTVLCOPT:network-caching=1000
-https://cmcdp.vtvdigital.vn/live/haugiangtv/playlist.m3u8
-#EXTINF:32,HAU GIANG_HGTV_haugiang.480p
-#EXTVLCOPT:network-caching=1000
-https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDQxMjQ1MjgsInVyaSI6IlwvaHR2Y1wvaGF1Z2lhbmcuNDgwcC50bXMiLCJpcCI6IiJ9.0a5Qvnb9UiLPmcNDQKpyr7TYdJGZ-0UJGfRL0n8CQGg-/htvc/haugiang.480p.tms/playlist.m3u8
-#EXTINF:32,HUNG YEN_HY
-#EXTVLCOPT:network-caching=1000
-https://cmcdp3.vtvdigital.vn/hls/HUNGYENTV/index.m3u8
-#EXTINF:32,HUE_HUE TV
-#EXTVLCOPT:network-caching=1000
-https://live.huetv.com.vn/TRT-Online/playlist.m3u8
-#EXTINF:32,KOM TUM_KRT
-#EXTVLCOPT:network-caching=1000
-https://cmcdp.vtvdigital.vn/live/kontumtv/playlist.m3u8
-#EXTINF:32,KIEN GIANG_KG PTTH
-#EXTVLCOPT:network-caching=1000
-https://cmcdp.vtvdigital.vn/live/kiengiangtv/playlist.m3u8
-#EXTINF:32,KIEN GIANG_KG PTTH_kiengiang.720p
-#EXTVLCOPT:network-caching=1000
-https://1011337676.vnns.net/htvc/kiengiang.720p.adm.tms/playlist.m3u8
-#EXTINF:32,LAO CAI_THLC
-#EXTVLCOPT:network-caching=1000
-https://cmcdp1.vtvdigital.vn/live/laocaitv/playlist.m3u8
-#EXTINF:32,LAI CHAU_LTV
-#EXTVLCOPT:network-caching=1000
-https://cmcdp2.vtvdigital.vn/hls/LAICHAUTV/index.m3u8
-#EXTINF:32,LAM DONG_LTV
-#EXTVLCOPT:network-caching=1000
-https://cmcdp1.vtvdigital.vn/live/lamdongtv/playlist.m3u8
-#EXTINF:32,LAM DONG_LTV_lamdong.480p.fpt
-#EXTVLCOPT:network-caching=1000
-https://1011337676.vnns.net/htvc/lamdong.480p.fpt.tms/playlist.m3u8
+https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDQxMjM5MzEsInVyaSI6IlwvaHR2Y1wvYmluaHBodW9jMXNkLjcyMHAuYWRtLnRtcyIsImlwIjoiIn0.gxKoPkg0pBrNS_aH4p50d0Fw2svB43s_Az4FWDLB_Jk-/htvc/binhphuoc1sd.720p.adm.tms/playlist.m3u8
+
 #EXTINF:32,LONG AN_LA34
 #EXTVLCOPT:network-caching=1000
 https://c93bf0533b8a44c.cmccloud.com.vn/LonganTV/longantv.m3u8
 #EXTINF:32,LONG AN_LA34_LONGAN-SD-ABR
 #EXTVLCOPT:network-caching=1000
 https://1011337676.vnns.net/CDN-FPT02/LONGAN-SD-ABR/playlist.m3u8
-#EXTINF:32,NAM DINH_NTV
-#EXTVLCOPT:network-caching=1000
-https://cmcdp2.vtvdigital.vn/hls/NAMDINHTV/index.m3u8
-#EXTINF:32,NGHE AN_NTV
-#EXTVLCOPT:network-caching=1000
-https://cmcdp2.vtvdigital.vn/hls/NGHEANTV/index.m3u8
-#EXTINF:32,NINH THUAN_NTV
-#EXTVLCOPT:network-caching=1000
-https://60acee235f4d5.streamlock.net/live/mystream/playlist.m3u8
-#EXTINF:32,NINH BINH_NBTV
-#EXTVLCOPT:network-caching=1000
-https://cmcdp3.vtvdigital.vn/hls/NINHBINHTV/index.m3u8
-#EXTINF:32,PHU THO_PTV
-#EXTVLCOPT:network-caching=1000
-https://cmcdp3.vtvdigital.vn/hls/PHUTHOTV/index.m3u8
-#EXTINF:32,PHU YEN_PTP
-#EXTVLCOPT:network-caching=1000
-https://cmcdp.vtvdigital.vn/live/phuyentv/playlist.m3u8
-#EXTINF:20,QUANG BINH_QBTV
-#EXTVLCOPT:network-caching=1000
-https://cmcdp1.vtvdigital.vn/live/quangbinhtv/playlist.m3u8
-#EXTINF:20,QUANG NINH_QTV_ERR
-#EXTVLCOPT:network-caching=1000
-https://cmcdp1.vtvdigital.vn/live/quangbinhtv/playlist.m3u8
-#EXTINF:20,QUANG NAM_QRT
-#EXTVLCOPT:network-caching=1000
-https://cmcdp1.vtvdigital.vn/live/quangnamtv/playlist.m3u8
-#EXTINF:20,QUANG NGAI_PTQ
-#EXTVLCOPT:network-caching=1000
-https://cmcdp.vtvdigital.vn/live/quangngaitv/playlist.m3u8
-#EXTINF:20,QUANG TRI_QRTV
-#EXTVLCOPT:network-caching=1000
-https://cmcdp1.vtvdigital.vn/live/quangtritv/playlist.m3u8
-#EXTINF:20,SON LA_STV
-#EXTVLCOPT:network-caching=1000
-https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/playlist.m3u8
-#EXTINF:20,SOC TRANG_STV1
-#EXTVLCOPT:network-caching=1000
-https://cmcdp2.vtvdigital.vn/hls/SOCTRANGTV/index.m3u8
-#EXTINF:20,TAY NINH_TTV11
+#EXTINF:32,TAY NINH_TTV11
 #EXTVLCOPT:network-caching=1000
 https://cmcdp2.vtvdigital.vn/hls/TAYNINHTV/index.m3u8
-#EXTINF:20,TAY NINH_TTV11_TAYNINH-HD-ABR
+#EXTINF:32,TAY NINH_TTV11_TAYNINH-HD-ABR
 #EXTVLCOPT:network-caching=1000
 https://1011154949.vnns.net/CDN-FPT/TAYNINH-HD-ABR/playlist.m3u8
-#EXTINF:20,THAI BINH_TBTV
+
+#EXTINF:22,CAN THO_THTPCT
 #EXTVLCOPT:network-caching=1000
-https://cmcdp2.vtvdigital.vn/hls/THAIBINHTV/index.m3u8
-#EXTINF:20,THAI NGUYEN_TN1
+https://live.canthotv.vn/live/tv_web/playlist.m3u8
+#EXTINF:22,CAN THO_THTPCT_cantho.720p
 #EXTVLCOPT:network-caching=1000
-https://cmcdp2.vtvdigital.vn/hls/THAINGUYENTV/index.m3u8
-#EXTINF:20,THANH HOA_TTV_HLS
+https //1011337676.vnns.net/htvc/cantho.720p.adm.tms/playlist.m3u8
+#EXTINF:22,HAU GIANG_HGTV
 #EXTVLCOPT:network-caching=1000
-https://cmcdp3.vtvdigital.vn/hls/THANHHOATV/index.m3u8
-#EXTINF:20,THANH HOA_TTV
+https://cmcdp.vtvdigital.vn/live/haugiangtv/playlist.m3u8
+#EXTINF:22,HAU GIANG_HGTV_haugiang.480p
 #EXTVLCOPT:network-caching=1000
-https://cmcdp.vtvdigital.vn/live/thanhhoatv/playlist.m3u8
-#EXTINF:20,TIEN GIANG_THTG
+https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDQxMjQ1MjgsInVyaSI6IlwvaHR2Y1wvaGF1Z2lhbmcuNDgwcC50bXMiLCJpcCI6IiJ9.0a5Qvnb9UiLPmcNDQKpyr7TYdJGZ-0UJGfRL0n8CQGg-/htvc/haugiang.480p.tms/playlist.m3u8
+#EXTINF:22,SOC TRANG_STV1
 #EXTVLCOPT:network-caching=1000
-https://cmcdp1.vtvdigital.vn/live/tiengiangtv/playlist.m3u8
-#EXTINF:20,TRA VINH_THTV
-#EXTVLCOPT:network-caching=1000
-https://cmcdp2.vtvdigital.vn/hls/TRAVINHTV/index.m3u8
-#EXTINF:20,TUYEN QUANG_TTV
-#EXTVLCOPT:network-caching=1000
-https://cmcdp1.vtvdigital.vn/live/tuyenquangtv/playlist.m3u8
-#EXTINF:20,VINH PHUC_VP
-#EXTVLCOPT:network-caching=1000
-https://cmcdp2.vtvdigital.vn/hls/VINHPHUCTV/index.m3u8
-#EXTINF:20,VINH PHUC_VP_vinhphuc.480p
-#EXTVLCOPT:network-caching=1000
-https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDQxMjUxNjQsInVyaSI6IlwvaHR2Y1wvdmluaHBodWMuNDgwcC5mcHQudG1zIiwiaXAiOiIifQ.iMRiWZZNQRMF6V6HMjhrfKnquipRyeOx2BD2SVeOjbg-/htvc/vinhphuc.480p.fpt.tms/playlist.m3u8
+https://cmcdp2.vtvdigital.vn/hls/SOCTRANGTV/index.m3u8
+
 #EXTINF:12,VINH LONG_THVL1-HD-ABR
 #EXTVLCOPT:network-caching=1000
 https://1011154949.vnns.net/CDN-FPT/THVL1-HD-ABR/playlist.m3u8
@@ -344,20 +332,64 @@ https://ec05-pop2-hkh.tv360.vn/bpk-token/hx2ccamruu2qdirpwe7dz5bbae67iiib/bpk-tv
 #EXTINF:12,VINH LONG 4_THVL4_VT
 #EXTVLCOPT:network-caching=1000
 https://ec05-pop2-hkh.tv360.vn/bpk-token/updq4mqpsyndepa4tyg2dryogkr4odrs/bpk-tv/251/output/index.m3u8
+#EXTINF:12,BEN TRE_THBT
+#EXTVLCOPT:network-caching=1000
+https://cmcdp.vtvdigital.vn/live/bentretv/playlist.m3u8
+#EXTINF:12,BEN TRE_THBT_bentre.adm.480p
+#EXTVLCOPT:network-caching=1000
+https://htvc271120.cdn.vnns.io/bentre.adm.480p.tms/playlist.m3u8
+#EXTINF:12,TRA VINH_THTV
+#EXTVLCOPT:network-caching=1000
+https://cmcdp2.vtvdigital.vn/hls/TRAVINHTV/index.m3u8
 
+#EXTINF:20,TIEN GIANG_THTG
+#EXTVLCOPT:network-caching=1000
+https://cmcdp1.vtvdigital.vn/live/tiengiangtv/playlist.m3u8
+#EXTINF:20,DONG THAP_THDT1
+#EXTVLCOPT:network-caching=1000
+https://cmcdp3.vtvdigital.vn/hls/DONGTHAPTV/index.m3u8
+#EXTINF:20,DONG THAP1_THDT1_DONGTHAP-SD-ABR
+#EXTVLCOPT:network-caching=1000
+https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDQxMjQzNDcsInVyaSI6IlwvQ0ROLUZQVDAyXC9ET05HVEhBUC1TRC1BQlIiLCJpcCI6IiJ9.SkzP4YYi6Y-xC4gT3tB7cBo0alCy_NZtslTz7dapoFU-/CDN-FPT02/DONGTHAP-SD-ABR/playlist.m3u8
+#EXTINF:20,DONG THAP2 Mien Tay_mientay.480p
+#EXTVLCOPT:network-caching=1000
+https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDQxMjQ1MTcsInVyaSI6IlwvaHR2Y1wvbWllbnRheS40ODBwLmFkbS50bXMiLCJpcCI6IiJ9.9ykuxdlbggdcPMoFRkcQB6D-jJuQRu4AlN0QWgY_MiU-/htvc/mientay.480p.adm.tms/playlist.m3u8
 
-#EXTINF:20,QPVN_HD
+#EXTINF:21,CA MAU_CTV
 #EXTVLCOPT:network-caching=1000
-https://e5ac79bdd778a5e.cmccloud.com.vn/QPVNTV/qpvntv1_720.m3u8
-#EXTINF:20,QPVN
+https://cmcdp.vtvdigital.vn/live/camautv/playlist.m3u8
+#EXTINF:21,CA MAU_CTV_camau.720p
 #EXTVLCOPT:network-caching=1000
-https://e5ac79bdd778a5e.cmccloud.com.vn/QPVNTV/qpvntv1_360.m3u8
-#EXTINF:20,QPVN(1)
+https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDQxMjQxNzAsInVyaSI6IlwvaHR2Y1wvY2FtYXUuNzIwcC5uYi5hZG0udG1zIiwiaXAiOiIifQ.AmjalssYBLbo1g9Wzuc6jhD8uJTDOFJmhJMe9Iv0HZU-/htvc/camau.720p.nb.adm.tms/playlist.m3u8
+#EXTINF:21,BAC LIEU_BTV
 #EXTVLCOPT:network-caching=1000
-https://e5ac79bdd778a5e.cmccloud.com.vn/QPVNTV/qpvntv1.m3u8
-#EXTINF:13,QPTV-SD-ABR
+https://cmcdp3.vtvdigital.vn/hls/BACLIEUTV/index.m3u8
+#EXTINF:21,BAC LIEU_BTV_baclieu1.480p
 #EXTVLCOPT:network-caching=1000
-https://1011154949.vnns.net/CDN-FPT/QPTV-SD-ABR/playlist.m3u8
+https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDQxMjM3NjcsInVyaSI6IlwvaHR2Y1wvYmFjbGlldTEuNDgwcC5hZG0udG1zIiwiaXAiOiIifQ.8ju9p0lrHMpCeV12ExF7fQj3HNNwz5cwUEueKyXHo6M-/htvc/baclieu1.480p.adm.tms/playlist.m3u8
+
+#EXTINF:32,KIEN GIANG_KG PTTH
+#EXTVLCOPT:network-caching=1000
+https://cmcdp.vtvdigital.vn/live/kiengiangtv/playlist.m3u8
+#EXTINF:32,KIEN GIANG_KG PTTH_kiengiang.720p
+#EXTVLCOPT:network-caching=1000
+https://1011337676.vnns.net/htvc/kiengiang.720p.adm.tms/playlist.m3u8
+#EXTINF:32,KIEN GIANG-AN GIANG_ATV
+#EXTVLCOPT:network-caching=1000
+https://cmcdp3.vtvdigital.vn/hls/ANGIANGTV/index.m3u8
+#EXTINF:32,KIEN GIANG-AN GIANG_ATV_angiang.720p
+#EXTVLCOPT:network-caching=1000
+https://1011337676.vnns.net/-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDQxMjM2MjcsInVyaSI6IlwvaHR2Y1wvYW5naWFuZy43MjBwLmFkbS50bXMiLCJpcCI6IiJ9.yEAin4r3ZNA6RHPMKnMrZ8Mo_lRcRJe1aM12J8KIde8-/htvc/angiang.720p.adm.tms/playlist.m3u8
+
+#EXTINF:32,ANTV(FHD)_GO_1080
+#EXTVLCOPT:network-caching=1000
+https://cmcty.vtvdigital.vn/mean/ANNINHTV/sc-gaFEAQ/v3_index.m3u8
+#EXTINF:32,ANTV(HD)_GO_720
+#EXTVLCOPT:network-caching=1000
+https://cmcty.vtvdigital.vn/mean/ANNINHTV/sc-gaFEAQ/v2_index.m3u8
+#EXTINF:32,ANTV_GO_480
+#EXTVLCOPT:network-caching=1000
+https://cmcty.vtvdigital.vn/mean/ANNINHTV/sc-gaFEAQ/v1_index.m3u8
 #EXTINF:20,ANTV_HD
 #EXTVLCOPT:network-caching=1000
 https://cf9a5872ebf6f9a.cmccloud.com.vn/ANTV/antv1_720.m3u8
@@ -370,6 +402,25 @@ https://cf9a5872ebf6f9a.cmccloud.com.vn/ANTV/antv1.m3u8
 #EXTINF:13,ANTV-SD-ABR
 #EXTVLCOPT:network-caching=1000
 https://1011154949.vnns.net/CDN-FPT/ANTV-SD-ABR/playlist.m3u8
+
+#EXTINF:32,QPTV_GO_540
+#EXTVLCOPT:network-caching=1000
+https://cmcty.vtvdigital.vn/mean/QPTV/sc-gaFEAQ/v0_index.m3u8
+#EXTINF:32,QPTV_GO_360
+#EXTVLCOPT:network-caching=1000
+https://cmcty.vtvdigital.vn/mean/QPTV/sc-gaFEAQ/v1_index.m3u8
+#EXTINF:20,QPVN_HD
+#EXTVLCOPT:network-caching=1000
+https://e5ac79bdd778a5e.cmccloud.com.vn/QPVNTV/qpvntv1_720.m3u8
+#EXTINF:20,QPVN
+#EXTVLCOPT:network-caching=1000
+https://e5ac79bdd778a5e.cmccloud.com.vn/QPVNTV/qpvntv1_360.m3u8
+#EXTINF:20,QPVN(1)
+#EXTVLCOPT:network-caching=1000
+https://e5ac79bdd778a5e.cmccloud.com.vn/QPVNTV/qpvntv1.m3u8
+#EXTINF:13,QPTV-SD-ABR
+#EXTVLCOPT:network-caching=1000
+https://1011154949.vnns.net/CDN-FPT/QPTV-SD-ABR/playlist.m3u8
 
 
 #EXTINF:12,HTVC-THUANVIET-HD-ABR
