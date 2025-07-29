@@ -425,47 +425,51 @@ https://e5ac79bdd778a5e.cmccloud.com.vn/QPVNTV/qpvntv1.m3u8
 
 #EXTINF:12,HTVC-THUANVIET(FHD)_ok{
 #EXTVLCOPT:network-caching=1000
-https://1011154949.vnns.net/CDN-FPT/HTVC-THUANVIET-HD-ABR/HTV-ABR/HTVC-THUANVIET-HD-1080p/chunks.m3u8
-
+https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
 #EXTINF:12,HTVC-GIADINH(FHD)
 #EXTVLCOPT:network-caching=1000
-https://1011154949.vnns.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
+https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist.m3u8
 #EXTINF:12,HTVC-PHIM(FHD)
 #EXTVLCOPT:network-caching=1000
-https://1011154949.vnns.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
+https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8
 #EXTINF:12,HTVC-PHUNU(FHD)
 #EXTVLCOPT:network-caching=1000
-https://1011154949.vnns.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
+https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
 #EXTINF:12,HTVC-CANHAC(FHD)
 #EXTVLCOPT:network-caching=1000
-https://1011154949.vnns.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8
+https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
 #EXTINF:12,HTVC-DULICH(FHD)
 #EXTVLCOPT:network-caching=1000
-https://1011154949.vnns.net/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
+https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist.m3u8
 #EXTINF:12,HTVC-PLUS(FHD)_ok}
 #EXTVLCOPT:network-caching=1000
-https://1011154949.vnns.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
+https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
 
 #EXTINF:12,HTV1 (720p)
 #EXTVLCOPT:network-caching=1000
 https://vc.101vn.com/htv/htvcmb.php?id=2631
-#EXTINF:12,HTV2-HD-ABR
+#EXTINF:12,HTV2(HD)[Geo-blocked]
 #EXTVLCOPT:network-caching=1000
-https://1011154949.vnns.net/CDN-FPT/HTV2-HD-ABR/playlist.m3u8
+https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
 #EXTINF:12,HTV3 (576p) [Geo-blocked]
 #EXTVLCOPT:network-caching=1000
 https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8
-#EXTINF:12,HTV4-SD-ABR_KEYs
+#EXTINF:12,HTV4 (576p) [Geo-blocked]
 #EXTVLCOPT:network-caching=1000
-https://1011154949.vnns.net/CDN-FPT/HTV4-SD-ABR/playlist.m3u8
-#EXTINF:12,HTV7-HD-1080p
+https://live.fptplay53.net/epzhd1/htv4_vhls.smil/chunklist.m3u8
+#EXTINF:12,HTV7(HD)
 #EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist.m3u8
 #EXTINF:12,HTV9 (576p)
 #EXTVLCOPT:network-caching=1000
 http://125hvt.ddns.net:21585/htv9/index.m3u8
+#EXTINF:12,HTV9(HD)
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8
 #EXTINF:12,HTV-THETHAO-HD-1080p HTV Sports (1080p) [Geo-blocked]
 #EXTVLCOPT:network-caching=1000
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
+
 
 #EXTINF:10,SCTV2
 #EXTVLCOPT:network-caching=1000
@@ -475,24 +479,47 @@ https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTINF:10,VTVCab1-Vie Giai tri
 #EXTVLCOPT:network-caching=1000
+
 #EXTINF:10,Outdoor
 #EXTVLCOPT:network-caching=1000
-#EXTINF:10,AFN
+https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist.m3u8
+#EXTINF:10,AFN Asian Food Network
 #EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8
 #EXTINF:10,HGTV
 #EXTVLCOPT:network-caching=1000
 #EXTINF:10,KBS World
 #EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
 #EXTINF:10,FRANCE 24
 #EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist.m3u8
 #EXTINF:10,TV5 Monde
 #EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
 #EXTINF:10,CNBC
 #EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
+#EXTINF:10,Da Vinci
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8
 #EXTINF:10,HISTORY
 #EXTVLCOPT:network-caching=1000
 #EXTINF:10,KIX
 #EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
+#EXTINF:10,NHK World
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist.m3u8
+#EXTINF:10,DW English
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
+#EXTINF:10,Arirang
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8
+#EXTINF:10,CNA ChannelNewsAsia
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8
 
 #EXTINF:10,Bloomberg TV Asia (720p)
 #EXTVLCOPT:network-caching=1000
