@@ -223,15 +223,12 @@ https://cmcdp.vtvdigital.vn/live/binhdinhtv/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://cmcdp1.vtvdigital.vn/live/gialaitv/playlist.m3u8
 
-#EXTINF:32,KHANH HOA_ktv.ktv.org.vn
+#EXTINF:32,KHANH HOA_tv.ktv.org.vn
 #EXTVLCOPT:network-caching=1000
 https://tv.ktv.org.vn/ktv.m3u8
-#EXTINF:10,KTV_vtvcab_576
+#EXTINF:10,KTV_tv.ktv.org.vn_hls
 #EXTVLCOPT:network-caching=1000
-https://live-on-akm.akamaized.net/manifest/khanh-hoa/playlist_576p.m3u8
-#EXTINF:10,KTV_vtvcab_480
-#EXTVLCOPT:network-caching=1000
-https://live-on-akm.akamaized.net/manifest/khanh-hoa/playlist_480p.m3u8
+https://tv.ktv.org.vn/hls/ktv1.m3u8
 
 #EXTINF:32,NINH THUAN_NTV
 #EXTVLCOPT:network-caching=1000
@@ -426,36 +423,27 @@ https://e5ac79bdd778a5e.cmccloud.com.vn/QPVNTV/qpvntv1_360.m3u8
 #EXTVLCOPT:network-caching=1000
 https://e5ac79bdd778a5e.cmccloud.com.vn/QPVNTV/qpvntv1.m3u8
 
-#EXTINF:12,HTVC-THUANVIET(HD)_vtvcab
+#EXTINF:12,HTVC-THUANVIET(FHD)_ok{
 #EXTVLCOPT:network-caching=1000
-https://live-on-akm.akamaized.net/manifest/htvc-thuan-viet/playlist_720p.m3u8
-
-#EXTINF:12,ON10(HD)_vtvcab
+https://1011154949.vnns.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
+#EXTINF:12,HTVC-GIADINH(FHD)
 #EXTVLCOPT:network-caching=1000
-https://live-on-akm.akamaized.net/manifest/sk10/playlist_720p.m3u8
-
-#EXTINF:12,ON13 Homeshping_vtvcab
+https://1011154949.vnns.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
+#EXTINF:12,HTVC-PHIM(FHD)
 #EXTVLCOPT:network-caching=1000
-https://live-on-akm.akamaized.net/manifest/vtvcab13/playlist_360p.m3u8
-
-#EXTINF:12,HTVC-GIADINH-HD-ABR
+https://1011154949.vnns.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
+#EXTINF:12,HTVC-PHUNU(FHD)
 #EXTVLCOPT:network-caching=1000
-https://1011154949.vnns.net/CDN-FPT/HTVC-GIADINH-HD-ABR/playlist.m3u8
-#EXTINF:12,HTVC-PHUNU-HD-ABR
+https://1011154949.vnns.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
+#EXTINF:12,HTVC-CANHAC(FHD)
 #EXTVLCOPT:network-caching=1000
-https://1011154949.vnns.net/CDN-FPT/HTVC-PHUNU-HD-ABR/playlist.m3u8
-#EXTINF:12,HTVC-CANHAC-HD-ABR
+https://1011154949.vnns.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8
+#EXTINF:12,HTVC-DULICH(FHD)
 #EXTVLCOPT:network-caching=1000
-https://1011154949.vnns.net/CDN-FPT/HTVC-CANHAC-HD-ABR/playlist.m3u8
-#EXTINF:12,HTVC-PHIM-HD-ABR
+https://1011154949.vnns.net/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
+#EXTINF:12,HTVC-PLUS(FHD)_ok}
 #EXTVLCOPT:network-caching=1000
-https://1011154949.vnns.net/CDN-FPT/HTVC-PHIM-HD-ABR/playlist.m3u8
-#EXTINF:12,HTVC-PLUS-HD-ABR
-#EXTVLCOPT:network-caching=1000
-https://1011154949.vnns.net/CDN-FPT/HTVC-PLUS-HD-ABR/playlist.m3u8
-#EXTINF:12,HTVC-DULICH-HD-ABR
-#EXTVLCOPT:network-caching=1000
-https://1011154949.vnns.net/CDN-FPT/HTVC-DULICH-HD-ABR/playlist.m3u8
+https://1011154949.vnns.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 
 #EXTINF:12,HTV1-SD-ABR
 #EXTVLCOPT:network-caching=1000
