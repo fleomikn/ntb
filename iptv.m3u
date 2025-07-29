@@ -425,7 +425,8 @@ https://e5ac79bdd778a5e.cmccloud.com.vn/QPVNTV/qpvntv1.m3u8
 
 #EXTINF:12,HTVC-THUANVIET(FHD)_ok{
 #EXTVLCOPT:network-caching=1000
-https://1011154949.vnns.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
+https://1011154949.vnns.net/CDN-FPT/HTVC-THUANVIET-HD-ABR/HTV-ABR/HTVC-THUANVIET-HD-1080p/chunks.m3u8
+
 #EXTINF:12,HTVC-GIADINH(FHD)
 #EXTVLCOPT:network-caching=1000
 https://1011154949.vnns.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
