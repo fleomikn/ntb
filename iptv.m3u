@@ -119,9 +119,9 @@ https://cmcdp2.vtvdigital.vn/hls/NGHEANTV/index.m3u8
 #EXTVLCOPT:network-caching=1000
 https://1011337676.vnns.net/htvc/hatinh.480p.fpt.tms/playlist.m3u8
 
-#EXTINF:32,CAO BANG (NO LINK)
+#EXTINF:32,CAO BANG
 #EXTVLCOPT:network-caching=1000
-https://1011337676.vnns.net/htvc/hatinh.480p.fpt.tms/playlist.m3u8
+http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_w730649992_b1384000.m3u8
 
 #EXTINF:20,TUYEN QUANG_TTV
 #EXTVLCOPT:network-caching=1000
@@ -130,9 +130,9 @@ https://cmcdp1.vtvdigital.vn/live/tuyenquangtv/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://cmcdp3.vtvdigital.vn/hls/HAGIANGTV/index.m3u8
 
-#EXTINF:32,YEN BAI (NO LINK)
+#EXTINF:32,YEN BAI
 #EXTVLCOPT:network-caching=1000
-https://cmcdp1.vtvdigital.vn/live/laocaitv/playlist.m3u8
+https://live.yenbaitv.org.vn/hls/livestream.m3u8
 
 #EXTINF:32,LAO CAI_THLC
 #EXTVLCOPT:network-caching=1000
@@ -172,9 +172,9 @@ https://cmcdp3.vtvdigital.vn/hls/HUNGYENTV/index.m3u8
 #EXTVLCOPT:network-caching=1000
 https://cmcdp2.vtvdigital.vn/hls/THAIBINHTV/index.m3u8
 
-#EXTINF:30,HAI PHONG (NO LINK)
+#EXTINF:30,HAI PHONG
 #EXTVLCOPT:network-caching=1000
-https://6241b84c81fd8af.cmccloud.com.vn/HaiduongTV/haiduongtv1.m3u8
+https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u8
 #EXTINF:30,HAI DUONG_THD
 #EXTVLCOPT:network-caching=1000
 https://6241b84c81fd8af.cmccloud.com.vn/HaiduongTV/haiduongtv1.m3u8
@@ -185,9 +185,9 @@ https://cmcdp3.vtvdigital.vn/hls/NINHBINHTV/index.m3u8
 #EXTINF:32,NAM DINH_NTV
 #EXTVLCOPT:network-caching=1000
 https://cmcdp2.vtvdigital.vn/hls/NAMDINHTV/index.m3u8
-#EXTINF:32,HA NAM (NO LINK)
+#EXTINF:32,HA NAM
 #EXTVLCOPT:network-caching=1000
-https://cmcdp2.vtvdigital.vn/hls/NAMDINHTV/index.m3u8
+https://cdn.hanamtv.vn/live/285361fcafcd0ec47bba2fa3f5870f8dc72/playlist.m3u8
 
 #EXTINF:20,QUANG BINH_QBTV
 #EXTVLCOPT:network-caching=1000
@@ -451,24 +451,26 @@ https://vc.101vn.com/htv/htvcmb.php?id=2631
 #EXTINF:12,HTV1 (720p) Vieon
 #EXTVLCOPT:network-caching=1000
 http://123.17.139.17:8889/Vieon.php?id=htv1
-
+#EXTINF:12,HTV1(HD)[Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzhd1/htv1_vhls.smil/chunklist.m3u8
 
 #EXTINF:12,HTV2(HD)[Geo-blocked]
 #EXTVLCOPT:network-caching=1000
 https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
-#EXTINF:12,HTV3 (576p) [Geo-blocked]
+#EXTINF:12,HTV3 [Geo-blocked]
 #EXTVLCOPT:network-caching=1000
 https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8
-#EXTINF:12,HTV4 (576p) [Geo-blocked]
+#EXTINF:12,HTV4 [Geo-blocked]
 #EXTVLCOPT:network-caching=1000
 https://live.fptplay53.net/epzhd1/htv4_vhls.smil/chunklist.m3u8
-#EXTINF:12,HTV7(HD)
+#EXTINF:12,HTV7(HD)[Geo-blocked]
 #EXTVLCOPT:network-caching=1000
 https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist.m3u8
 #EXTINF:12,HTV9 (576p)
 #EXTVLCOPT:network-caching=1000
 http://125hvt.ddns.net:21585/htv9/index.m3u8
-#EXTINF:12,HTV9(HD)
+#EXTINF:12,HTV9(HD)[Geo-blocked]
 #EXTVLCOPT:network-caching=1000
 https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8
 #EXTINF:12,HTV-THETHAO-HD-1080p HTV Sports (1080p) [Geo-blocked]
