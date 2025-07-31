@@ -548,3 +548,28 @@ http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8
 #EXTINF:10,SCTV6 (1080p) [Geo-blocked]
 #EXTVLCOPT:network-caching=1000
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8
+
+#EXTINF:10,CCTV+ 1 (600p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+#EXTINF:10,CCTV+ 2 (600p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+#EXTINF:10,CCTV-1综合 (576p)	
+#EXTVLCOPT:network-caching=1000
+http://42.176.185.28:9901/tsfile/live/1022_1.m3u8
+#EXTINF:10,CCTV-4 America (1080p)
+#EXTVLCOPT:network-caching=1000
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+#EXTINF:10,CCTV-4 Asia (480p)
+#EXTVLCOPT:network-caching=1000
+http://210.210.155.37/qwr9ew/s/s19/index.m3u8
+#EXTINF:10,CCTV-5体育 (1080p)
+#EXTVLCOPT:network-caching=1000
+http://1.85.0.62:808/hls/503/index.m3u8
+#EXTINF:10,CCTV-6电影 (1080p)
+#EXTVLCOPT:network-caching=1000
+http://1.85.0.62:808/hls/6/index.m3u8
+#EXTINF:10,CCTV-13新闻 (1080p)
+#EXTVLCOPT:network-caching=1000
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
