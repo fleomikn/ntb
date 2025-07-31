@@ -445,9 +445,14 @@ https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
 
-#EXTINF:12,HTV1 (720p)
+#EXTINF:12,HTV1 (720p) VLC
 #EXTVLCOPT:network-caching=1000
 https://vc.101vn.com/htv/htvcmb.php?id=2631
+#EXTINF:12,HTV1 (720p) Vieon
+#EXTVLCOPT:network-caching=1000
+http://123.17.139.17:8889/Vieon.php?id=htv1
+
+
 #EXTINF:12,HTV2(HD)[Geo-blocked]
 #EXTVLCOPT:network-caching=1000
 https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
