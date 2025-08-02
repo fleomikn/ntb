@@ -228,6 +228,10 @@ https://cmcdp.vtvdigital.vn/live/binhdinhtv/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://cmcdp1.vtvdigital.vn/live/gialaitv/playlist.m3u8
 
+
+#EXTINF:32,KHANH HOA [Geo Block]
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist.m3u8
 #EXTINF:32,KHANH HOA_tv.ktv.org.vn
 #EXTVLCOPT:network-caching=1000
 https://tv.ktv.org.vn/ktv.m3u8
@@ -611,3 +615,4 @@ http://cctvcnch5c.v.wscdns.com/live/cctv14_2/index.m3u8
 #EXTINF:-1 tvg-id="cctv15" tvg-logo="http://www.peterealty.com/tv_logos/cctv15.jpg" group-title="China",CCTV-15音乐
 http://cctvcnch5c.v.wscdns.com/live/cctv15_2/index.m3u8
 # Source: https://www.extinf.com/cctv-channels-5/
+
