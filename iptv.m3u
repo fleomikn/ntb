@@ -332,31 +332,18 @@ https://vc.101vn.com/htv/htvcmb.php?id=2631
 #EXTINF:12,HTV1 (720p) Vieon
 #EXTVLCOPT:network-caching=1000
 http://123.17.139.17:8889/Vieon.php?id=htv1
-#EXTINF:12,HTV1(HD)[Geo-blocked]
-#EXTVLCOPT:network-caching=1000
-https://live.fptplay53.net/epzhd1/htv1_vhls.smil/chunklist.m3u8
 
 #EXTINF:12,HTV2(HD)[Geo-blocked]
 #EXTVLCOPT:network-caching=1000
 #https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
-#EXTINF:12,HTV3 [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
-https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8
-#EXTINF:12,HTV4 [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
-https://live.fptplay53.net/epzhd1/htv4_vhls.smil/chunklist.m3u8
-#EXTINF:12,HTV7(HD)[Geo-blocked]
-#EXTVLCOPT:network-caching=1000
-https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist.m3u8
+
+
+
 #EXTINF:12,HTV9 (576p)
 #EXTVLCOPT:network-caching=1000
 http://125hvt.ddns.net:21585/htv9/index.m3u8
-#EXTINF:12,HTV9(HD)[Geo-blocked]
-#EXTVLCOPT:network-caching=1000
-https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8
-#EXTINF:12,HTV-THETHAO-HD-1080p HTV Sports (1080p) [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
-https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
+
+
 
 
 #EXTINF:10,SCTV2
