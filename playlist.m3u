@@ -9,12 +9,47 @@ https://tv.ktv.org.vn/ktv.m3u8
 #EXTINF:10,KTV_tv.ktv.org.vn_hls
 #EXTVLCOPT:network-caching=1000
 https://tv.ktv.org.vn/hls/ktv1.m3u8
+#EXTINF:10,KTV_tv.ktv.org.vn_hls
+#EXTVLCOPT:network-caching=1000
+https://tv.ktv.org.vn/hls/ktv1.m3u8
+
+#EXTINF:10, Hà Tĩnh TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://wse.hatinhtv.net/live/httv1/chunklist.m3u8
+
+#EXTINF:10, HanoiTV1 (1080p)[G-b]
+#EXTVLCOPT:network-caching=1000
+https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist.m3u8
+#EXTINF:10, HanoiTV2 (1080p)[G-b]
+#EXTVLCOPT:network-caching=1000
+https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8
+
+#EXTINF:1,VTV1(HD)_GO_720
+#EXTVLCOPT:network-caching=1000
+https://vtvgolive-ssaimh.vtvdigital.vn/EX4Pml-R0WcJ3LaL1UHGYA/1754162150/manifest/vtv3/playlist_720p.m3u8
+#https://vtvgolive-ssaimh.vtvdigital.vn/KnhAIjQt4_rp1oRmZAbltw/1754162170/manifest/vtv1/playlist_720p.m3u8
+#https://vtvgolive-ssaimh.vtvdigital.vn/6-O4XHozY0_QoBl-NMCpaA/1753813592/manifest/vtv1/playlist_720p.m3u8
+#EXTINF:1,VTV1 (1080p)
+#EXTVLCOPT:network-caching=1000
+https://tv.ddns.vn/tv/vtv1fhd/index.m3u8
+#EXTINF:1,VTV1 (HD)_720
+#EXTVLCOPT:network-caching=1000
+https://cdn-live.vtv.vn/uLSjISIs0oFCVFyfqeEh0A/1753804745/live/vtv1/vtv1-720p.m3u8
+#EXTINF:1,VTV1_480
+#EXTVLCOPT:network-caching=1000
+https://cdn-live.vtv.vn/uLSjISIs0oFCVFyfqeEh0A/1753804745/live/vtv1/vtv1-480p.m3u8
+
+
 #EXTINF:12,HTVC-THUAN VIET (FHD)
 #EXTVLCOPT:network-caching=1000
 https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
 #EXTINF:10,VTVCab1-ON Vie Giai tri
 #EXTVLCOPT:network-caching=1000
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=180
+
+#EXTINF:10, ANTV
+#EXTVLCOPT:network-caching=1000
+http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 
 #EXTINF:10,VTVCab1-ON Vie Giai tri
 #EXTVLCOPT:network-caching=1000
