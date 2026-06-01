@@ -355,12 +355,7 @@ http://125hvt.ddns.net:21585/htv9/index.m3u8
 #EXTINF:10,VTVCab1-Vie Giai tri
 #EXTVLCOPT:network-caching=1000
 
-#EXTINF:10,Outdoor
-#EXTVLCOPT:network-caching=1000
-https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist.m3u8
-#EXTINF:10,AFN Asian Food Network
-#EXTVLCOPT:network-caching=1000
-https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8
+
 #EXTINF:10,HGTV
 #EXTVLCOPT:network-caching=1000
 #EXTINF:10,KBS World
