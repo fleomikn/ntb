@@ -71,7 +71,52 @@ http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 #EXTINF:10,VTVCab1-ON Vie Giai tri
 #EXTVLCOPT:network-caching=1000
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=180
+#EXTINF:10,ON Vie Drama
+#EXTVLCOPT:network-caching=1000
+http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8
 
 #EXTINF:10,ARIANG HD
 #EXTVLCOPT:network-caching=1000
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:10,Arirang
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8
+#EXTINF:10,Bloomberg TV Asia (720p)
+#EXTVLCOPT:network-caching=1000
+https://bloomberg.com/media-manifest/streams/asia.m3u8
+#EXTINF:10,Bloomberg TV Asia Live Event (720p)
+#EXTVLCOPT:network-caching=1000
+https://bloomberg.com/media-manifest/streams/asia-event.m3u8
+#EXTINF:10,CNA ChannelNewsAsia
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8
+#EXTINF:10,CNBC
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
+#EXTINF:10,Outdoor
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist.m3u8
+#EXTINF:10,AFN Asian Food Network
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8
+#EXTINF:10,KBS World
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
+#EXTINF:10,FRANCE 24
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist.m3u8
+#EXTINF:10,TV5 Monde
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
+#EXTINF:10,Da Vinci
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8
+#EXTINF:10,KIX
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
+#EXTINF:10,NHK World
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist.m3u8
+#EXTINF:10,DW English
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
