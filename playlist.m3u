@@ -43,7 +43,6 @@ https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist.m3u8
 
-
 #Báo và phát thanh, truyền hình Đắk Lắk	DRT
 #EXTINF:-1 tvg-id="daklak" group-title="🇻🇳| Địa phươngFPT" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/dyrxfpju_dak-lak_296_168.png", DRT | Đắklắk
 #EXTVLCOPT:http-user-agent=dovietsy
@@ -60,7 +59,6 @@ https://1011337676.vnns.net/htvc/dacnong.480p.fpt.tms/playlist.m3u8
 #EXTINF:-1 tvg-id="dienbien" group-title="🇻🇳| Địa phươngFPT" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/11/15/mbbbn1n5_dien-bien_296_168.png", ĐTV | Điện Biên
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/fnxsd1/dienbien_hls.smil/chunklist.m3u8
-
 
 #Báo và phát thanh, truyền hình Đồng Nai	ĐNNRTV1, ĐNNRTV2, ĐNNRTV3
 #EXTINF:-1 tvg-id="dongnai1" group-title="🇻🇳| Địa phươngFPT" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/sc8akpju_dong-nai-1_296_168.png", ĐNRTV1 | Đồng Nai
@@ -97,26 +95,26 @@ https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8
 
-#EXTINF:0 tvg-id="hanoi1" group-title="🏞️| Quê hương FPT", tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/03/06/is5jeyfi_ha-noi-1fa6c2d09234c45aafba0a22f076861a3_296_168.png",❤️|  Hà Nội 1
+#EXTINF:0 tvg-id="hanoi1" group-title="🏞️| Quê hương FPT",❤️|  Hà Nội 1
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist.m3u8
 
-#EXTINF:0 tvg-id="hanoi2" group-title="🏞️| Quê hương FPT", tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/03/06/9c88742w_biqbzzqb_ha-noi-2c03d1f0b9c81c11c32b050a8c77f95ee_296_168.png",❤️|  Hà Nội 2
+#EXTINF:0 tvg-id="hanoi2" group-title="🏞️| Quê hương FPT",❤️|  Hà Nội 2
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/fnxhd2/hanoitv2_hls.smil/chunklist.m3u8
 
-#EXTINF:0 tvg-id="hanoi1" group-title="🏞️| HA NOI", tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/03/06/is5jeyfi_ha-noi-1fa6c2d09234c45aafba0a22f076861a3_296_168.png",❤️|  Hà Nội 1
+#EXTINF:0 tvg-id="hanoi1" group-title="🏞️| HA NOI", ❤️|  Hà Nội 1
 #EXTVLCOPT:http-user-agent=dovietsy
 https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist_w256840765_b3128000_slen.m3u8
-#EXTINF:0 tvg-id="hanoi2" group-title="🏞️| HA NOI", tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/03/06/9c88742w_biqbzzqb_ha-noi-2c03d1f0b9c81c11c32b050a8c77f95ee_296_168.png",❤️|  Hà Nội 2
+#EXTINF:0 tvg-id="hanoi2" group-title="🏞️| HA NOI", ❤️|  Hà Nội 2
 #EXTVLCOPT:http-user-agent=dovietsy
 https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist_w242452699.m3u8
 
-#EXTINF:0 tvg-id="hanoi1" group-title="🏞️| Quê hương VIEON", tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/03/06/is5jeyfi_ha-noi-1fa6c2d09234c45aafba0a22f076861a3_296_168.png",❤️|  Hà Nội 1
+#EXTINF:0 tvg-id="hanoi1" group-title="🏞️| Quê hương VIEON", ❤️|  Hà Nội 1
 #EXTVLCOPT:http-user-agent=dovietsy
 http://222.254.48.230:8889/Vieon.php?id=hanoi1
 
-#EXTINF:0 tvg-id="hanoi2" group-title="🏞️| Quê hương VIEON", tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/03/06/9c88742w_biqbzzqb_ha-noi-2c03d1f0b9c81c11c32b050a8c77f95ee_296_168.png",❤️|  Hà Nội 2
+#EXTINF:0 tvg-id="hanoi2" group-title="🏞️| Quê hương VIEON", ❤️|  Hà Nội 2
 #EXTVLCOPT:http-user-agent=dovietsy
 http://222.254.48.230:8889/Vieon.php?id=hanoi2
 
