@@ -45,14 +45,6 @@ https://vtvgolive-webvtv.vtvdigital.vn/Ij-b3whGnNDEJy-eMQrPtA/1762107681/vtvgo/v
 #EXTVLCOPT:network-caching=1000
 https://live.huetv.com.vn/TRT-Online/playlist.m3u8
 
-#EXTINF:32,LAI CHAU_LTV
-#EXTVLCOPT:network-caching=1000
-https://cmcdp2.vtvdigital.vn/hls/LAICHAUTV/index.m3u8
-
-#EXTINF:26,DIEN BIEN_ĐTV
-#EXTVLCOPT:network-caching=1000
-https://cmcdp1.vtvdigital.vn/live/dienbientv/playlist.m3u8
-
 #EXTINF:20,SON LA_STV
 #EXTVLCOPT:network-caching=1000
 https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/playlist.m3u8
