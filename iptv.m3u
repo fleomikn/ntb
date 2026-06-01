@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:1,VTV1(HD)_GO_720
-#EXTVLCOPT:network-caching=1000
-https://vtvgolive-ssaimh.vtvdigital.vn/EX4Pml-R0WcJ3LaL1UHGYA/1754162150/manifest/vtv3/playlist_720p.m3u8
-https://vtvgolive-ssaimh.vtvdigital.vn/KnhAIjQt4_rp1oRmZAbltw/1754162170/manifest/vtv1/playlist_720p.m3u8
-#https://vtvgolive-ssaimh.vtvdigital.vn/6-O4XHozY0_QoBl-NMCpaA/1753813592/manifest/vtv1/playlist_720p.m3u8
-#EXTINF:1,VTV1 (1080p)
-#EXTVLCOPT:network-caching=1000
-https://tv.ddns.vn/tv/vtv1fhd/index.m3u8
-#EXTINF:1,VTV1(HD)_720
-#EXTVLCOPT:network-caching=1000
-https://cdn-live.vtv.vn/uLSjISIs0oFCVFyfqeEh0A/1753804745/live/vtv1/vtv1-720p.m3u8
-#EXTINF:1,VTV1_480
-#EXTVLCOPT:network-caching=1000
-https://cdn-live.vtv.vn/uLSjISIs0oFCVFyfqeEh0A/1753804745/live/vtv1/vtv1-480p.m3u8
 
 #EXTINF:2,VTV2(HD)_GO_HD-720
 #EXTVLCOPT:network-caching=1000
@@ -54,40 +40,6 @@ https://vtvgolive-webvtv.vtvdigital.vn/Ij-b3whGnNDEJy-eMQrPtA/1762107681/vtvgo/v
 #EXTVLCOPT:network-caching=1000
 https://vtvgolive-webvtv.vtvdigital.vn/Ij-b3whGnNDEJy-eMQrPtA/1762107681/vtvgo/vtv5tn-360p.m3u8
 
-#EXTINF:6,VTV CT(HD)_GO_720
-#EXTVLCOPT:network-caching=1000
-https://vtvgolive-webvtv.vtvdigital.vn/Fpz1lILGidyTO33Yx-SxGA/1762108352/vtvgo/vtv6-720p.m3u8
-#EXTINF:6,VTV CT_GO_360
-#EXTVLCOPT:network-caching=1000
-https://vtvgolive-webvtv.vtvdigital.vn/Fpz1lILGidyTO33Yx-SxGA/1762108352/vtvgo/vtv6-360p.m3u8
-
-#EXTINF:7,VTV7(HD)_GO_720
-#EXTVLCOPT:network-caching=1000
-https://vtvgolive-webvtv.vtvdigital.vn/47GHszepQOSKYsMMtV28sA/1762108223/vtvgo/vtv7-720p.m3u8
-#EXTINF:7,VTV7_GO_360
-#EXTVLCOPT:network-caching=1000
-https://vtvgolive-webvtv.vtvdigital.vn/47GHszepQOSKYsMMtV28sA/1762108223/vtvgo/vtv7-360p.m3u8
-
-#EXTINF:8,VTV8(HD)_GO_720
-#EXTVLCOPT:network-caching=1000
-https://vtvgolive-webvtv.vtvdigital.vn/YtMk4J2U1rBl2ct5CS23BA/1762108246/vtvgo/vtv8-720p.m3u8
-#EXTINF:8,VTV8_GO_360
-#EXTVLCOPT:network-caching=1000
-https://vtvgolive-webvtv.vtvdigital.vn/YtMk4J2U1rBl2ct5CS23BA/1762108246/vtvgo/vtv8-360p.m3u8
-
-#EXTINF:9,VTV9(HD)_GO_720
-#EXTVLCOPT:network-caching=1000
-https://vtvgolive-webvtv.vtvdigital.vn/JMmx_57hxxdGoSN0VBJ5gw/1762108320/vtvgo/vtv9-720p.m3u8
-#EXTINF:9,VTV9_GO_360
-#EXTVLCOPT:network-caching=1000
-https://vtvgolive-webvtv.vtvdigital.vn/JMmx_57hxxdGoSN0VBJ5gw/1762108320/vtvgo/vtv9-360p.m3u8
-
-#EXTINF:30,HA NOI1_H1
-#EXTVLCOPT:network-caching=1000
-https://cmcdp2.vtvdigital.vn/hls/HANOI1TV/index.m3u8
-#EXTINF:30,HA NOI2_H2
-#EXTVLCOPT:network-caching=1000
-https://cmcdp3.vtvdigital.vn/hls/HANOI2TV/index.m3u8
 
 #EXTINF:32,HUE_HUE TV
 #EXTVLCOPT:network-caching=1000
