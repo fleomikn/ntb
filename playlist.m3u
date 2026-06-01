@@ -20,6 +20,9 @@ https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://tv.ktv.org.vn/hls/ktv1.m3u8
 
+#EXTINF:30,HAI PHONG
+#EXTVLCOPT:network-caching=1000
+https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u8
 #EXTINF:10, Hà Tĩnh TV (720p)
 #EXTVLCOPT:network-caching=1000
 https://wse.hatinhtv.net/live/httv1/chunklist.m3u8
@@ -110,15 +113,16 @@ https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist.m3u8
 #EXTINF:12,HTV9(HD)[G-b]
 #EXTVLCOPT:network-caching=1000
 https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8
+#EXTINF:12,HTV9 (576p)
+#EXTVLCOPT:network-caching=1000
+http://125hvt.ddns.net:21585/htv9/index.m3u8
 #EXTINF:12,HTV-THETHAO (1080p) [G-b]
 #EXTVLCOPT:network-caching=1000
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 
-
 #EXTINF:10, ANTV
 #EXTVLCOPT:network-caching=1000
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
-
 
 #EXTINF:10,ARIANG HD
 #EXTVLCOPT:network-caching=1000
