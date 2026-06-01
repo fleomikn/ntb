@@ -5,10 +5,7 @@
 https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist.m3u8
 #EXTINF:32,KHANH HOA_tv.ktv.org.vn
 #EXTVLCOPT:network-caching=1000
-https://tv.ktv.org.vn/ktv.m3u8
-#EXTINF:10,KTV_tv.ktv.org.vn_hls
-#EXTVLCOPT:network-caching=1000
-https://tv.ktv.org.vn/hls/ktv1.m3u8
+#https://tv.ktv.org.vn/ktv.m3u8
 #EXTINF:10,KTV_tv.ktv.org.vn_hls
 #EXTVLCOPT:network-caching=1000
 https://tv.ktv.org.vn/hls/ktv1.m3u8
