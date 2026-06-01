@@ -9,3 +9,6 @@ https://tv.ktv.org.vn/ktv.m3u8
 #EXTINF:10,KTV_tv.ktv.org.vn_hls
 #EXTVLCOPT:network-caching=1000
 https://tv.ktv.org.vn/hls/ktv1.m3u8
+#EXTINF:12,HTVC-THUANVIET (FHD){
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
