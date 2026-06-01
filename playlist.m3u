@@ -12,3 +12,6 @@ https://tv.ktv.org.vn/hls/ktv1.m3u8
 #EXTINF:12,HTVC-THUAN VIET (FHD)
 #EXTVLCOPT:network-caching=1000
 https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
+#EXTINF:10,VTVCab1-Vie Giai tri
+#EXTVLCOPT:network-caching=1000
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=180
