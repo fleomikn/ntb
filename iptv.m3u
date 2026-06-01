@@ -24,7 +24,6 @@ https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/playlist.m3u8
 #EXTINF:32,HA TINH_HTTV
 #EXTVLCOPT:network-caching=1000
 
-
 #EXTINF:32,CAO BANG
 #EXTVLCOPT:network-caching=1000
 http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_w730649992_b1384000.m3u8
