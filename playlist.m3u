@@ -3,7 +3,14 @@
 #EXTINF:32,CAO BANG
 #EXTVLCOPT:network-caching=1000
 http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_w730649992_b1384000.m3u8
-#EXTINF:32,KHANH HOA KTV
+#EXTINF:25,DAK NONG_PTD_dacnong.480p
+#EXTVLCOPT:network-caching=1000
+https://1011337676.vnns.net/htvc/dacnong.480p.fpt.tms/playlist.m3u8
+#EXTINF:32,DAK NONG_PTD
+#EXTVLCOPT:network-caching=1000
+https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8
+
+#EXTINF:32,KHANH HOA KTV [G-b]
 #EXTVLCOPT:network-caching=1000
 https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist.m3u8
 #EXTINF:32,KHANH HOA_tv.ktv.org.vn
@@ -52,12 +59,41 @@ https://vtvgolive-ssaimh.vtvdigital.vn/apPJmKHUPAd1c4s8gx22ew/1753814229/manifes
 #EXTVLCOPT:network-caching=1000
 https://vtvgolive-ssaimh.vtvdigital.vn/apPJmKHUPAd1c4s8gx22ew/1753814229/manifest/vtv3/playlist_480p.m3u8
 
-#EXTINF:12,HTVC-THUAN VIET (FHD)
-#EXTVLCOPT:network-caching=1000
-https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
 #EXTINF:10,VTVCab1-ON Vie Giai tri
 #EXTVLCOPT:network-caching=1000
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=180
+#EXTINF:10,ON Vie Drama
+#EXTVLCOPT:network-caching=1000
+http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8
+
+#EXTINF:10,SCTV6 (1080p) [G-b]
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8
+
+#EXTINF:12,HTVC-THUAN VIET (FHD)
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
+#EXTINF:12,HTVC-THUAN VIET (FHD)
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
+#EXTINF:12,HTVC-GIA DINH (FHD)
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist.m3u8
+#EXTINF:12,HTVC-PHIM (FHD)
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8
+#EXTINF:12,HTVC-PHU NU (FHD)
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
+#EXTINF:12,HTVC-CA NHAC (FHD)
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
+#EXTINF:12,HTVC-DU LICH (FHD)
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist.m3u8
+#EXTINF:12,HTVC-PLUS (FHD)
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
 
 #EXTINF:12,HTV1 (HD)[G-b]
 #EXTVLCOPT:network-caching=1000
@@ -83,12 +119,6 @@ https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 #EXTVLCOPT:network-caching=1000
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 
-#EXTINF:10,VTVCab1-ON Vie Giai tri
-#EXTVLCOPT:network-caching=1000
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=180
-#EXTINF:10,ON Vie Drama
-#EXTVLCOPT:network-caching=1000
-http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8
 
 #EXTINF:10,ARIANG HD
 #EXTVLCOPT:network-caching=1000
@@ -135,3 +165,11 @@ https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist.m3u8
 #EXTINF:10,DW English
 #EXTVLCOPT:network-caching=1000
 https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
+
+#EXTINF:10,CCTV+ 1 (600p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+#EXTINF:10,CCTV-4 America (1080p)
+#EXTVLCOPT:network-caching=1000
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+
