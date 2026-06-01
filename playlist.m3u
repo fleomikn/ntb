@@ -196,6 +196,9 @@ http://222.254.48.230:8889/ace/tv360mpd.php?id=71
 #Báo và phát thanh, truyền hình Lâm Đồng	LTV1, LTV2, BTV6 - Shopping 24h
 #EXTINF:-1 tvg-id="lamdong" group-title="🇻🇳| Địa phươngTV360" tvg-logo="https://i.imgur.com/PcMt8Au.png", LTV HD | TH Lâm Đồng
 http://222.254.48.230:8889/ace/tv360mpd.php?id=69
+#EXTINF:-1 tvg-id="lamdong" group-title="🇻🇳| Địa phươngFPT" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/dg27e6ku_lam-dong_296_168.png", LTV | Lâm Đồng
+#EXTVLCOPT:http-user-agent=dovietsy
+https://live.fptplay53.net/epzsd1/lamdong_hls.smil/chunklist.m3u8
 
 
 #Báo và phát thanh, truyền hình Nghệ An	NTV[1]
