@@ -15,3 +15,11 @@ https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
 #EXTINF:10,VTVCab1-ON Vie Giai tri
 #EXTVLCOPT:network-caching=1000
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=180
+
+#EXTINF:10,VTVCab1-ON Vie Giai tri
+#EXTVLCOPT:network-caching=1000
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=180
+
+#EXTINF:10,ARIANG HD
+#EXTVLCOPT:network-caching=1000
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
