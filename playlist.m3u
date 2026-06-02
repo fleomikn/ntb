@@ -162,7 +162,6 @@ http://222.254.48.230:8889/ace/tv360mpd.php?id=64
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/fnxsd1/hungyen_2000.stream/chunklist.m3u8
 
-
 #Báo và phát thanh, truyền hình Khánh Hòa	KTV, KTV1
 #EXTINF:32,KHANH HOA_tv.ktv.org.vn
 #EXTVLCOPT:network-caching=1000
@@ -335,10 +334,16 @@ https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="vtv9hd" group-title="🌟| VTV FPT" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/450px-VTV9_logo_2013_final.svg.png",VTV9
 #EXTVLCOPT:http-user-agent=dovietsy
 #https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://i.imgur.com/rUeimhI.png",VTV9 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/fnxhd1/vtv9hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="vtv10hd" group-title="🌟| VTV FPT" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://static.wikia.nocookie.net/ab3dc0cb-29c0-45be-9013-5d258d22be78/scale-to-width/755",VTV10 (Can Tho)
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="vtv10hd" group-title="KÊNH VTV - ĐÀI TH VIỆT NAM" tvg-logo="https://i.ibb.co/RTvyzQN1/VTV10-BEARTV.png",VTV10 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8
 
 #EXTINF:0 tvg-id="vietnamtoday" group-title="🌟| VTV FPT" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Vietnam_Today_Logo.png",VietNamToday
 #EXTVLCOPT:http-user-agent=dovietsy
@@ -357,7 +362,9 @@ https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8
 
 #EXTINF:10, SCTV7 - SHOW TV
 #EXTINF:10, SCTV8 - VITV
-#EXTINF:10, SCTV9
+#EXTINF:-1 tvg-id="sctv9hd" group-title="KÊNH SCTV - TH CÁP Saigontourist" tvg-logo="https://i.imgur.com/OJMbhow.png",SCTV9 HD
+https://hoiquan.dpdns.org/VTVGo/?sctv9
+
 #EXTINF:10, SCTV10 - Happymall
 #EXTINF:10, SCTV11 - TV STAR
 #EXTINF:10, SCTV12
