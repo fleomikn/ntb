@@ -257,11 +257,10 @@ http://222.254.48.230:8889/ace/tv360mpd.php?id=92
 
 
 #Báo và phát thanh, truyền hình Vĩnh Long: THVL1, THVL2, THVL3, THVL4, THVL5
-#EXTINF:-1 tvg-id="VinhLongTV1.vn@HD" tvg-logo="https://i.imgur.com/5YFsqPx.png" group-title="General;News",THVL1_Vĩnh Long 1 (1080p) [F|G-b]
-https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="vinhlong1hd" group-title="🏞️| Quê hương FPT",THVL1_Vĩnh Long 1 [F]
 #EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8
+#https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8
+https://live.fptplay53.net/live/media/vinhlong1/live247-hls-avc/index.m3u8
 
 #EXTINF:0 tvg-id="vinhlong2hd" group-title="🏞️| Quê hương FPT" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/03/21/s5a0ind2_thumb-vinh-long-28e178b8b7610fcac686d4db7f93630ae_296_168.png",THVL2_Vĩnh Long 2 [F]
 #EXTVLCOPT:http-user-agent=dovietsy
