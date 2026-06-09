@@ -1,18 +1,6 @@
 
 #EXTM3U
-#https://raw.githubusercontent.com/fleomikn/ntb/main/playlist.m3u
-#Báo và phát thanh, truyền hình An Giang	ATV1, ATV2, ATV3
-#EXTINF:-1 tvg-id="angiang" tvg-chno=100 group-title="🇻🇳| Địa phương_F" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/uvjjp3zi_an-giang_296_168.png",ATV2 | An Giang TV2 [F]
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="AnGiangTV1.vn@SD" tvg-chno=100 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/mgp6RAU.png",ATV1 | An Giang TV1 (1080p) [G-b]
-https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
 
-#EXTINF:-1 tvg-id="AnGiangTV2.vn@SD" tvg-logo="https://i.imgur.com/efrauLr.png" group-title="Entertainment",ATV2 | An Giang TV2 (1080p) [G-b]
-https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8
-
-#EXTINF:-1 tvg-id="AnGiangTV3.vn@SD" tvg-logo="https://i.imgur.com/gZUV4z8.png" group-title="Entertainment",ATV3 | An Giang TV3 (1080p) [G-b]
-https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
 
 #Báo và phát thanh, truyền hình Bắc Ninh	BTV
 #EXTINF:-1 tvg-id="bacninh" group-title="🇻🇳| Địa phươngTV360" tvg-logo="https://i.imgur.com/2ctllpD.png", BTV HD | TH Bắc Ninh
@@ -672,6 +660,19 @@ https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
+#https://raw.githubusercontent.com/fleomikn/ntb/main/playlist.m3u
+#Báo và phát thanh, truyền hình An Giang ATV1, ATV2, ATV3__100,101,102
+#EXTINF:-1 tvg-id="AnGiangTV1.vn@SD" tvg-chno=100 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/mgp6RAU.png",ATV1 | An Giang TV1 (1080p) [G-b]
+https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
+
+#EXTINF:-1 tvg-id="angiang" tvg-chno=101 group-title="🇻🇳| Địa phương_F" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/uvjjp3zi_an-giang_296_168.png",ATV2 | An Giang TV2 [F]
+#EXTVLCOPT:http-user-agent=dovietsy
+https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="AnGiangTV2.vn@SD" tvg-chno=101 group-title="Địa phương" tvg-logo="https://i.imgur.com/efrauLr.png" ,ATV2 | An Giang TV2 (1080p) [G-b]
+https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8
+
+#EXTINF:-1 tvg-id="AnGiangTV3.vn@SD" tvg-chno=102 group-title="Địa phương" tvg-logo="https://i.imgur.com/gZUV4z8.png" ,ATV3 | An Giang TV3 (1080p) [G-b]
+https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
 
 #ref https://raw.githubusercontent.com/dovietsy/acestreamfb/main/acestreamfb.txt
 #update June 9, 2026, vtv2, vtv3, thvl1, vtv1, remove cache-source, vtv4
