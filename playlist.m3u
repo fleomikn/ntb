@@ -206,7 +206,6 @@ http://222.254.48.230:8889/ace/tv360mpd.php?id=69
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/epzsd1/lamdong_hls.smil/chunklist.m3u8
 
-
 #Báo và phát thanh, truyền hình Nghệ An	NTV[1]
 #EXTINF:-1 tvg-id="nghean" group-title="🇻🇳| Địa phươngTV360" tvg-logo="https://i.imgur.com/w4fTP8x.png", NTV HD | TH Nghệ An
 http://222.254.48.230:8889/ace/tv360mpd.php?id=74
@@ -232,12 +231,10 @@ http://103.90.220.236/qtvlive/tv3live.m3u8
 #EXTINF:-1 tvg-id="quangtri" group-title="🇻🇳| Địa phươngTV360" tvg-logo="https://i.imgur.com/8AEOhJG.png", QRTV HD | TH Quảng Trị
 #EXTVLCOPT:http-user-agent=dovietsy
 
-
 #Báo và phát thanh, truyền hình Sơn La	STV
 #EXTINF:20,SON LA_STV
 #EXTVLCOPT:network-caching=1000
 https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/playlist.m3u8
-
 
 #Báo và phát thanh, truyền hình Tây Ninh	TN
 #EXTINF:-1 tvg-id="tayninh" group-title="🇻🇳| Địa phươngTV360" tvg-logo="https://i.imgur.com/4UHKPr2.png", TTV11 HD | TH Tây Ninh
@@ -295,7 +292,6 @@ https://vtvgolive-ssaimh.vtvdigital.vn/EX4Pml-R0WcJ3LaL1UHGYA/1754162150/manifes
 #https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
 https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8
 
-
 #EXTINF:0 tvg-id="vtv2hd" group-title="🌟| VTV FPT" catchup="append" catchup-days="0.3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1200px-VTV2_logo_2013_final.svg.png",VTV2 [F]
 #EXTVLCOPT:http-user-agent=dovietsy
 #https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
@@ -345,12 +341,13 @@ https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://live.fptplay53.net/fnxhd1/vtv9hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="vtv10hd" group-title="🌟| VTV FPT" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://static.wikia.nocookie.net/ab3dc0cb-29c0-45be-9013-5d258d22be78/scale-to-width/755",VTV10 (Can Tho)
+#EXTINF:0 tvg-id="vtv10hd" group-title="🌟| VTV FPT" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://static.wikia.nocookie.net/ab3dc0cb-29c0-45be-9013-5d258d22be78/scale-to-width/755",VTV10 (Can Tho) [F]
 #EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist.m3u8
+#https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist.m3u8
+https://live.fptplay53.net/live/media/vtv10/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="vtv10hd" group-title="KÊNH VTV - ĐÀI TH VIỆT NAM" tvg-logo="https://i.ibb.co/RTvyzQN1/VTV10-BEARTV.png",VTV10 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
-https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8
+#https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8
 
 #EXTINF:0 tvg-id="vietnamtoday" group-title="🌟| VTV FPT" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Vietnam_Today_Logo.png",VietNamToday
 #EXTVLCOPT:http-user-agent=dovietsy
