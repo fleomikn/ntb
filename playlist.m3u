@@ -306,18 +306,18 @@ https://live.fptplay53.net/live/media/vtv2/live247-hls-avc/index.m3u8
 #https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8
 https://live.fptplay53.net/live/media/vtv3/live247-hls-avc/index.m3u8
 
-#EXTINF:3,VTV3(HD)_GO_720
+#EXTINF:3,VTV3 (HD) [GO]
 #EXTVLCOPT:network-caching=1000
 https://vtvgolive-ssaimh.vtvdigital.vn/apPJmKHUPAd1c4s8gx22ew/1753814229/manifest/vtv3/playlist_720p.m3u8
-#EXTINF:3,VTV3_GO_480
+#EXTINF:3,VTV3 (480) [GO]
 #EXTVLCOPT:network-caching=1000
 https://vtvgolive-ssaimh.vtvdigital.vn/apPJmKHUPAd1c4s8gx22ew/1753814229/manifest/vtv3/playlist_480p.m3u8
 
-#EXTINF:0 tvg-id="vtv4hd" group-title="🌟| VTV FPT" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1200px-VTV4_logo_2013_final.svg.png",VTV4
+#EXTINF:0 tvg-id="vtv4hd" group-title="🌟| VTV FPT" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1200px-VTV4_logo_2013_final.svg.png",VTV4 [F]
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
 
-#EXTINF:0 tvg-id="vtv5hd" group-title="🌟| VTV FPT" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png",VTV5
+#EXTINF:0 tvg-id="vtv5hd" group-title="🌟| VTV FPT" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png",VTV5 [F]
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist.m3u8
 
