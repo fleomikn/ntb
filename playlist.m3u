@@ -287,7 +287,7 @@ https://vtvgolive-ssaimh.vtvdigital.vn/EX4Pml-R0WcJ3LaL1UHGYA/1754162150/manifes
 #https://cdn-live.vtv.vn/uLSjISIs0oFCVFyfqeEh0A/1753804745/live/vtv1/vtv1-720p.m3u8
 #https://cdn-live.vtv.vn/uLSjISIs0oFCVFyfqeEh0A/1753804745/live/vtv1/vtv1-480p.m3u8
 
-#EXTINF:0 tvg-id="vtv1hd" group-title="🌟| VTV FPT" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png",VTV1 [F]
+#EXTINF:0 tvg-id="vtv1hd" group-title="🌟| VTV FPT" catchup="append" catchup-days="0.3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png",VTV1 [F]
 #EXTVLCOPT:http-user-agent=dovietsy
 #https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
 https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8
@@ -309,11 +309,11 @@ https://vtvgolive-ssaimh.vtvdigital.vn/apPJmKHUPAd1c4s8gx22ew/1753814229/manifes
 #EXTVLCOPT:network-caching=1000
 https://vtvgolive-ssaimh.vtvdigital.vn/apPJmKHUPAd1c4s8gx22ew/1753814229/manifest/vtv3/playlist_480p.m3u8
 
-#EXTINF:0 tvg-id="vtv4hd" group-title="🌟| VTV FPT" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1200px-VTV4_logo_2013_final.svg.png",VTV4 [F]
+#EXTINF:0 tvg-id="vtv4hd" group-title="🌟| VTV FPT" catchup="append" catchup-days="0.3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1200px-VTV4_logo_2013_final.svg.png",VTV4 [F]
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
 
-#EXTINF:0 tvg-id="vtv5hd" group-title="🌟| VTV FPT" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png",VTV5 [F]
+#EXTINF:0 tvg-id="vtv5hd" group-title="🌟| VTV FPT" catchup="append" catchup-days="0.3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png",VTV5 [F]
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist.m3u8
 
@@ -330,18 +330,18 @@ https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist.m3u8
 #https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/live/media/vtv7/live247-hls-avc/index.m3u8
 
-#EXTINF:0 tvg-id="vtv8hd" group-title="🌟| VTV FPT" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/VTV8_logo.png",VTV8 [F]
+#EXTINF:0 tvg-id="vtv8hd" group-title="🌟| VTV FPT" catchup="append" catchup-days="0.3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/VTV8_logo.png",VTV8 [F]
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
 
-#EXTINF:0 tvg-id="vtv9hd" group-title="🌟| VTV FPT" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/450px-VTV9_logo_2013_final.svg.png",VTV9
+#EXTINF:0 tvg-id="vtv9hd" group-title="🌟| VTV FPT" catchup="append" catchup-days="0.3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/450px-VTV9_logo_2013_final.svg.png",VTV9
 #EXTVLCOPT:http-user-agent=dovietsy
 #https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" tvg-logo="https://i.imgur.com/rUeimhI.png",VTV9 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://live.fptplay53.net/fnxhd1/vtv9hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="vtv10hd" group-title="🌟| VTV FPT" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://static.wikia.nocookie.net/ab3dc0cb-29c0-45be-9013-5d258d22be78/scale-to-width/755",VTV10 (Can Tho) [F]
+#EXTINF:0 tvg-id="vtv10hd" group-title="🌟| VTV FPT" catchup="append" catchup-days="0.3" tvg-logo="https://static.wikia.nocookie.net/ab3dc0cb-29c0-45be-9013-5d258d22be78/scale-to-width/755",VTV10 (Can Tho) [F]
 #EXTVLCOPT:http-user-agent=dovietsy
 #https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist.m3u8
 https://live.fptplay53.net/live/media/vtv10/live247-hls-avc/index.m3u8
@@ -674,4 +674,4 @@ https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 
 #ref https://raw.githubusercontent.com/dovietsy/acestreamfb/main/acestreamfb.txt
-#update June 9, 2026, vtv2, vtv3, thvl1
+#update June 9, 2026, vtv2, vtv3, thvl1, vtv1, remove cache-source
