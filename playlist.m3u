@@ -311,7 +311,8 @@ https://vtvgolive-ssaimh.vtvdigital.vn/apPJmKHUPAd1c4s8gx22ew/1753814229/manifes
 
 #EXTINF:0 tvg-id="vtv4hd" group-title="🌟| VTV FPT" catchup="append" catchup-days="0.3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1200px-VTV4_logo_2013_final.svg.png",VTV4 [F]
 #EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
+#https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
+https://live.fptplay53.net/live/media/vtv4/live247-hls-avc/index.m3u8
 
 #EXTINF:0 tvg-id="vtv5hd" group-title="🌟| VTV FPT" catchup="append" catchup-days="0.3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png",VTV5 [F]
 #EXTVLCOPT:http-user-agent=dovietsy
@@ -674,4 +675,4 @@ https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 
 #ref https://raw.githubusercontent.com/dovietsy/acestreamfb/main/acestreamfb.txt
-#update June 9, 2026, vtv2, vtv3, thvl1, vtv1, remove cache-source
+#update June 9, 2026, vtv2, vtv3, thvl1, vtv1, remove cache-source, vtv4
