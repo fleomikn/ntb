@@ -2,7 +2,7 @@
 #EXTM3U
 #https://raw.githubusercontent.com/fleomikn/ntb/main/playlist.m3u
 #Báo và phát thanh, truyền hình An Giang	ATV1, ATV2, ATV3
-#EXTINF:-1 tvg-id="angiang" group-title="🇻🇳| Địa phương FPT" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/uvjjp3zi_an-giang_296_168.png",ATV2 | An Giang TV2 [F]
+#EXTINF:-1 tvg-id="angiang" tvg-chno=100 group-title="🇻🇳| Địa phương FPT" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/uvjjp3zi_an-giang_296_168.png",ATV2 | An Giang TV2 [F]
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="AnGiangTV1.vn@SD" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/mgp6RAU.png",ATV1 | An Giang TV1 (1080p) [G-b]
