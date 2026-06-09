@@ -257,27 +257,26 @@ http://222.254.48.230:8889/ace/tv360mpd.php?id=92
 
 
 #Báo và phát thanh, truyền hình Vĩnh Long: THVL1, THVL2, THVL3, THVL4, THVL5
-#EXTINF:0 tvg-id="vinhlong1hd" group-title="🏞️| Quê hương FPT",💚| Vĩnh Long 1
+https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="VinhLongTV1.vn@HD" tvg-logo="https://i.imgur.com/5YFsqPx.png" group-title="General;News",THVL1_Vĩnh Long 1 (1080p) [F|G-b]
+#EXTINF:0 tvg-id="vinhlong1hd" group-title="🏞️| Quê hương FPT",THVL1_Vĩnh Long 1 [F]
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="VinhLongTV1.vn@HD" tvg-logo="https://i.imgur.com/5YFsqPx.png" group-title="General;News",THVL1_Vĩnh Long TV1 (1080p) [G-b]
-https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8
 
-#EXTINF:0 tvg-id="vinhlong2hd" group-title="🏞️| Quê hương FPT" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/03/21/s5a0ind2_thumb-vinh-long-28e178b8b7610fcac686d4db7f93630ae_296_168.png",💚| THVL2_Vĩnh Long 2
+#EXTINF:0 tvg-id="vinhlong2hd" group-title="🏞️| Quê hương FPT" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/03/21/s5a0ind2_thumb-vinh-long-28e178b8b7610fcac686d4db7f93630ae_296_168.png",THVL2_Vĩnh Long 2 [F]
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist.m3u8
 
-#EXTINF:0 tvg-id="vinhlong3hd" group-title="🏞️| Quê hương FPT" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/02/27/1gnf3s0c_3d1a0e431a504ecc9149e67ac8aa0a596_296_168.png",💚| THVL3_Vĩnh Long 3
+#EXTINF:0 tvg-id="vinhlong3hd" group-title="🏞️| Quê hương FPT" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/02/27/1gnf3s0c_3d1a0e431a504ecc9149e67ac8aa0a596_296_168.png",THVL3_Vĩnh Long 3 [F]
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist.m3u8
 
-#EXTINF:0 tvg-id="vinhlong4hd" group-title="🏞️| Quê hương FPT" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/02/27/r26h5snk_4332b8919ef1a9049e9711064f4a94915_296_168.png",💚| THVL4_Vĩnh Long 4
+#EXTINF:0 tvg-id="vinhlong4hd" group-title="🏞️| Quê hương FPT" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/02/27/r26h5snk_4332b8919ef1a9049e9711064f4a94915_296_168.png",THVL4_Vĩnh Long 4 [F]
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="TraVinhTV.vn@HD" tvg-logo="https://i.imgur.com/F12VdKO.png" group-title="Culture;Entertainment;Music;News",THVL5_Vĩnh Long 5 (1080p) [F|G-b]
 https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
-
 
 #Đài Truyền hình Việt Nam
 #Thương hiệu VTV
