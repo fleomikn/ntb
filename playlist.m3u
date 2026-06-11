@@ -1,14 +1,6 @@
 
 #EXTM3U
 
-
-#Báo và phát thanh, truyền hình Bắc Ninh	BTV
-#EXTINF:-1 tvg-id="bacninh" group-title="🇻🇳| Địa phươngTV360" tvg-logo="https://i.imgur.com/2ctllpD.png", BTV HD | TH Bắc Ninh
-http://222.254.48.230:8889/ace/tv360mpd.php?id=39
-#EXTINF:-1 tvg-id="bacninh" group-title="🇻🇳| Địa phươngFPT" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/17/5yhnk0cr_bacninh_296_168.png", BTV | TH Bắc Ninh
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/fnxsd1/bacninh_hls.smil/chunklist.m3u8
-
 #Báo và phát thanh, truyền hình Cà Mau	CTV
 #EXTINF:-1 tvg-id="camau" group-title="🇻🇳| Địa phươngFPT" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/15/v9up84rb_camautv_296_168.png", CTV | Cà Mau
 #EXTVLCOPT:http-user-agent=dovietsy
@@ -674,6 +666,14 @@ https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8
 
 #EXTINF:-1 tvg-id="AnGiangTV3.vn@SD" tvg-chno=102 group-title="Địa phương" tvg-logo="https://i.imgur.com/gZUV4z8.png" ,ATV3 | An Giang TV3 (1080p) [G-b]
 https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
+
+#Báo và phát thanh, truyền hình Bắc Ninh BTV
+#EXTINF:-1 tvg-id="bacninh" tvg-chno=103 group-title="🇻🇳| Địa phươngTV360" tvg-logo="https://i.imgur.com/2ctllpD.png", BTV HD | TH Bắc Ninh
+#http://222.254.48.230:8889/ace/tv360mpd.php?id=39
+#EXTINF:-1 tvg-id="bacninh" tvg-chno=103 group-title="🇻🇳| Địa phương_F" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/17/5yhnk0cr_bacninh_296_168.png", BTV | TH Bắc Ninh
+#EXTVLCOPT:http-user-agent=dovietsy
+#https://live.fptplay53.net/fnxsd1/bacninh_hls.smil/chunklist.m3u8
+https://live.fptplay53.net/fnxsd1/bacninh01_hls.smil/chunklist.m3u8
 
 #ref https://raw.githubusercontent.com/dovietsy/acestreamfb/main/acestreamfb.txt
 #update June 9, 2026, vtv2, vtv3, thvl1, vtv1, remove cache-source, vtv4
