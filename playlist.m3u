@@ -364,17 +364,26 @@ https://hoiquan.dpdns.org/VTVGo/?sctv9
 #EXTINF:10, SCTV4K
 
 #Thương hiệu VTVcab
-#EXTINF:10, ON Vie Giải Trí (VTVCab1)
+#EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" group-logo="https://i.imgur.com/eqZMYx0.png" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí (VTVCab1)
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=180
+
 #EXTINF:10, ON Vie Dramas
 #EXTVLCOPT:network-caching=1000
 http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8
 #EXTINF:10, ON Phim Việt
+#EXTVLCOPT:network-caching=1000
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=175
+
 #EXTINF:10, ON Cine
 #EXTINF:10, ON Movies - YouTV
 #EXTINF:10, ON Echannel
+
 #EXTINF:10, ON O2TV
+#EXTVLCOPT:network-caching=1000
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=136
+
 #EXTINF:10, ON Bibi
 #EXTINF:10, ON Kids
 #EXTINF:10, ON Info TV
@@ -391,12 +400,9 @@ http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8
 #EXTINF:10, ON Home Shopping - VTV Hyundai Home Shopping
 
 #VTV Cab
-#EXTINF:-1 tvg-id="onviegiaitri" group-title="KÊNH VTVcab" group-logo="https://i.imgur.com/eqZMYx0.png" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=180
 #EXTINF:-1 tvg-id="onphimviet" group-title="KÊNH VTVcab" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=175
+#https://vpsttt.vietanhtv.top/tv360/tv360.php?id=175
 #EXTINF:-1 tvg-id="onmovies" group-title="KÊNH VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=181
@@ -405,7 +411,7 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=181
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=182
 #EXTINF:-1 tvg-id="ono2tv" group-title="KÊNH VTVcab" tvg-logo="https://i.imgur.com/nqwVkmM.png",ON O2TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=136
+#https://vpsttt.vietanhtv.top/tv360/tv360.php?id=136
 #EXTINF:-1 tvg-id="onbibi" group-title="KÊNH VTVcab" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BiBi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=178
