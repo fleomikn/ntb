@@ -7,12 +7,12 @@
 https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist.m3u8
 
 #Báo và phát thanh, truyền hình Cao Bằng	CRTV
-#EXTINF:-1 tvg-id="caobang" group-title="🇻🇳| Địa phươngTV360" tvg-logo="https://i.imgur.com/MP2NeTn.png", CRTV HD | TH Cao Bằng
-http://222.254.48.230:8889/ace/tv360mpd.php?id=48
-#EXTINF:32,CAO BANG
+#EXTINF:-1 tvg-id="caobang" group-title="🇻🇳| Địa phươngTV360" tvg-logo="https://i.imgur.com/MP2NeTn.png",CRTV | Cao Bằng
+#http://222.254.48.230:8889/ace/tv360mpd.php?id=48
+#EXTINF:32,CRTV | Cao Bằng
 #EXTVLCOPT:network-caching=1000
 http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_w730649992_b1384000.m3u8
-#EXTINF:-1 tvg-id="caobang" group-title="🇻🇳| Địa phươngFPT" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/79/CRTV_logo_1997.png/revision/latest/scale-to-width-down/180?cb=20220427114001&path-prefix=vi", CRTV Cao Bằng
+#EXTINF:-1 tvg-id="caobang" group-title="🇻🇳| Địa phương_F" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/79/CRTV_logo_1997.png/revision/latest/scale-to-width-down/180?cb=20220427114001&path-prefix=vi", CRTV | Cao Bằng
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/fnxsd1/caobang_hls.smil/chunklist.m3u8
 
