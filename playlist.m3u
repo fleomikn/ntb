@@ -388,7 +388,7 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=175
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=176
 
-#EXTINF:-1 tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies - YouTV
+#EXTINF:-1 tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies_YouTV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=181
@@ -730,7 +730,7 @@ https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
 #Báo và phát thanh, truyền hình Bắc Ninh BTV
 #EXTINF:-1 tvg-id="bacninh" tvg-chno=103 group-title="🇻🇳| Địa phươngTV360" tvg-logo="https://i.imgur.com/2ctllpD.png",BTV HD | TH Bắc Ninh
 #http://222.254.48.230:8889/ace/tv360mpd.php?id=39
-#EXTINF:-1 tvg-id="bacninh" tvg-chno=103 group-title="🇻🇳| Địa phương_F" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/17/5yhnk0cr_bacninh_296_168.png", BTV | TH Bắc Ninh
+#EXTINF:-1 tvg-id="bacninh" tvg-chno=103 group-title="🇻🇳| Địa phương_F" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/17/5yhnk0cr_bacninh_296_168.png",BTV | TH Bắc Ninh
 #EXTVLCOPT:http-user-agent=dovietsy
 #https://live.fptplay53.net/fnxsd1/bacninh_hls.smil/chunklist.m3u8
 https://live.fptplay53.net/fnxsd1/bacninh01_hls.smil/chunklist.m3u8
