@@ -382,21 +382,41 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=175
 
 #EXTINF:10, ON O2TV
 #EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=136
 
 #EXTINF:10, ON Bibi
-#EXTINF:10, ON Kids
+
+#EXTINF:-1 tvg-id="onkids" group-title="KÊNH VTVcab" tvg-logo="https://i.imgur.com/Y2SzhHG.png",ON Kids
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=179
+
 #EXTINF:10, ON Info TV
 #EXTINF:10, ON Style TV
 #EXTINF:10, ON Music
 #EXTINF:10, ON Trending TV
-#EXTINF:10, ON VFamily
-#EXTINF:10, ON Life
+
+#EXTINF:-1 tvg-id="onvfamily" group-title="VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:network-caching=1000
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=187
+
+#EXTINF:-1 tvg-id="onlife" group-title="VTVcab" tvg-logo="https://i.imgur.com/2xT5HFx.png",ON Life
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=188
+
 #EXTINF:10, ON Sports
 #EXTINF:10, ON Sports+
 #EXTINF:10, ON Sports News
 #EXTINF:10, ON Football
-#EXTINF:10, ON Golf
+
+#EXTINF:-1 tvg-id="ongolf" group-title="VTVcab" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=169
+
 #EXTINF:10, ON Home Shopping - VTV Hyundai Home Shopping
 
 #VTV Cab
@@ -434,18 +454,9 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=185
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=186
 #EXTINF:-1 tvg-id="onviedramas" group-title="KÊNH VTVcab" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie DRAMAS
 http://dvrfl05.bozztv.com/vch_vchannel18/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="onvfamily" group-title="KÊNH VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=187
-#EXTINF:-1 tvg-id="onkids" group-title="KÊNH VTVcab" tvg-logo="https://i.imgur.com/Y2SzhHG.png",ON KIDS
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=179
-#EXTINF:-1 tvg-id="onlife" group-title="KÊNH VTVcab" tvg-logo="https://i.imgur.com/2xT5HFx.png",On Life
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=188
-#EXTINF:-1 tvg-id="ongolf" group-title="KÊNH VTVcab" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=169
+
+
+
 
 
 #Cục Truyền thông Công an Nhân dân
