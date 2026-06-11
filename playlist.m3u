@@ -388,7 +388,7 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=175
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=176
 
-#EXTINF:-1 tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies_YouTV
+#EXTINF:-1 tvg-id="onmovies" group-title="VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies (YouTV)
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=181
@@ -448,7 +448,7 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=188
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=169
 
-#EXTINF:-1 tvg-id="onhomeshop" group-title="VTVcab" group-logo="https://i.imgur.com/SjCGeDj.png" tvg-logo="https://i.imgur.com/g6it2z6.png",ON Home Shopping - VTV Hyundai Home Shopping
+#EXTINF:-1 tvg-id="onhomeshop" group-title="VTVcab" group-logo="https://i.imgur.com/SjCGeDj.png" tvg-logo="https://i.imgur.com/g6it2z6.png",ON Home Shopping (VTV Hyundai Home Shopping)
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://liveh34.vtvprime.vn/hls/SCTV10/01.m3u8
