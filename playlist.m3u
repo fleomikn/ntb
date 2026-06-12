@@ -350,7 +350,17 @@ https://liveh12.vtvprime.vn/hls/SCTV2/03.m3u8
 
 
 #EXTINF:10, SCTV3 - SeeTV
+#EXTINF:-1 tvg-id="sctv3hd" group-title="KÊNH SCTV - TH CÁP Saigontourist" tvg-logo="https://i.imgur.com/7LYilMt.png",SCTV3 | SEE TV HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://hoiquan.dpdns.org/VTVGo/?sctv3
+
 #EXTINF:10, SCTV4
+#EXTINF:-1 tvg-id="sctv4hd" group-title="KÊNH SCTV - TH CÁP Saigontourist" tvg-logo="https://i.imgur.com/1RDaToZ.png",SCTV4 | LET'S VIỆT HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://liveh12.vtvprime.vn/hls/SCTV4/03.m3u8
+
 #EXTINF:10, SCTV5 - SCJ TV Shopping
 #EXTINF:-1 tvg-id="sctv6hd" group-title="🏞️| Quê hương FPT" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/58/SCTV6_logo.png/revision/latest?cb=20200409033954&path-prefix=vi",SCTV6 - FIM360 (1080p) [G-b]
 #EXTVLCOPT:http-user-agent="dovietsy"
@@ -386,10 +396,6 @@ https://hoiquan.dpdns.org/VTVGo/?sctv18
 #EXTINF:10, SCTV22 - SSPORT1
 #EXTINF:10, SCTV4K
 
-#EXTINF:-1 tvg-id="sctv3hd" group-title="KÊNH SCTV - TH CÁP Saigontourist" tvg-logo="https://i.imgur.com/7LYilMt.png",SCTV3 - SEE TV HD
-https://hoiquan.dpdns.org/VTVGo/?sctv3
-#EXTINF:-1 tvg-id="sctv4hd" group-title="KÊNH SCTV - TH CÁP Saigontourist" tvg-logo="https://i.imgur.com/1RDaToZ.png",SCTV4 - LET'S VIỆT HD
-https://liveh12.vtvprime.vn/hls/SCTV4/03.m3u8
 #EXTINF:-1 tvg-id="sctv6hd" group-title="KÊNH SCTV - TH CÁP Saigontourist" tvg-logo="https://i.postimg.cc/PqcqqxhT/FIM360-logo.webp",SCTV6 - FIM 360 HD
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
