@@ -343,7 +343,7 @@ https://liveh12.vtvprime.vn/hls/SCTV1/03.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://liveh12.vtvprime.vn/hls/SCTV2/index.m3u8
-#EXTINF:-1 tvg-id="sctv2hd" group-title="KÊNH SCTV - TH CÁP Saigontourist" tvg-logo="https://i.imgur.com/iMDjKF9.png",SCTV2 - todayTV HD
+#EXTINF:-1 tvg-id="sctv2hd" group-title="KÊNH SCTV - TH CÁP Saigontourist" tvg-logo="https://i.imgur.com/iMDjKF9.png",SCTV2 | todayTV HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://liveh12.vtvprime.vn/hls/SCTV2/03.m3u8
