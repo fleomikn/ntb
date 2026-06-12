@@ -363,6 +363,44 @@ https://hoiquan.dpdns.org/VTVGo/?sctv9
 #EXTINF:10, SCTV22 - SSPORT1
 #EXTINF:10, SCTV4K
 
+#EXTINF:-1 tvg-id="sctv1hd" group-title="KÊNH SCTV - TH CÁP Saigontourist" group-logo="https://i.imgur.com/1zCLFYw.png" tvg-logo="https://i.imgur.com/oPjCa43.png",SCTV1 HD
+https://liveh12.vtvprime.vn/hls/SCTV1/03.m3u8
+#EXTINF:-1 tvg-id="sctv2hd" group-title="KÊNH SCTV - TH CÁP Saigontourist" tvg-logo="https://i.imgur.com/iMDjKF9.png",SCTV2 - todayTV HD
+https://liveh12.vtvprime.vn/hls/SCTV2/03.m3u8
+#EXTINF:-1 tvg-id="sctv3hd" group-title="KÊNH SCTV - TH CÁP Saigontourist" tvg-logo="https://i.imgur.com/7LYilMt.png",SCTV3 - SEE TV HD
+https://hoiquan.dpdns.org/VTVGo/?sctv3
+#EXTINF:-1 tvg-id="sctv4hd" group-title="KÊNH SCTV - TH CÁP Saigontourist" tvg-logo="https://i.imgur.com/1RDaToZ.png",SCTV4 - LET'S VIỆT HD
+https://liveh12.vtvprime.vn/hls/SCTV4/03.m3u8
+#EXTINF:-1 tvg-id="sctv6hd" group-title="KÊNH SCTV - TH CÁP Saigontourist" tvg-logo="https://i.postimg.cc/PqcqqxhT/FIM360-logo.webp",SCTV6 - FIM 360 HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="sctv7hd" group-title="KÊNH SCTV - TH CÁP Saigontourist" tvg-logo="https://i.imgur.com/hLPt0As.png",SCTV7 HD
+https://hoiquan.dpdns.org/VTVGo/?sctv7
+#EXTINF:-1 tvg-id="sctv8hd" group-title="KÊNH SCTV - TH CÁP Saigontourist" tvg-logo="https://i.imgur.com/BQIrc6A.png",SCTV8 - VITV HD
+https://hoiquan.dpdns.org/VTVGo/?sctv8
+#EXTINF:-1 tvg-id="sctv9hd" group-title="KÊNH SCTV - TH CÁP Saigontourist" tvg-logo="https://i.imgur.com/OJMbhow.png",SCTV9 HD
+https://hoiquan.dpdns.org/VTVGo/?sctv9
+#EXTINF:-1 tvg-id="sctv11hd" group-title="KÊNH SCTV - TH CÁP Saigontourist" tvg-logo="https://i.imgur.com/kPOmK1f.png",SCTV11 HD
+https://hoiquan.dpdns.org/VTVGo/?sctv11
+#EXTINF:-1 tvg-id="sctv12hd" group-title="KÊNH SCTV - TH CÁP Saigontourist" tvg-logo="https://i.imgur.com/5nrSZd8.png",SCTV12 HD
+https://hoiquan.dpdns.org/VTVGo/?sctv12
+#EXTINF:-1 tvg-id="sctv13hd" group-title="KÊNH SCTV - TH CÁP Saigontourist" tvg-logo="https://i.imgur.com/aoz1iDw.png",SCTV13 HD
+https://hoiquan.dpdns.org/VTVGo/?sctv13
+#EXTINF:-1 tvg-id="sctv14hd" group-title="KÊNH SCTV - TH CÁP Saigontourist" tvg-logo="https://i.imgur.com/PcWk3xl.png",SCTV14 - KÊNH PHIM VIỆT HD
+https://hoiquan.dpdns.org/VTVGo/?sctv14
+#EXTINF:-1 tvg-id="sctv16hd" group-title="KÊNH SCTV - TH CÁP Saigontourist" tvg-logo="https://i.imgur.com/ldCYtvt.png",SCTV16 - PHIM NƯỚC NGOÀI ĐẶC SẮC HD
+https://hoiquan.dpdns.org/VTVGo/?sctv16
+#EXTINF:-1 tvg-id="sctv18hd" group-title="KÊNH SCTV - TH CÁP Saigontourist" tvg-logo="https://i.imgur.com/FfUSlgI.png",SCTV18 HD
+https://hoiquan.dpdns.org/VTVGo/?sctv18
+#EXTINF:-1 tvg-id="sctv19hd" group-title="KÊNH SCTV - TH CÁP Saigontourist" tvg-logo="https://i.imgur.com/dKvkAtU.png",SCTV19 - Channel T HD
+https://hoiquan.dpdns.org/VTVGo/?sctv19
+#EXTINF:-1 tvg-id="sctv20hd" group-title="KÊNH SCTV - TH CÁP Saigontourist" tvg-logo="https://i.postimg.cc/2SRL7shx/i-TV.png",SCTV20 - iTV HD
+https://hoiquan.dpdns.org/VTVGo/?sctv20
+#EXTINF:-1 tvg-id="sctv21hd" group-title="KÊNH SCTV - TH CÁP Saigontourist" tvg-logo="https://i.imgur.com/onPtlVa.png",SCTV21 - VIỆT NAM KÝ ỨC HD
+https://hoiquan.dpdns.org/VTVGo/?sctv21
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="KÊNH SCTV - TH CÁP Saigontourist" tvg-logo="https://i.imgur.com/VzZYa4n.png",SCTV PHIM TỔNG HỢP HD
+https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
+
 #Thương hiệu VTVcab
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="VTVcab" group-logo="https://i.imgur.com/eqZMYx0.png" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí (VTVCab1)
 #EXTVLCOPT:network-caching=1000
