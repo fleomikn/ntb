@@ -345,7 +345,10 @@ https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8
 
 #EXTINF:10, SCTV7 - SHOW TV
 #EXTINF:10, SCTV8 - VITV
+
 #EXTINF:-1 tvg-id="sctv9hd" group-title="KÊNH SCTV - TH CÁP Saigontourist" tvg-logo="https://i.imgur.com/OJMbhow.png",SCTV9 HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://hoiquan.dpdns.org/VTVGo/?sctv9
 
 #EXTINF:10, SCTV10 - Happymall
@@ -356,7 +359,14 @@ https://hoiquan.dpdns.org/VTVGo/?sctv9
 #EXTINF:10, SCTV15 - SSPORT2
 #EXTINF:10, SCTV16
 #EXTINF:10, SCTV17 - SSPORT
+
 #EXTINF:10, SCTV18
+#EXTINF:-1 tvg-id="sctv18hd" group-title="KÊNH SCTV - TH CÁP Saigontourist" tvg-logo="https://i.imgur.com/FfUSlgI.png",SCTV18 HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://hoiquan.dpdns.org/VTVGo/?sctv18
+
+
 #EXTINF:10, SCTV19 - Channel T
 #EXTINF:10, SCTV20
 #EXTINF:10, SCTV21 - Việt Nam Ký Ức
@@ -390,8 +400,6 @@ https://hoiquan.dpdns.org/VTVGo/?sctv13
 https://hoiquan.dpdns.org/VTVGo/?sctv14
 #EXTINF:-1 tvg-id="sctv16hd" group-title="KÊNH SCTV - TH CÁP Saigontourist" tvg-logo="https://i.imgur.com/ldCYtvt.png",SCTV16 - PHIM NƯỚC NGOÀI ĐẶC SẮC HD
 https://hoiquan.dpdns.org/VTVGo/?sctv16
-#EXTINF:-1 tvg-id="sctv18hd" group-title="KÊNH SCTV - TH CÁP Saigontourist" tvg-logo="https://i.imgur.com/FfUSlgI.png",SCTV18 HD
-https://hoiquan.dpdns.org/VTVGo/?sctv18
 #EXTINF:-1 tvg-id="sctv19hd" group-title="KÊNH SCTV - TH CÁP Saigontourist" tvg-logo="https://i.imgur.com/dKvkAtU.png",SCTV19 - Channel T HD
 https://hoiquan.dpdns.org/VTVGo/?sctv19
 #EXTINF:-1 tvg-id="sctv20hd" group-title="KÊNH SCTV - TH CÁP Saigontourist" tvg-logo="https://i.postimg.cc/2SRL7shx/i-TV.png",SCTV20 - iTV HD
