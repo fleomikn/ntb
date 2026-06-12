@@ -330,7 +330,14 @@ https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
 
 #EXTINF:10, SCTV1
 #EXTINF:-1 tvg-id="SCTV1.vn@SD" tvg-logo="https://i.imgur.com/UcMXcHF.png" group-title="SCTV",SCTV1 (720p)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://liveh12.vtvprime.vn/hls/SCTV1/index.m3u8
+#EXTINF:-1 tvg-id="sctv1hd" group-title="KÊNH SCTV - TH CÁP Saigontourist" group-logo="https://i.imgur.com/1zCLFYw.png" tvg-logo="https://i.imgur.com/oPjCa43.png",SCTV1 HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://liveh12.vtvprime.vn/hls/SCTV1/03.m3u8
+
 
 #EXTINF:10, SCTV2 - TodayTV
 #EXTINF:-1 tvg-id="SCTV2.vn@SD" tvg-logo="https://i.imgur.com/8i5DXIg.png" group-title="SCTV",SCTV2 (720p)
@@ -373,8 +380,6 @@ https://hoiquan.dpdns.org/VTVGo/?sctv18
 #EXTINF:10, SCTV22 - SSPORT1
 #EXTINF:10, SCTV4K
 
-#EXTINF:-1 tvg-id="sctv1hd" group-title="KÊNH SCTV - TH CÁP Saigontourist" group-logo="https://i.imgur.com/1zCLFYw.png" tvg-logo="https://i.imgur.com/oPjCa43.png",SCTV1 HD
-https://liveh12.vtvprime.vn/hls/SCTV1/03.m3u8
 #EXTINF:-1 tvg-id="sctv2hd" group-title="KÊNH SCTV - TH CÁP Saigontourist" tvg-logo="https://i.imgur.com/iMDjKF9.png",SCTV2 - todayTV HD
 https://liveh12.vtvprime.vn/hls/SCTV2/03.m3u8
 #EXTINF:-1 tvg-id="sctv3hd" group-title="KÊNH SCTV - TH CÁP Saigontourist" tvg-logo="https://i.imgur.com/7LYilMt.png",SCTV3 - SEE TV HD
