@@ -760,9 +760,11 @@ https://ali-m-l.cztv.com/channels/lantian/channel18/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/cctv2.jpg" group-title="CCTV",CCTV2
 #EXTVLCOPT:network-caching=1000
 https://ldocctvwbcdkshw.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv2_1/index.m3u8?BR=hd&region=shanghai
-#EXTINF:-1 group-title="CCTV",CCTV2
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/cctv2.jpg" group-title="CCTV",CCTV2
 #EXTVLCOPT:network-caching=1000
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/cctv2.jpg" group-title="CCTV",CCTV2_ip
+http://112.27.235.94:8000/hls/2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630316623268_171.png" group-title="CCTV",CCTV3
 https://ldocctvwbcdkshw.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv3_1/index.m3u8?BR=hd&region=shanghai
