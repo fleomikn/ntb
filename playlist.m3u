@@ -1,33 +1,33 @@
 
 #EXTM3U
 
-#Báo và phát thanh, truyền hình Đắk Lắk	DRT
-#EXTINF:-1 tvg-id="daklak" group-title="🇻🇳| Địa phươngFPT" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/dyrxfpju_dak-lak_296_168.png", DRT | Đắklắk
+#Báo và phát thanh, truyền hình Đắk Lắk DRT
+#EXTINF:-1 tvg-id="daklak" group-title="🇻🇳| Địa phương" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/dyrxfpju_dak-lak_296_168.png", DRT | Đắklắk[F]
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/epzsd1/daklak_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="daknong" group-title="🇻🇳| Địa phươngFPT" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/f9he9pvi_dak-nong_296_168.png", PTD | Đắk Nông
+#EXTINF:-1 tvg-id="daknong" group-title="🇻🇳| Địa phương" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/f9he9pvi_dak-nong_296_168.png", PTD | Đắk Nông
 #EXTVLCOPT:http-user-agent=dovietsy
 https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8
 #EXTINF:25,DAK NONG_PTD_dacnong.480p
 #EXTVLCOPT:network-caching=1000
-https://1011337676.vnns.net/htvc/dacnong.480p.fpt.tms/playlist.m3u8
+#https://1011337676.vnns.net/htvc/dacnong.480p.fpt.tms/playlist.m3u8
 
-#Báo và phát thanh, truyền hình Điện Biên	ĐTV
-#EXTINF:-1 tvg-id="dienbien" group-title="🇻🇳| Địa phươngFPT" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/11/15/mbbbn1n5_dien-bien_296_168.png", ĐTV | Điện Biên
+#Báo và phát thanh, truyền hình Điện Biên ĐTV
+#EXTINF:-1 tvg-id="dienbien" group-title="🇻🇳| Địa phương" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/11/15/mbbbn1n5_dien-bien_296_168.png", ĐTV | Điện Biên[F]
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/fnxsd1/dienbien_hls.smil/chunklist.m3u8
 
-#Báo và phát thanh, truyền hình Đồng Nai	ĐNNRTV1, ĐNNRTV2, ĐNNRTV3
-#EXTINF:-1 tvg-id="dongnai1" group-title="🇻🇳| Địa phươngFPT" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/sc8akpju_dong-nai-1_296_168.png", ĐNRTV1 | Đồng Nai
+#Báo và phát thanh, truyền hình Đồng Nai ĐNNRTV1, ĐNNRTV2, ĐNNRTV3
+#EXTINF:-1 tvg-id="dongnai1" group-title="🇻🇳| Địa phương" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/sc8akpju_dong-nai-1_296_168.png", ĐNRTV1 | Đồng Nai 1[F]
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="dongnai2" group-title="🇻🇳| Địa phươngFPT" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/sc8akpju_dong-nai-1_296_168.png", ĐNRTV2 | Đồng Nai
+#EXTINF:-1 tvg-id="dongnai2" group-title="🇻🇳| Địa phương" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/sc8akpju_dong-nai-1_296_168.png", ĐNRTV2 | Đồng Nai 2[F]
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="dongnai3" group-title="🇻🇳| Địa phươngFPT" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/02/18/qp2bws69_dongnai3_296_168.png", ĐNRTV3 | Đồng Nai
+#EXTINF:-1 tvg-id="dongnai3" group-title="🇻🇳| Địa phương" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/02/18/qp2bws69_dongnai3_296_168.png", ĐNRTV3 | Đồng Nai 3[F] 
 #EXTVLCOPT:http-user-agent=dovietsy
 #https://live.fptplay53.net/
 
