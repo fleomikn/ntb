@@ -749,21 +749,6 @@ https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
 
 #CCTV
-#EXTINF:-1,CCTV-4 America (1080p)
-#EXTVLCOPT:network-caching=1000
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/cctv4.png" group-title="CCTV",CCTV4
-#https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-HLS8/cctv4.m3u8
-http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CCTV-4-HQ/G_CCTV-4-HQ.m3u8?p=GITV&area=GD_CUCC&$4M
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/cctv4.png" group-title="CCTV",CCTV4
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kx8metk.png" group-title="CCTV" ,CCTV4_v
-https://dash.antik.sk/live/test_cctv_tizen/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/cctv8.jpg" group-title="CCTV",CCTV8
 #EXTVLCOPT:network-caching=1000
@@ -802,14 +787,26 @@ http://74.91.26.218:82/live/cctv3hd.m3u8
 #EXTINF:-1 tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630316623268_171.png" group-title="Entertainment",CCTV3
 https://ldocctvwbcdkshw.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv3_1/index.m3u8?BR=hd&region=shanghai
 
-#EXTINF:-1 tvg-id="CCTV4America.cn@SD" tvg-logo="https://i.imgur.com/gBbLyqh.png" group-title="General",CCTV-4 America (1080p)
+#EXTINF:-1 tvg-id="CCTV4America.cn@SD" tvg-logo="https://i.imgur.com/gBbLyqh.png" group-title="General",CCTV4 America (1080p)
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-#EXTINF:-1 tvg-id="CCTV4Asia.cn@SD" tvg-logo="https://i.imgur.com/tWt4Wou.png" group-title="General",CCTV-4 Asia (720p)
+
+#EXTINF:-1 tvg-id="CCTV4Asia.cn@SD" tvg-logo="https://i.imgur.com/tWt4Wou.png" group-title="General",CCTV4 Asia (720p)
 http://74.91.26.218:82/live/cctv4hd.m3u8
-#EXTINF:-1 tvg-id="CCTV4Europe.cn@SD" tvg-logo="https://i.imgur.com/HGLFdfk.png" group-title="General",CCTV-4 Europe
+
+#EXTINF:-1 tvg-id="CCTV4Europe.cn@SD" tvg-logo="https://i.imgur.com/HGLFdfk.png" group-title="General",CCTV4 Europe
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kx8metk.png" group-title="General" ,CCTV4_v
+https://dash.antik.sk/live/test_cctv_tizen/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kx8metk.png" group-title="General",CCTV4
+#https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-HLS8/cctv4.m3u8
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CCTV-4-HQ/G_CCTV-4-HQ.m3u8?p=GITV&area=GD_CUCC&$4M
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kx8metk.png" group-title="General",CCTV4 auto
+#https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-HLS8/cctv4.m3u8
+http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_CCTV-4-HQ/G_CCTV-4-HQ.m3u8
+
 #EXTINF:-1 tvg-id="CCTV4K.cn@HD" tvg-logo="https://i.imgur.com/fxusYlX.png" group-title="General",CCTV-4K (1080p)
 http://198.204.240.250:82/live/cctv4k.m3u8
+
 #EXTINF:-1 tvg-id="CCTV5.cn@SD" tvg-logo="https://i.imgur.com/nbmnGwE.png" group-title="Sports",CCTV-5 (720p)
 http://74.91.26.218:82/live/cctv5hd.m3u8
 #EXTINF:-1 tvg-id="CCTV5Plus.cn@SD" tvg-logo="https://i.imgur.com/OK8mdJV.png" group-title="Sports",CCTV-5+ (720p)
