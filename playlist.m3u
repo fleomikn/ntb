@@ -678,25 +678,20 @@ https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="htvcdulichhd" group-title="💛| HTV" tvg-logo="https://img.hplus.com.vn/460x260/poster/2022/08/23/208163-DU-LICH-LOGO.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htvc-du-lich-cuoc-song/${start}/${offset}",HTVC Du lịch Cuộc sống HD [360]
 #EXTVLCOPT:http-user-agent=dovietsy
-#http://222.254.48.230:8889/ace/tv360mpd.php?id=133
-
+http://14.162.59.196:8889/ace/tv360mpd.php?id=133
 #EXTINF:-1 tvg-id="htvcdulichhd" group-title="💛| HTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/4syej015_htvcdulich_296_168.png",HTVC Du lịch Cuộc sống HD [V]
 #EXTVLCOPT:http-user-agent=dovietsy
 http://14.162.59.196:8889/Vieon.php?id=htvcdulich
-
 #EXTINF:-1 tvg-id="htvcdulichhd" group-title="💛| HTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/4syej015_htvcdulich_296_168.png",HTVC Du lịch Cuộc sống [F]
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="htvcplushd" group-title="💛| HTV" tvg-logo="https://img.hplus.com.vn/460x260/poster/2022/08/23/948735-HTVC-PLUS-LOGO.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htvc-plus/${start}/${offset}",HTVC Plus[360]
+#EXTINF:-1 tvg-id="htvcplushd" group-title="💛| HTV" tvg-logo="https://img.hplus.com.vn/460x260/poster/2022/08/23/948735-HTVC-PLUS-LOGO.png",HTVC Plus[360]
 #EXTVLCOPT:http-user-agent=dovietsy
 http://14.162.59.196:8889/ace/tv360mpd.php?id=132
-
-#EXTINF:-1 tvg-id="htvcplus" group-title="💛| HTV" tvg-logo="https://static2.vieon.vn/vieplay-image/
-thumbnail_v4/2022/03/31/v2ga72jr_htvc_296_168.png", HTVC Plus[V]
+#EXTINF:-1 tvg-id="htvcplus" group-title="💛| HTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/v2ga72jr_htvc_296_168.png",HTVC Plus[V]
 #EXTVLCOPT:http-user-agent=dovietsy
 http://14.162.59.196:8889/Vieon.php?id=htvcplus
-
 #EXTINF:-1 tvg-id="htvcplus" group-title="💛| HTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/v2ga72jr_htvc_296_168.png", HTVC Plus[F]
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
