@@ -1,6 +1,5 @@
 
 #EXTM3U
-
 #Báo và phát thanh, truyền hình Cà Mau	CTV
 #EXTINF:-1 tvg-id="camau" group-title="🇻🇳| Địa phươngFPT" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/15/v9up84rb_camautv_296_168.png", CTV | Cà Mau
 #EXTVLCOPT:http-user-agent=dovietsy
@@ -532,11 +531,13 @@ https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
 
 
 #Trung tâm Phát thanh – Truyền hình Quân đội
-#EXTINF:0 tvg-id="quocphong"  group-title="🏞️| Quê hương VIEON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/02/16/iqu38kg2_quocphong-newfa8917a6efb72debe7c917d4b19466ce_296_168.png",QPVN
+#EXTINF:0 tvg-id="quocphong"  group-title="🏞️| Quê hương" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/02/16/iqu38kg2_quocphong-newfa8917a6efb72debe7c917d4b19466ce_296_168.png",QPVN
 #EXTVLCOPT:http-user-agent=dovietsy
-http://222.254.48.230:8889/Vieon.php?id=quocphong
-#EXTINF:0 tvg-id="quocphong"  group-title="🏞️| Quê hương FPT" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/02/16/iqu38kg2_quocphong-newfa8917a6efb72debe7c917d4b19466ce_296_168.png",QPVN
+#http://222.254.48.230:8889/Vieon.php?id=quocphong
+http://14.162.59.196:8889/Vieon.php?id=quocphong
+#EXTINF:0 tvg-id="quocphong"  group-title="🏞️| Quê hương" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/02/16/iqu38kg2_quocphong-newfa8917a6efb72debe7c917d4b19466ce_296_168.png",QPVN[F]
 #EXTVLCOPT:http-user-agent=dovietsy
+#https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist.m3u8
 
 
