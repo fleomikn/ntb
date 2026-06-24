@@ -688,7 +688,7 @@ http://14.162.59.196:8889/Vieon.php?id=htvcdulich
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="htvcplushd" group-title="💛| HTVTV360" tvg-logo="https://img.hplus.com.vn/460x260/poster/2022/08/23/948735-HTVC-PLUS-LOGO.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htvc-plus/${start}/${offset}", HTVC+
+#EXTINF:-1 tvg-id="htvcplushd" group-title="💛| HTV" tvg-logo="https://img.hplus.com.vn/460x260/poster/2022/08/23/948735-HTVC-PLUS-LOGO.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htvc-plus/${start}/${offset}",HTVC Plus[360]
 #EXTVLCOPT:http-user-agent=dovietsy
 http://14.162.59.196:8889/ace/tv360mpd.php?id=132
 
