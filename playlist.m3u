@@ -745,12 +745,30 @@ https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist.m3u8
 #EXTVLCOPT:network-caching=1000
 https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
 
+#CCTV
 #EXTINF:10,CCTV+ 1 (600p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 #EXTINF:10,CCTV-4 America (1080p)
 #EXTVLCOPT:network-caching=1000
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/cctv1.jpg" group-title="XemTV",CCTV1
+https://ali-m-l.cztv.com/channels/lantian/channel18/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/cctv2.jpg" group-title="XemTV",CCTV2
+https://ldocctvwbcdkshw.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv2_1/index.m3u8?BR=hd&region=shanghai
+#EXTINF:-1 tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630316623268_171.png" group-title="XemTV",CCTV3
+https://ldocctvwbcdkshw.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv3_1/index.m3u8?BR=hd&region=shanghai
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/cctv4.png" group-title="XemTV",CCTV4
+https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-HLS8/cctv4.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/cctv8.jpg" group-title="XemTV",CCTV8
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/cctv13.png" group-title="XemTV",CCTV13
+https://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/cctv14.jpg" group-title="XemTV",CCTV14
+https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/cctv17.jpg" group-title="XemTV",CCTV17
+https://api.olelive.com/dis/live/CCTV17HD/hls.m3u8
+
 
 #https://raw.githubusercontent.com/fleomikn/ntb/main/playlist.m3u
 #Báo và phát thanh, truyền hình An Giang ATV1, ATV2, ATV3__100,101,102
@@ -790,16 +808,16 @@ https://live.fptplay53.net/fnxsd1/caobang_hls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist.m3u8
 
 #Báo và phát thanh, truyền hình Cần Thơ	CầnThơ1, CầnThơ2, CầnThơ3
-#EXTINF:-1 tvg-id="cantho" group-title="🇻🇳| Địa phươngFPT" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/c5tuh0ng_can-tho_296_168.png", THTPCT | Cần Thơ
+#EXTINF:-1 tvg-id="cantho" group-title="🇻🇳| Địa phương" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/c5tuh0ng_can-tho_296_168.png", THTPCT | Cần Thơ[F]
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist.m3u8
 
 #Báo và phát thanh, truyền hình Đà Nẵng	DNRT1, DNRT2
-#EXTINF:-1 tvg-id="danang1" group-title="🇻🇳| Địa phươngFPT" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/d8ub5k12_da-nang-1_296_168.png", DaNangTV1 | Đà Nẵng
+#EXTINF:-1 tvg-id="danang1" group-title="🇻🇳| Địa phương" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/d8ub5k12_da-nang-1_296_168.png", DNRT1 | Đà Nẵng 1[F]
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="danang2" group-title="🇻🇳| Địa phươngFPT" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/gkswvyqt_da-nang-2_296_168.png", DaNangTV2 | Đà Nẵng
+#EXTINF:-1 tvg-id="danang2" group-title="🇻🇳| Địa phương" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/gkswvyqt_da-nang-2_296_168.png", DNRT2 | Đà Nẵng 2[F]
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist.m3u8
 
