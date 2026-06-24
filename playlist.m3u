@@ -794,45 +794,45 @@ https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
 #EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/cctv17.jpg" group-title="XemTV",CCTV17
 https://api.olelive.com/dis/live/CCTV17HD/hls.m3u8
 
-#EXTINF:0 group-title="Quốc Tế",EWTN Africa Asia (720p)
+#EXTINF:0 group-title="Quốc Tế",EWTN Africa Asia (720p)_v
 #EXTVLCOPT:network-caching=1000
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
+#EXTINF:0 group-title="Quốc Tế",EWTN Asia-Pacific (720p) [Not 24/7]_v
+#EXTVLCOPT:network-caching=1000
+https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 
 
 #TESTING
-#EXTINF:0,CinemaWorld (576p)
-http://210.210.155.37/dr9445/h/h04/index.m3u8
-#EXTINF:0,CNBC Asia HD (720p) [G-b]
-https://cdn09jtedge.indihometv.com/joss/134/cnbcasia/index.m3u8
-#EXTINF:0,Crime + Investigation Asia HD (720p) [Geo-blocked]
-https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8
-#EXTINF:0,Dhammasapha TV (1080p)
-https://livefta.malimarcdn.com/ftaedge00/dhammasapha.stream/playlist.m3u8
-#EXTINF:0,EWTN Africa Asia (720p)
-https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
-#EXTINF:0,EWTN Asia-Pacific (720p) [Not 24/7]
-https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 #EXTINF:0,Hmong TV Network (720p)
-https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
-#EXTINF:0,Kanal 10 Asia (540p)
-http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
+#https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
 #EXTINF:0,Khanh Hoa TV (720p)
-http://210.245.20.94/hls/ktv1.m3u8
-#EXTINF:0,Lao SV TV (480p)
+#http://210.245.20.94/hls/ktv1.m3u8
+
+#EXTINF:0,CinemaWorld (576p)
+#http://210.210.155.37/dr9445/h/h04/index.m3u8
+#EXTINF:0,CNBC Asia HD (720p) [G-b]
+#https://cdn09jtedge.indihometv.com/joss/134/cnbcasia/index.m3u8
+#EXTINF:0,Crime + Investigation Asia HD (720p) [Geo-blocked]
+#https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8
+#EXTINF:0,Dhammasapha TV (1080p)
+#https://livefta.malimarcdn.com/ftaedge00/dhammasapha.stream/playlist.m3u8
+#EXTINF:0,Kanal 10 Asia (540p)
+#http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
+#EXTINF:0,Lao SV TV (480p)_v
 https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8
-#EXTINF:0,Lao-Thai TV (720p)
+#EXTINF:0,Lao-Thai TV (720p)_v
 https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
 #EXTINF:0,Nickelodeon Asia (720p)
-http://178.128.214.60:1234/stream/astro/nickelodeon/master.m3u8
+#http://178.128.214.60:1234/stream/astro/nickelodeon/master.m3u8
 #EXTINF:0,One TV Asia (576p) [Geo-blocked]
-http://210.210.155.37/uq2663/h/h143/index.m3u8
-#EXTINF:0,TV5 Monde Asia (Asie) (1080p) [Geo-blocked]
+#http://210.210.155.37/uq2663/h/h143/index.m3u8
+#EXTINF:0,TV5 Monde Asia (Asie) (1080p) [G-b]_v
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
-#EXTINF:0,TV5Monde Pacifique (1080p) [Geo-blocked]
+#EXTINF:0,TV5 Monde Pacifique (1080p) [Geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
 #EXTINF:0,tvN Movies (Indonesian Subtitle) (576p)
 http://210.210.155.37/dr9445/h/h21/index.m3u8
-#EXTINF:12,Uniquely Thai (720p)
+#EXTINF:12,Uniquely Thai (720p)_v
 https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8
 #EXTINF:0,VBS TV (480p) [Not 24/7]
 http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist.m3u8
