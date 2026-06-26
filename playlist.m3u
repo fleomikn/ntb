@@ -114,22 +114,23 @@ https://cloud.odysee.live/content/fdd11cb3ab75f95efb7b3bc2d726aa13ac915b66/maste
 #EXTINF:10, HanoiTV1 (1080p)[G-b]
 #EXTVLCOPT:network-caching=1000
 https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist.m3u8
+
 #EXTINF:10, HanoiTV2 (1080p)[G-b]
 #EXTVLCOPT:network-caching=1000
-https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8
+#https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8
+https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist_w242452699.m3u8
 
-#EXTINF:0 tvg-id="hanoi1" group-title="🏞️| Quê hương FPT",❤️|  Hà Nội 1
+#EXTINF:0 tvg-id="hanoi1" group-title="🏞️| Địa phương_F",❤️|  Hà Nội 1 [F]
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist.m3u8
-
-#EXTINF:0 tvg-id="hanoi2" group-title="🏞️| Quê hương FPT",❤️|  Hà Nội 2
+#EXTINF:0 tvg-id="hanoi2" group-title="🏞️| Địa phương_F",❤️|  Hà Nội 2 [F]
 #EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/fnxhd2/hanoitv2_hls.smil/chunklist.m3u8
+#https://live.fptplay53.net/fnxhd2/hanoitv2_hls.smil/chunklist.m3u8
 
-#EXTINF:0 tvg-id="hanoi1" group-title="🏞️| HA NOI", ❤️|  Hà Nội 1
+#EXTINF:0 tvg-id="hanoi1" group-title="🏞️| Địa phương", ❤️|  Hà Nội 1
 #EXTVLCOPT:http-user-agent=dovietsy
 https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist_w256840765_b3128000_slen.m3u8
-#EXTINF:0 tvg-id="hanoi2" group-title="🏞️| HA NOI", ❤️|  Hà Nội 2
+#EXTINF:0 tvg-id="hanoi2" group-title="🏞️| Địa phương", ❤️|  Hà Nội 2
 #EXTVLCOPT:http-user-agent=dovietsy
 https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist_w242452699.m3u8
 
