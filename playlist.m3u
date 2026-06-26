@@ -145,19 +145,19 @@ https://nhk.lls.pbs.org/index.m3u8
 #32 POCC1-RUSSIAN
 #33 DW NEWS
 #EXTINF:-1 tvg-id="DW.de@Arabic" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="News",DW Arabic (1080p)
-https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
+##https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
 #EXTINF:-1 tvg-id="DW.de@English" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="News",DW English (1080p)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 #EXTINF:-1 tvg-id="DW.de@Espanol" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="News",DW Espanol (1080p)
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+##https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:-1 tvg-id="DW.de@Russian" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="News",DW Russian (1080p)
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
 
 #34 RT NEWS
 #EXTINF:-1 tvg-id="RTArabic.ru@SD" tvg-logo="https://i.imgur.com/G8vGrn1.png" group-title="News",RT Arabic (1080p) [G-b]
-https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+##https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 #EXTINF:-1 tvg-id="RTDE.de@SD" tvg-logo="https://i.imgur.com/v1PIbB2.png" group-title="News",RT DE (1080p) [Not 24/7]
-https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
+##https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
 #EXTINF:-1 tvg-id="RTDocumentary.ru@English" tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="Documentary",RT Documentary English (1080p) [G-b]
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-id="RTDocumentary.ru@Russian" tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="Documentary",RT Documentary Russian (1080p)
@@ -182,7 +182,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1 tvg-id="TV5MondeStyle.fr@SD" tvg-logo="https://i.imgur.com/cwC7Q2V.png" group-title="Lifestyle",TV5Monde Style (1080p) [G-b]_v
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
-#EXTINF:-1 tvg-id="tv5monde" group-title="Quốc tế_F" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/600px-Logo_TV5_Monde_-_2021.svg.png", TV5Monde [F]
+#EXTINF:-1 tvg-id="tv5monde" group-title="Quốc tế_F" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/600px-Logo_TV5_Monde_-_2021.svg.png",TV5Monde [F]
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
 
