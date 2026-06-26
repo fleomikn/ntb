@@ -135,7 +135,7 @@ https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
 #https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
 
 #29 ARIANG WORLD
-#EXTINF:-1 tvg-id="arirang" group-title="Quốc tế_F" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png", Arirang [F]
+#EXTINF:-1 tvg-id="arirang" group-title="Quốc tế_F" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png",Arirang [F]
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8
 
@@ -184,6 +184,8 @@ https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 #EXTINF:-1 tvg-id="RT.ru@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142401_ld_h15_aa.png?lock=720x540" http-referrer="https://odysee.com/" group-title="News",RT News (1080p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/fdd11cb3ab75f95efb7b3bc2d726aa13ac915b66/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RU:RT" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/the_fishing_hunting_channel_se_eu.png" group-title="NEWS",RT.Russian
+http://14.162.59.196:8889/wed.php?id=24897
 
 #35 TV5 MONDE
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD" tvg-logo="https://i.imgur.com/FRsRXRR.png" group-title="Undefined",TV5 Monde Asia (1080p) [G-b]_v
@@ -237,8 +239,7 @@ https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="RU:RT" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/the_fishing_hunting_channel_se_eu.png" group-title="NEWS",RU:RT
-http://14.162.59.196:8889/wed.php?id=24897
+
 #EXTINF:-1 tvg-id="" tvg-name="RU:Russia1" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/rossiya-1-ru.png" group-title="NEWS",RU:Russia1
 http://14.162.59.196:8889/wed.php?id=24853
 #EXTINF:-1 tvg-id="" tvg-name="RU:Russia24" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/rossiya-24-ru.png" group-title="NEWS",RU:Russia24
