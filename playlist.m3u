@@ -1445,59 +1445,7 @@ https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist.m3u8
 #------/>
 
 
-#-*-🌏-VTV go*-*--#
 
-#EXTINF:0 tvg-id="vtv1hd" group-title="🌏| VTV go" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/VTV1_2013.png/960px-VTV1_2013.png",VTV1
-#EXTVLCOPT:http-user-agent=dovietsy
-https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv1/playlist_720p.m3u8
-
-#EXTINF:0 tvg-id="vtv2hd" group-title="🌏| VTV go" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1280px-VTV2_logo_2013_final.svg.png",VTV2
-#EXTVLCOPT:http-user-agent=dovietsy
-https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv2/playlist_720p.m3u8
-
-#EXTINF:0 tvg-id="vtv3hd" group-title="🌏| VTV go" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1280px-VTV3_logo_2013_final.svg.png",VTV3
-#EXTVLCOPT:http-user-agent=dovietsy
-https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv3/playlist_720p.m3u8
-
-#EXTINF:0 tvg-id="vtv4hd" group-title="🌏| VTV go" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Logo_VTV4.png",VTV4
-#EXTVLCOPT:http-user-agent=dovietsy
-https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv4/playlist_720p.m3u8
-
-#EXTINF:0 tvg-id="vtv5hd" group-title="🌏| VTV go" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/960px-VTV5_logo_2013_final.svg.png",VTV5
-#EXTVLCOPT:http-user-agent=dovietsy
-https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv5/playlist_720p.m3u8
-
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🌏| VTV go" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Vtv5tnb_logo.svg/960px-Vtv5tnb_logo.svg.png",VTV5 Tây Nam Bộ
-#EXTVLCOPT:http-user-agent=dovietsy
-https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv5tnb/playlist_720p.m3u8
-
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="🌏| VTV go" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Vtv5taynguyen_logo.svg/1280px-Vtv5taynguyen_logo.svg.png",VTV5 Tây Nguyên
-#EXTVLCOPT:http-user-agent=dovietsy
-https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv5tn/playlist_720p.m3u8
-
-#EXTINF:-1 tvg-id="vtv6hd" group-title="🌏| VTV go" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/VTV6_logo_2026_final.svg/960px-VTV6_logo_2026_final.svg.png",VTV6
-#EXTVLCOPT:http-user-agent=dovietsy
-https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv6tt/playlist_720p.m3u8
-
-#EXTINF:0 tvg-id="vtv7hd" group-title="🌏| VTV go" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/VTV7_logo_2016_final.svg/1280px-VTV7_logo_2016_final.svg.png",VTV7
-#EXTVLCOPT:http-user-agent=dovietsy
-https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv7/playlist_720p.m3u8
-
-#EXTINF:0 tvg-id="vtv8hd" group-title="🌏| VTV go" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/VTV8_logo.png",VTV8
-#EXTVLCOPT:http-user-agent=dovietsy
-https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv8/playlist_720p.m3u8
-
-#EXTINF:0 tvg-id="vtv9hd" group-title="🌏| VTV go" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/3840px-VTV9_logo_2013_final.svg.png",VTV9
-#EXTVLCOPT:http-user-agent=dovietsy
-https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv9/playlist_720p.m3u8
-
-#EXTINF:0 tvg-id="vtv10hd" group-title="🌏| VTV go" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://static.wikia.nocookie.net/ab3dc0cb-29c0-45be-9013-5d258d22be78/scale-to-width/755",VTV10
-#EXTVLCOPT:http-user-agent=dovietsy
-https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv6/playlist_720p.m3u8
-
-#EXTINF:0 tvg-id="vietnamtoday" group-title="🌏| VTV go" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Vietnam_Today_Logo.png",VietNamToday
-#EXTVLCOPT:http-user-agent=dovietsy
-https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vietnamtoday/playlist_720p.m3u8
 
 #-*-❤️-VTV*VIEON-*--#
 
