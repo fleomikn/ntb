@@ -3,12 +3,13 @@
 #1 VINPEARL TV
 #2 CHANNEL LIST
 #3 VTV1
-#EXTINF:-1 tvg-id="VTV1.vn@HD" tvg-logo="https://i.imgur.com/vZYlGIW.png" group-title="TH Quốc Gia",VTV1 HD (1080p) [F]
+#EXTINF:-1 tvg-id="VTV1.vn@HD" tvg-logo="https://i.imgur.com/vZYlGIW.png" group-title="VTV_F",VTV1 HD (1080p) [F]
 https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8
 #4 VTV2
-#EXTINF:0 tvg-id="vtv2hd" group-title="🌟| VTV FPT" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1280px-VTV2_logo_2013_final.svg.png",VTV2
+#EXTINF:0 tvg-id="vtv2hd" group-title="VTV_V" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/14/8jxfvivt_vtv2ee9c08aad4e297b156d0b454e83fd10d_296_168.png",VTV2 HD _V
 #EXTVLCOPT:http-user-agent=dovietsy
-#https://live.fptplay53.net/live/media/vtv2/live247-hls-avc/index.m3u8
+http://14.162.59.196:8889/Vieon.php?id=vtv2
+
 
 #5 VTV3
 #EXTINF:0 tvg-id="vtv3hd" group-title="🌟| VTV FPT" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1280px-VTV3_logo_2013_final.svg.png",VTV3
@@ -442,15 +443,19 @@ https://vtvgolive-ssaimh.vtvdigital.vn/EX4Pml-R0WcJ3LaL1UHGYA/1754162150/manifes
 #https://cdn-live.vtv.vn/uLSjISIs0oFCVFyfqeEh0A/1753804745/live/vtv1/vtv1-720p.m3u8
 #https://cdn-live.vtv.vn/uLSjISIs0oFCVFyfqeEh0A/1753804745/live/vtv1/vtv1-480p.m3u8
 
-#EXTINF:0 tvg-id="vtv1hd" group-title="🌟| VTV FPT" catchup="append" catchup-days="0.3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png",VTV1 [F]
+#EXTINF:0 tvg-id="vtv1hd" group-title="VTV_F" catchup="append" catchup-days="0.3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png",VTV1 [F]
 #EXTVLCOPT:http-user-agent=dovietsy
 #https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
 https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8
 
-#EXTINF:0 tvg-id="vtv2hd" group-title="🌟| VTV FPT" catchup="append" catchup-days="0.3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1200px-VTV2_logo_2013_final.svg.png",VTV2 [F]
+#EXTINF:0 tvg-id="vtv2hd" group-title="VTV_F" catchup="append" catchup-days="0.3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1200px-VTV2_logo_2013_final.svg.png",VTV2 [F]
 #EXTVLCOPT:http-user-agent=dovietsy
 #https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
-https://live.fptplay53.net/live/media/vtv2/live247-hls-avc/index.m3u8
+#https://live.fptplay53.net/live/media/vtv2/live247-hls-avc/index.m3u8
+#EXTINF:0 tvg-id="vtv2hd" group-title="VTV_V" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/14/8jxfvivt_vtv2ee9c08aad4e297b156d0b454e83fd10d_296_168.png",VTV2 HD [V]
+#EXTVLCOPT:http-user-agent=dovietsy
+http://14.162.59.196:8889/Vieon.php?id=vtv2
+
 
 #EXTINF:0 tvg-id="vtv3hd" group-title="🌟| VTV FPT" catchup="append" catchup-days="0.3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png",VTV3 [F]
 #EXTVLCOPT:http-user-agent=dovietsy
@@ -1449,11 +1454,11 @@ https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist.m3u8
 
 #-*-❤️-VTV*VIEON-*--#
 
-#EXTINF:0 tvg-id="vtv1hd" group-title="❤️|VTV VIEON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/03/13/d7g5o7kh_vtv1-1be0def1411539ad6b5a1b9f97df826a0_296_168.png",❤️VTV1
+#EXTINF:0 tvg-id="vtv1hd" group-title="❤️|VTV_V" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/03/13/d7g5o7kh_vtv1-1be0def1411539ad6b5a1b9f97df826a0_296_168.png",❤️VTV1
 #EXTVLCOPT:http-user-agent=dovietsy
 http://14.162.59.196:8889/Vieon.php?id=vtv1
 
-#EXTINF:0 tvg-id="vtv2hd" group-title="❤️|VTV VIEON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/14/8jxfvivt_vtv2ee9c08aad4e297b156d0b454e83fd10d_296_168.png",❤️VTV2
+#EXTINF:0 tvg-id="vtv2hd" group-title="❤️|VTV_V" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/14/8jxfvivt_vtv2ee9c08aad4e297b156d0b454e83fd10d_296_168.png",❤️VTV2
 #EXTVLCOPT:http-user-agent=dovietsy
 http://14.162.59.196:8889/Vieon.php?id=vtv2
 
