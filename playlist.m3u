@@ -31,13 +31,10 @@ http://14.162.59.196:8889/Vieon.php?id=vtv10
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 http://14.162.59.196:8889/Vieon.php?id=vtv7
 #10 VTV8
-#EXTINF:0 tvg-id="vtv8hd" group-title="VTV_F" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/VTV8_logo.png",VTV8
+#EXTINF:0 tvg-id="vtv8hd" group-title="VTV_F" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/VTV8_logo.png",VTV8 [F]
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://live.fptplay53.net/live/media/vtv8/live-hls-avc/index.m3u8
 #11 VTV9
-#EXTINF:0 tvg-id="vtv9hd" group-title="VTV_F" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/3840px-VTV9_logo_2013_final.svg.png",VTV9 [F]
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/live/media/vtv9/live247-hls-avc/index.m3u8
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV_V" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/3840px-VTV9_logo_2013_final.svg.png",VTV9 [V]
 #EXTVLCOPT:http-user-agent=dovietsy
 http://14.162.59.196:8889/Vieon.php?id=vtv9
@@ -80,6 +77,10 @@ https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
 https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8
 
 #24 AFN
+#EXTINF:-1 tvg-id="afnhd" group-title="Quốc tế_F" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/220px-Asian_Food_Network.svg.png",AFN | Asian Food Network [F]
+#EXTVLCOPT:http-user-agent=dovietsy
+https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8
+
 #25 EURO NEWS
 #26 FRANCE 24
 #27 KIDS TV
@@ -145,22 +146,15 @@ https://cdn140m.panaccess.com/HLS/RTVJA/index.m3u8
 https://cloud.odysee.live/content/fdd11cb3ab75f95efb7b3bc2d726aa13ac915b66/master.m3u8
 
 #35 TV5 MONDE
-#EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD" tvg-logo="https://i.imgur.com/FRsRXRR.png" group-title="Undefined",TV5 Monde Asia (Asie) (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD" tvg-logo="https://i.imgur.com/FRsRXRR.png" group-title="Undefined",TV5 Monde Asia (1080p) [G-b]_v
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
-#EXTINF:-1 tvg-id="TV5MondeEurope.fr@SD" tvg-logo="https://i.imgur.com/rPAbMSu.png" group-title="General",TV5Monde Europe (1080p) [Geo-blocked]
-https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
-#EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr@SD" tvg-logo="https://i.imgur.com/WmRbudc.png" group-title="General",TV5Monde France Belgique Suisse Monaco (1080p) [Geo-blocked]
-https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
-#EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr@HD" tvg-logo="https://i.imgur.com/WmRbudc.png" group-title="General",TV5Monde France Belgium Switzerland Monaco HD (720p) [Geo-Blocked]
-https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-HLS8/tv5mondefbs.m3u8
-#EXTINF:-1 tvg-id="TV5MondeInfo.fr@SD" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="News",TV5Monde Info (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr@SD" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="News",TV5Monde Info (1080p) [G-b]_v
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
-#EXTINF:-1 tvg-id="TV5MondeLatinAmerica.fr@SD" tvg-logo="https://i.imgur.com/x8rjGhp.png" group-title="General",TV5Monde Latin America
-http://45.235.0.78/TV5_Monde/index.m3u8
-#EXTINF:-1 tvg-id="TV5MondePacific.fr@SD" tvg-logo="https://i.imgur.com/mfZOYZI.png" group-title="Undefined",TV5Monde Pacifique (1080p) [Geo-blocked]
-https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
-#EXTINF:-1 tvg-id="TV5MondeStyle.fr@SD" tvg-logo="https://i.imgur.com/cwC7Q2V.png" group-title="Lifestyle",TV5Monde Style (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TV5MondeStyle.fr@SD" tvg-logo="https://i.imgur.com/cwC7Q2V.png" group-title="Lifestyle",TV5Monde Style (1080p) [G-b]_v
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
+#EXTINF:-1 tvg-id="tv5monde" group-title="Quốc tế_F" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/600px-Logo_TV5_Monde_-_2021.svg.png", TV5Monde [F]
+#EXTVLCOPT:http-user-agent=dovietsy
+https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
 
 #36 KBS WORLD
 #EXTINF:-1 tvg-id="KBSWorld.kr@SD" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="General",KBS World
@@ -186,9 +180,7 @@ https://live1.mediadesk.al/cnatvlive.m3u8
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="afnhd" group-title="🌏| Quốc tế fpt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/220px-Asian_Food_Network.svg.png", Asian Food Network
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-id="davinci" group-title="🌏| Quốc tế fpt" tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/da_vinci_wide.png", Da Vinci
 #EXTVLCOPT:http-user-agent=dovietsy
@@ -223,9 +215,7 @@ https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="tv5monde" group-title="🌏| Quốc tế fpt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/600px-Logo_TV5_Monde_-_2021.svg.png", TV5Monde
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-id="outdoorfhd" group-title="🌏| Quốc tế fpt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/150px-Outdoor_Channel_logo_2017.svg.png", Outdoor Channel
 #EXTVLCOPT:http-user-agent=dovietsy
