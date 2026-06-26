@@ -109,7 +109,7 @@ https://575b7833.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheH
 #https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
 
 #26 FRANCE 24
-#EXTINF:-1 tvg-id="france24eng" group-title="Quốc tế_F" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png", France 24 [F]
+#EXTINF:-1 tvg-id="france24eng" group-title="Quốc tế_F" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png",France 24 [F]
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist.m3u8
 
@@ -135,7 +135,14 @@ https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
 #https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
 
 #29 ARIANG WORLD
+#EXTINF:-1 tvg-id="arirang" group-title="Quốc tế_F" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png", Arirang [F]
+#EXTVLCOPT:http-user-agent=dovietsy
+https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8
+
 #30 NHK WORLD
+#EXTINF:-1 tvg-id="nhk" group-title="Quốc tế_F" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png",NHK World [F]
+#EXTVLCOPT:http-user-agent=dovietsy
+https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="Culture;News",NHK World-Japan (1080p)
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="Culture;News",NHK World-Japan HD (1080p) [G-b]
@@ -144,6 +151,9 @@ https://nhk.lls.pbs.org/index.m3u8
 #31 CCTV4
 #32 POCC1-RUSSIAN
 #33 DW NEWS
+#EXTINF:-1 tvg-id="dw" group-title="Quốc tế_F" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1280px-Deutsche_Welle_symbol_2012.svg.png",DW [F]
+#EXTVLCOPT:http-user-agent=dovietsy
+https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="DW.de@Arabic" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="News",DW Arabic (1080p)
 ##https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
 #EXTINF:-1 tvg-id="DW.de@English" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="News",DW English (1080p)
@@ -164,13 +174,13 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 #EXTINF:-1 tvg-id="RTenEspanol.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/960px-Russia-today-logo.svg.png" http-referrer="https://odysee.com/" group-title="News",RT en Español (1080p)
 #EXTVLCOPT:http-referrer=https://odysee.com/
-https://cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
+##https://cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
 #EXTINF:-1 tvg-id="RTFrance.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/960px-RT-France-logo.svg.png" group-title="News",RT France (1080p) [Geo-blocked]
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 #EXTINF:-1 tvg-id="RTIndia.in@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg" group-title="News",RT India (1080p)
-https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8
+##https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8
 #EXTINF:-1 tvg-id="RTJVA.tg@SD" tvg-logo="https://i.imgur.com/Ja3HVLB.jpg" group-title="Religious",RT JVA (720p) [Not 24/7]
-https://cdn140m.panaccess.com/HLS/RTVJA/index.m3u8
+##https://cdn140m.panaccess.com/HLS/RTVJA/index.m3u8
 #EXTINF:-1 tvg-id="RT.ru@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142401_ld_h15_aa.png?lock=720x540" http-referrer="https://odysee.com/" group-title="News",RT News (1080p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/fdd11cb3ab75f95efb7b3bc2d726aa13ac915b66/master.m3u8
@@ -189,13 +199,19 @@ https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
 #36 KBS WORLD
 #EXTINF:-1 tvg-id="KBSWorld.kr@SD" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="General",KBS World
 https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
+#EXTINF:-1 tvg-id="kbsworld" group-title="Quốc tế_F" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/800px-KBS_World_%282009%29.svg.png",KBS World [F]
+#EXTVLCOPT:http-user-agent=dovietsy
+https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
 
 #37 KOREA TV
-#EXTINF:-1 tvg-id="KTV.kr@SD" tvg-logo="https://i.ibb.co/WkrLDJW/Screenshot-20230714-135036-removebg-preview.png" group-title="Legislative;News",Korea TV (1080p)
+#EXTINF:-1 tvg-id="KTV.kr@SD" tvg-logo="https://i.ibb.co/WkrLDJW/Screenshot-20230714-135036-removebg-preview.png" group-title="News",Korea TV (1080p)
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 
 #38 CHANNEL NEW ASIA
-#EXTINF:-1 tvg-id="CNA.sg@SD" tvg-logo="https://i.imgur.com/awIDugE.png" group-title="News",CNA (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="channelnewsasia" group-title="Quốc tế_F" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png",CNA [F]
+#EXTVLCOPT:http-user-agent=dovietsy
+https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="CNA.sg@SD" tvg-logo="https://i.imgur.com/awIDugE.png" group-title="News",CNA (1080p) [G-b]
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="CNAInternational.sg@SD" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="News",CNA International (1080p)
 https://mediacorp-videosbclive.akamaized.net/dd724cfb0e8e4cdc921bbc4ac94614bf/ap-southeast-1/6057994443001/playlist.m3u8
@@ -209,9 +225,6 @@ https://live1.mediadesk.al/cnatvlive.m3u8
 #EXTINF:-1 tvg-id="kixfhd" group-title="🌏| Quốc tế fpt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/200px-KIX_logo.svg.png", KIX
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
-
-
-
 #EXTINF:-1 tvg-id="davinci" group-title="🌏| Quốc tế fpt" tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/da_vinci_wide.png", Da Vinci
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8
@@ -219,31 +232,6 @@ https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="cnbcfhd" group-title="🌏| Quốc tế fpt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/200px-CNBC_logo.svg.png", CNBC
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="kbsworld" group-title="🌏| Quốc tế fpt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/800px-KBS_World_%282009%29.svg.png", KBS World
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
-
-
-#EXTINF:-1 tvg-id="nhk" group-title="🌏| Quốc tế fpt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png", NHK World
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="dw" group-title="🌏| Quốc tế fpt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1280px-Deutsche_Welle_symbol_2012.svg.png", DW
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="arirang" group-title="🌏| Quốc tế fpt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png", Arirang
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="channelnewsasia" group-title="🌏| Quốc tế fpt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png", CNA
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8
-
-
-
-
 
 #EXTINF:-1 tvg-id="outdoorfhd" group-title="🌏| Quốc tế fpt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/150px-Outdoor_Channel_logo_2017.svg.png", Outdoor Channel
 #EXTVLCOPT:http-user-agent=dovietsy
