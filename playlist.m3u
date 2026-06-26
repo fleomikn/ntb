@@ -40,7 +40,7 @@ https://live.fptplay53.net/live/media/vtv8/live-hls-avc/index.m3u8
 http://14.162.59.196:8889/Vieon.php?id=vtv9
 
 #VietNamToday
-#EXTINF:0 tvg-id="vietnamtoday" group-title="🌟| VTV FPT" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Vietnam_Today_Logo.png",VietNamToday
+#EXTINF:0 tvg-id="vietnamtoday" group-title="🌟| VTV FPT" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Vietnam_Today_Logo.png",VietNamToday [F]
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/live/media/vietnamtoday/live-hls-avc/index.m3u8
 
@@ -58,7 +58,7 @@ https://liveh12.vtvprime.vn/hls/QPTV/index.m3u8
 #19 Ha Noi TV
 #EXTINF:-1 tvg-id="HanoiTV1.vn@SD" tvg-logo="https://i.imgur.com/Je3K25E.png" group-title="TH Quốc Gia",HanoiTV1 (1080p) [G-b]
 https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist.m3u8
-#EXTINF:10, HanoiTV2 (1080p)[G-b]
+#EXTINF:10,HanoiTV2 (1080p)[G-b]
 #EXTVLCOPT:network-caching=1000
 https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist_w242452699.m3u8
 
@@ -70,7 +70,7 @@ https://live.fptplay53.net/live/media/vinhlong1/live247-hls-avc/index.m3u8
 
 #22 TRA VINH TV
 #EXTINF:-1 tvg-id="TraVinhTV.vn@HD" tvg-logo="https://i.imgur.com/F12VdKO.png" group-title="Culture;Entertainment;Music;News",THVL5_Vĩnh Long 5 (1080p) [F|G-b]
-https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
+#https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
 
 #23 ANTV
 #EXTINF:-1 tvg-id="AnNinhTV.vn@HD" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1a/ANTV_2023.png/revision/latest/scale-to-width-down/512?path-prefix=vi" group-title="TH Quốc Gia",ANTV (1080p)
@@ -82,7 +82,37 @@ https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8
 
 #25 EURO NEWS
+#EXTINF:-1 tvg-id="" tvg-name="RU:Euronews.Russian" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/euronews_fr.png" group-title="NEWS",Euronews.Russian
+http://14.162.59.196:8889/wed.php?id=24859
+#euronews russian[1280x720]
+#EXTINF:-1 tvg-id="" tvg-name="RU:Euronews.Russian" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/euronews_fr.png" group-title="NEWS",Euronews.Russian (720p)
+https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
+
+#Euronews Deutschland
+#euronews pt[1280x720]
+#https://6e52fb8b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/playlist.m3u8
+#euronews[1280x720]
+#https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8
+#euronews[1280x720]
+#https://7060743b4b224241b86325460b14d152.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6769/bitok/eyJzdGlkIjoiMTE3OTllNGEtYmU1OC00ZjQyLTkxOTYtY2VlYWQzZGU2MDJjIiwibWt0IjoicGwiLCJjaCI6Njc2OSwicHRmIjo1fQ==/26235/euronews-pl.m3u8
+#Euronews Greece
+#euronews greek[1280x720]
+#https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8
+#Euronews Italia
+#euronews[1048x576]
+#https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
+#Euronews En
+#euronews german[1280x720]
+#EXTINF:-1 tvg-id="" tvg-name="RU:Euronews.Russian" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/euronews_fr.png" group-title="NEWS",Euronews.German EN(720p)
+https://575b7833.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c0RldXRzY2hfSExT/playlist.m3u8
+#euronews hungarian[1280x720]
+#https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
+
 #26 FRANCE 24
+#EXTINF:-1 tvg-id="france24eng" group-title="Quốc tế_F" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png", France 24 [F]
+#EXTVLCOPT:http-user-agent=dovietsy
+https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist.m3u8
+
 #27 KIDS TV
 #28 TVE
 #EXTINF:-1 tvg-id="TVEInternacionalAmerica.es@SD" tvg-logo="https://i.ibb.co/RpKLCMvp/tve.png" group-title="Undefined",TVE Internacional America (1080p) [Geo-blocked]
@@ -211,9 +241,7 @@ https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="france24eng" group-title="🌏| Quốc tế fpt" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png", France 24
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist.m3u8
+
 
 
 
@@ -235,9 +263,6 @@ http://14.162.59.196:8889/wed.php?id=24856
 http://14.162.59.196:8889/wed.php?id=24857
 #EXTINF:-1 tvg-id="" tvg-name="RU:RBK" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/rbk_tv_ru.png" group-title="NEWS",RU:RBK
 http://14.162.59.196:8889/wed.php?id=24858
-#EXTINF:-1 tvg-id="" tvg-name="RU:Euronews.Russian" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/euronews_fr.png" group-title="NEWS",RU:Euronews.Russian
-http://14.162.59.196:8889/wed.php?id=24859
-
 
 
 #Báo và phát thanh, truyền hình Hà Nội	H1 (HanoiTV1), H2 (HanoiTV2), HiTV, YouTV
