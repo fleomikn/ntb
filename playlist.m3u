@@ -6,7 +6,15 @@
 #EXTINF:-1 tvg-id="VTV1.vn@HD" tvg-logo="https://i.imgur.com/vZYlGIW.png" group-title="TH Quốc Gia",VTV1 HD (1080p) [F]
 https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8
 #4 VTV2
+#EXTINF:0 tvg-id="vtv2hd" group-title="🌟| VTV FPT" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1280px-VTV2_logo_2013_final.svg.png",VTV2
+#EXTVLCOPT:http-user-agent=dovietsy
+https://live.fptplay53.net/live/media/vtv2/live247-hls-avc/index.m3u8
+
 #5 VTV3
+#EXTINF:0 tvg-id="vtv3hd" group-title="🌟| VTV FPT" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1280px-VTV3_logo_2013_final.svg.png",VTV3
+#EXTVLCOPT:http-user-agent=dovietsy
+https://live.fptplay53.net/live/media/vtv3/live247-hls-avc/index.m3u8
+
 #6 VTV4
 #EXTINF:-1 tvg-id="VTV4.vn@HD" tvg-logo="https://i.imgur.com/WsLLmR2.png" group-title="TH Quốc Gia",VTV4 HD (1080p) [F]
 https://live.fptplay53.net/live/media/vtv4/live247-hls-avc/index.m3u8
@@ -14,9 +22,26 @@ https://live.fptplay53.net/live/media/vtv4/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-id="VTV5.vn@HD" tvg-logo="https://i.imgur.com/Vnnna1C.png" group-title="TH Quốc Gia",VTV5 HD (1080p)
 https://live-a.fptplay53.net/live/media/vtv5/live247-hls-avc/index.m3u8
 #8 VTV Can Tho
+#EXTINF:0 tvg-id="vtv10hd" group-title="🌟| VTV FPT" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/VTV10_logo_2026.png/1280px-VTV10_logo_2026.png",VTV10
+#EXTVLCOPT:http-user-agent=dovietsy
+https://live.fptplay53.net/live/media/vtv10/live247-hls-avc/index.m3u8
 #9 VTV7
+#EXTINF:0 tvg-id="vtv7hd" group-title="🌟| VTV FPT" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/VTV7_logo_2016_final.svg/1280px-VTV7_logo_2016_final.svg.png",VTV7
+#EXTVLCOPT:http-user-agent=dovietsy
+https://live.fptplay53.net/live/media/vtv7/live247-hls-avc/index.m3u8
 #10 VTV8
+#EXTINF:0 tvg-id="vtv8hd" group-title="🌟| VTV FPT" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/VTV8_logo.png",VTV8
+#EXTVLCOPT:http-user-agent=dovietsy
+https://live.fptplay53.net/live/media/vtv8/live-hls-avc/index.m3u8
 #11 VTV9
+#EXTINF:0 tvg-id="vtv9hd" group-title="🌟| VTV FPT" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/3840px-VTV9_logo_2013_final.svg.png",VTV9
+#EXTVLCOPT:http-user-agent=dovietsy
+https://live.fptplay53.net/live/media/vtv9/live247-hls-avc/index.m3u8
+#VietNamToday
+#EXTINF:0 tvg-id="vietnamtoday" group-title="🌟| VTV FPT" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Vietnam_Today_Logo.png",VietNamToday
+#EXTVLCOPT:http-user-agent=dovietsy
+https://live.fptplay53.net/live/media/vietnamtoday/live-hls-avc/index.m3u8
+
 #12 HTV Key
 #EXTINF:-1 tvg-id="HTVKey.vn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_HTV_Key.png" group-title="HTV",HTV Key (720p)
 https://liveh12.vtvprime.vn/hls/HTVKey/index.m3u8
@@ -31,6 +56,9 @@ https://liveh12.vtvprime.vn/hls/QPTV/index.m3u8
 #19 Ha Noi TV
 #EXTINF:-1 tvg-id="HanoiTV1.vn@SD" tvg-logo="https://i.imgur.com/Je3K25E.png" group-title="TH Quốc Gia",HanoiTV1 (1080p) [G-b]
 https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist.m3u8
+#EXTINF:10, HanoiTV2 (1080p)[G-b]
+#EXTVLCOPT:network-caching=1000
+https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist_w242452699.m3u8
 
 #20 Discovery
 #21 THVL1
@@ -105,13 +133,108 @@ https://cdn140m.panaccess.com/HLS/RTVJA/index.m3u8
 https://cloud.odysee.live/content/fdd11cb3ab75f95efb7b3bc2d726aa13ac915b66/master.m3u8
 
 #35 TV5 MONDE
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr@SD" tvg-logo="https://i.imgur.com/FRsRXRR.png" group-title="Undefined",TV5 Monde Asia (Asie) (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr@SD" tvg-logo="https://i.imgur.com/rPAbMSu.png" group-title="General",TV5Monde Europe (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+#EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr@SD" tvg-logo="https://i.imgur.com/WmRbudc.png" group-title="General",TV5Monde France Belgique Suisse Monaco (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/variant.m3u8
+#EXTINF:-1 tvg-id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr@HD" tvg-logo="https://i.imgur.com/WmRbudc.png" group-title="General",TV5Monde France Belgium Switzerland Monaco HD (720p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-HLS8/tv5mondefbs.m3u8
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr@SD" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="News",TV5Monde Info (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+#EXTINF:-1 tvg-id="TV5MondeLatinAmerica.fr@SD" tvg-logo="https://i.imgur.com/x8rjGhp.png" group-title="General",TV5Monde Latin America
+http://45.235.0.78/TV5_Monde/index.m3u8
+#EXTINF:-1 tvg-id="TV5MondePacific.fr@SD" tvg-logo="https://i.imgur.com/mfZOYZI.png" group-title="Undefined",TV5Monde Pacifique (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
+#EXTINF:-1 tvg-id="TV5MondeStyle.fr@SD" tvg-logo="https://i.imgur.com/cwC7Q2V.png" group-title="Lifestyle",TV5Monde Style (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
+
 #36 KBS WORLD
+#EXTINF:-1 tvg-id="KBSWorld.kr@SD" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="General",KBS World
+https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
+
 #37 KOREA TV
+#EXTINF:-1 tvg-id="KTV.kr@SD" tvg-logo="https://i.ibb.co/WkrLDJW/Screenshot-20230714-135036-removebg-preview.png" group-title="Legislative;News",Korea TV (1080p)
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+
 #38 CHANNEL NEW ASIA
+#EXTINF:-1 tvg-id="CNA.sg@SD" tvg-logo="https://i.imgur.com/awIDugE.png" group-title="News",CNA (1080p) [Geo-blocked]
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-id="CNAInternational.sg@SD" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="News",CNA International (1080p)
+https://mediacorp-videosbclive.akamaized.net/dd724cfb0e8e4cdc921bbc4ac94614bf/ap-southeast-1/6057994443001/playlist.m3u8
+#EXTINF:-1 tvg-id="CNA.al@SD" tvg-logo="https://codeit.al/wp-content/uploads/2020/08/cna.png" group-title="News",CNA (1080p)
+https://live1.mediadesk.al/cnatvlive.m3u8
 
 
 
 
+
+#EXTINF:-1 tvg-id="kixfhd" group-title="🌏| Quốc tế fpt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/200px-KIX_logo.svg.png", KIX
+#EXTVLCOPT:http-user-agent=dovietsy
+https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="afnhd" group-title="🌏| Quốc tế fpt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/220px-Asian_Food_Network.svg.png", Asian Food Network
+#EXTVLCOPT:http-user-agent=dovietsy
+https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="davinci" group-title="🌏| Quốc tế fpt" tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/da_vinci_wide.png", Da Vinci
+#EXTVLCOPT:http-user-agent=dovietsy
+https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="cnbcfhd" group-title="🌏| Quốc tế fpt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/200px-CNBC_logo.svg.png", CNBC
+#EXTVLCOPT:http-user-agent=dovietsy
+https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="kbsworld" group-title="🌏| Quốc tế fpt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/800px-KBS_World_%282009%29.svg.png", KBS World
+#EXTVLCOPT:http-user-agent=dovietsy
+https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-id="nhk" group-title="🌏| Quốc tế fpt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png", NHK World
+#EXTVLCOPT:http-user-agent=dovietsy
+https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="dw" group-title="🌏| Quốc tế fpt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1280px-Deutsche_Welle_symbol_2012.svg.png", DW
+#EXTVLCOPT:http-user-agent=dovietsy
+https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="arirang" group-title="🌏| Quốc tế fpt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png", Arirang
+#EXTVLCOPT:http-user-agent=dovietsy
+https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="channelnewsasia" group-title="🌏| Quốc tế fpt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png", CNA
+#EXTVLCOPT:http-user-agent=dovietsy
+https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="france24eng" group-title="🌏| Quốc tế fpt" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png", France 24
+#EXTVLCOPT:http-user-agent=dovietsy
+https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="tv5monde" group-title="🌏| Quốc tế fpt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/600px-Logo_TV5_Monde_-_2021.svg.png", TV5Monde
+#EXTVLCOPT:http-user-agent=dovietsy
+https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="outdoorfhd" group-title="🌏| Quốc tế fpt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/150px-Outdoor_Channel_logo_2017.svg.png", Outdoor Channel
+#EXTVLCOPT:http-user-agent=dovietsy
+https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="RU:RT" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/the_fishing_hunting_channel_se_eu.png" group-title="NEWS",RU:RT
+http://14.162.59.196:8889/wed.php?id=24897
+#EXTINF:-1 tvg-id="" tvg-name="RU:Russia1" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/rossiya-1-ru.png" group-title="NEWS",RU:Russia1
+http://14.162.59.196:8889/wed.php?id=24853
+#EXTINF:-1 tvg-id="" tvg-name="RU:Russia24" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/rossiya-24-ru.png" group-title="NEWS",RU:Russia24
+http://14.162.59.196:8889/wed.php?id=24854
+#EXTINF:-1 tvg-id="" tvg-name="RU:Mir" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/mir_ru.png" group-title="NEWS",RU:Mir
+http://14.162.59.196:8889/wed.php?id=24855
+#EXTINF:-1 tvg-id="" tvg-name="RU:Mir.Seriala" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/mir_24_ru.png" group-title="NEWS",RU:Mir.Seriala
+http://14.162.59.196:8889/wed.php?id=24856
+#EXTINF:-1 tvg-id="" tvg-name="RU:NTV" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/ntv_ru.png" group-title="NEWS",RU:NTV
+http://14.162.59.196:8889/wed.php?id=24857
+#EXTINF:-1 tvg-id="" tvg-name="RU:RBK" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/rbk_tv_ru.png" group-title="NEWS",RU:RBK
+http://14.162.59.196:8889/wed.php?id=24858
+#EXTINF:-1 tvg-id="" tvg-name="RU:Euronews.Russian" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/euronews_fr.png" group-title="NEWS",RU:Euronews.Russian
+http://14.162.59.196:8889/wed.php?id=24859
 
 
 
@@ -132,25 +255,29 @@ https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=dovietsy
 #https://live.fptplay53.net/fnxhd2/hanoitv2_hls.smil/chunklist.m3u8
 
-#EXTINF:0 tvg-id="hanoi1" group-title="🏞️| Địa phương", ❤️|  Hà Nội 1
+#EXTINF:0 tvg-id="hanoi1" group-title="🏞️| Địa phương",❤️|  Hà Nội 1
 #EXTVLCOPT:http-user-agent=dovietsy
 https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist_w256840765_b3128000_slen.m3u8
-#EXTINF:0 tvg-id="hanoi2" group-title="🏞️| Địa phương", ❤️|  Hà Nội 2
+#EXTINF:0 tvg-id="hanoi2" group-title="🏞️| Địa phương",❤️|  Hà Nội 2
 #EXTVLCOPT:http-user-agent=dovietsy
 https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist_w242452699.m3u8
 
-#EXTINF:0 tvg-id="hanoi1" group-title="🏞️| Quê hương VIEON", ❤️|  Hà Nội 1
+#EXTINF:0 tvg-id="hanoi1" group-title="🏞️| Địa phương_V", ❤️|  Hà Nội 1
 #EXTVLCOPT:http-user-agent=dovietsy
-http://222.254.48.230:8889/Vieon.php?id=hanoi1
-
-#EXTINF:0 tvg-id="hanoi2" group-title="🏞️| Quê hương VIEON", ❤️|  Hà Nội 2
+#http://222.254.48.230:8889/Vieon.php?id=hanoi1
+http://14.162.59.196:8889/Vieon.php?id=hanoi1
+#EXTINF:0 tvg-id="hanoi2" group-title="🏞️| Địa phương_V", ❤️|  Hà Nội 2
 #EXTVLCOPT:http-user-agent=dovietsy
-http://222.254.48.230:8889/Vieon.php?id=hanoi2
+#http://222.254.48.230:8889/Vieon.php?id=hanoi2
+http://14.162.59.196:8889/Vieon.php?id=hanoi2
 
-#EXTINF:-1 tvg-id="hanoi1" group-title="🇻🇳| Địa phươngTV360" tvg-logo="https://i.imgur.com/RWcF3yW.png", Hanoi1
-http://222.254.48.230:8889/ace/tv360mpd.php?id=33
-#EXTINF:-1 tvg-id="hanoi2" group-title="🇻🇳| Địa phươngTV360" tvg-logo="https://i.imgur.com/usVrZNP.png", Hanoi2
-http://222.254.48.230:8889/ace/tv360mpd.php?id=34
+
+#EXTINF:-1 tvg-id="hanoi1" group-title="🇻🇳| Địa phương_360" tvg-logo="https://i.imgur.com/RWcF3yW.png", Hà Nội 1
+#http://222.254.48.230:8889/ace/tv360mpd.php?id=33
+http://14.162.59.196:8889/ace/tv360mpd.php?id=33
+#EXTINF:-1 tvg-id="hanoi2" group-title="🇻🇳| Địa phương_V" tvg-logo="https://i.imgur.com/usVrZNP.png", Hà Nội 2
+#http://222.254.48.230:8889/ace/tv360mpd.php?id=34
+http://14.162.59.196:8889/ace/tv360mpd.php?id=34
 
 #Báo và phát thanh, truyền hình Hà Tĩnh	BHTTV
 #EXTINF:10, Hà Tĩnh TV (720p)
