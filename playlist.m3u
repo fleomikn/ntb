@@ -49,6 +49,10 @@ https://liveh12.vtvprime.vn/hls/HTVKey/index.m3u8
 #13 HTV2
 #14 HTVC Gia Dinh
 #15 HTV7
+#EXTINF:12,HTV7(HD)[G-b][F]
+#EXTVLCOPT:network-caching=1000
+https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist.m3u8
+
 #16 HTV1
 #17 THUAN VIET
 #18 QPVN
@@ -275,7 +279,6 @@ http://14.162.59.196:8889/wed.php?id=24857
 #EXTINF:-1 tvg-id="" tvg-name="RU:RBK" tvg-logo="http://logo.myppir.fr:8080/images/logo/channel/rbk_tv_ru.png" group-title="NEWS",RU:RBK
 http://14.162.59.196:8889/wed.php?id=24858
 
-
 #Báo và phát thanh, truyền hình Hà Nội	H1 (HanoiTV1), H2 (HanoiTV2), HiTV, YouTV
 #EXTINF:10, HanoiTV1 (1080p)[G-b]
 #EXTVLCOPT:network-caching=1000
@@ -316,10 +319,6 @@ http://14.162.59.196:8889/ace/tv360mpd.php?id=33
 #EXTINF:-1 tvg-id="hanoi2" group-title="🇻🇳| Địa phương_V" tvg-logo="https://i.imgur.com/usVrZNP.png", Hà Nội 2
 #http://222.254.48.230:8889/ace/tv360mpd.php?id=34
 http://14.162.59.196:8889/ace/tv360mpd.php?id=34
-
-
-
-
 
 #Báo và phát thanh, truyền hình Khánh Hòa	KTV, KTV1
 #EXTINF:32,KHANH HOA_tv.ktv.org.vn
@@ -522,7 +521,6 @@ https://hoiquan.dpdns.org/VTVGo/?sctv9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://hoiquan.dpdns.org/VTVGo/?sctv18
 
-
 #EXTINF:10, SCTV19 - Channel T
 #EXTINF:10, SCTV20
 #EXTINF:10, SCTV21 - Việt Nam Ký Ức
@@ -700,7 +698,7 @@ http://222.254.48.230:8889/ace/tv360mpd.php?id=193
 #EXTVLCOPT:http-user-agent=dovietsy
 http://222.254.48.230:8889/Vieon.php?id=htv7
 
-#EXTINF:-1 tvg-id="htv7hd" group-title="💛| HTV FPT" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/02/08/dm80ed99_htv7-tet8e31aaacb4c8058cc83f6bb208fe23f1_296_168.png", HTV7
+#EXTINF:-1 tvg-id="htv7hd" group-title="💛| HTV FPT" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/02/08/dm80ed99_htv7-tet8e31aaacb4c8058cc83f6bb208fe23f1_296_168.png", HTV7 [F]
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist.m3u8
 #EXTINF:12,HTV7(HD)[G-b]
