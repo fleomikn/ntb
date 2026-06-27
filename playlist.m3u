@@ -63,13 +63,36 @@ https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist_w242452699.m3u8
 
 #20 Discovery
 #21 THVL1
-#EXTINF:0 tvg-id="vinhlong1hd" group-title="🇻🇳| Địa phương_F",THVL1_Vĩnh Long 1 [F]
+#EXTINF:0 tvg-id="vinhlong1hd" group-title="🇻🇳| Địa phương_F",THVL1 | Vĩnh Long 1 [F]
 #EXTVLCOPT:http-user-agent=dovietsy
 https://live.fptplay53.net/live/media/vinhlong1/live247-hls-avc/index.m3u8
-
+#EXTINF:0 tvg-id="vinhlong1hd" group-title="🏞️| Địa phương_360" tvg-logo="https://i.imgur.com/YSDet7K.png",THVL1 | Vĩnh Long 1 [3]
+#EXTVLCOPT:http-user-agent=dovietsy
+http://14.162.59.196:8889/ace/tv360mpd.php?id=25
+#EXTINF:0 tvg-id="vinhlong2hd" group-title="🏞️| Địa phương_360" tvg-logo="https://i.imgur.com/oKKhKj8.png",THVL2 | Vĩnh Long 2 [3]
+#EXTVLCOPT:http-user-agent=dovietsy
+http://14.162.59.196:8889/ace/tv360mpd.php?id=26
+#EXTINF:0 tvg-id="vinhlong3hd" group-title="🏞️| Địa phương_360" tvg-logo="https://i.imgur.com/Otl740O.png",THVL3 | Vĩnh Long 3 [3]
+#EXTVLCOPT:http-user-agent=dovietsy
+http://14.162.59.196:8889/ace/tv360mpd.php?id=219
+#EXTINF:0 tvg-id="vinhlong4hd" group-title="🏞️| Địa phương_360" tvg-logo="https://i.imgur.com/9k1ZcWG.png",THVL4 | Vĩnh Long 4 [3]
+#EXTVLCOPT:http-user-agent=dovietsy
+http://14.162.59.196:8889/ace/tv360mpd.php?id=220
 #22 TRA VINH TV
-#EXTINF:-1 tvg-id="TraVinhTV.vn@HD" tvg-logo="https://i.imgur.com/F12VdKO.png" group-title="Culture;Entertainment;Music;News",THVL5_Vĩnh Long 5 (1080p) [F|G-b]
-#https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="vinhlong5hd" group-title="🏞️| Địa phương_360" tvg-logo="https://static3.thvli.vn/assets/thumbnail/2025/08/28/gb1vfh5n_buttonchanels_thvl_2025_sua-1.png",THVL5 (Tra Vinh) | Vĩnh Long 5 [3]
+#EXTVLCOPT:http-user-agent=dovietsy
+http://14.162.59.196:8889/ace/tv360mpd.php?id=91
+
+
+
+
+
+
+
+
+
+
+
 
 #23 ANTV
 #EXTINF:-1 tvg-id="AnNinhTV.vn@HD" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1a/ANTV_2023.png/revision/latest/scale-to-width-down/512?path-prefix=vi" group-title="TH Quốc Gia",ANTV (1080p)
@@ -1383,23 +1406,23 @@ http://14.162.59.196:8889/ace/tv360mpd.php?id=98
 http://14.162.59.196:8889/ace/tv360mpd.php?id=9951
 
 
-#EXTINF:0 tvg-id="vinhlong1hd" group-title="🏞️| Quê hương 360" tvg-logo="https://i.imgur.com/YSDet7K.png",💚| Vĩnh Long 1
+#EXTINF:0 tvg-id="vinhlong1hd" group-title="🏞️| Địa phương_360" tvg-logo="https://i.imgur.com/YSDet7K.png",💚| Vĩnh Long 1
 #EXTVLCOPT:http-user-agent=dovietsy
 http://14.162.59.196:8889/ace/tv360mpd.php?id=25
 
-#EXTINF:0 tvg-id="vinhlong2hd" group-title="🏞️| Quê hương 360" tvg-logo="https://i.imgur.com/oKKhKj8.png",💚| Vĩnh Long 2
+#EXTINF:0 tvg-id="vinhlong2hd" group-title="🏞️| Địa phương_360" tvg-logo="https://i.imgur.com/oKKhKj8.png",💚| Vĩnh Long 2
 #EXTVLCOPT:http-user-agent=dovietsy
 http://14.162.59.196:8889/ace/tv360mpd.php?id=26
 
-#EXTINF:0 tvg-id="vinhlong3hd" group-title="🏞️| Quê hương 360" tvg-logo="https://i.imgur.com/Otl740O.png",💚| Vĩnh Long 3
+#EXTINF:0 tvg-id="vinhlong3hd" group-title="🏞️| Địa phương_360" tvg-logo="https://i.imgur.com/Otl740O.png",💚| Vĩnh Long 3
 #EXTVLCOPT:http-user-agent=dovietsy
 http://14.162.59.196:8889/ace/tv360mpd.php?id=219
 
-#EXTINF:0 tvg-id="vinhlong4hd" group-title="🏞️| Quê hương 360" tvg-logo="https://i.imgur.com/9k1ZcWG.png",💚| Vĩnh Long 4
+#EXTINF:0 tvg-id="vinhlong4hd" group-title="🏞️| Địa phương_360" tvg-logo="https://i.imgur.com/9k1ZcWG.png",💚| Vĩnh Long 4
 #EXTVLCOPT:http-user-agent=dovietsy
 http://14.162.59.196:8889/ace/tv360mpd.php?id=220
 
-#EXTINF:0 tvg-id="vinhlong5hd" group-title="🏞️| Quê hương 360" tvg-logo="https://static3.thvli.vn/assets/thumbnail/2025/08/28/gb1vfh5n_buttonchanels_thvl_2025_sua-1.png",💚| Vĩnh Long 5
+#EXTINF:0 tvg-id="vinhlong5hd" group-title="🏞️| Địa phương_360" tvg-logo="https://static3.thvli.vn/assets/thumbnail/2025/08/28/gb1vfh5n_buttonchanels_thvl_2025_sua-1.png",💚| Vĩnh Long 5
 #EXTVLCOPT:http-user-agent=dovietsy
 http://14.162.59.196:8889/ace/tv360mpd.php?id=91
 
