@@ -1,11 +1,11 @@
 #EXTM3U
-
+#TESTING CCTV
 #EXTINF:-1 tvg-id="CCTVPlus1.cn@SD" tvg-logo="https://i.imgur.com/U8d4Is6.png" group-title="News",CCTV+ 1 | CGTN (600p) [Not 24/7]_v
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTVPlus2.cn@SD" tvg-logo="https://i.imgur.com/qSg862A.png" group-title="News",CCTV+ 2 | CGTN (600p) [Not 24/7]_v
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="100011" group-title="KÊNH THIẾT YẾU" tvg-logo="https://i.imgur.com/kx8metk.png",CCTV4
+#EXTINF:-1 tvg-name="100011" group-title="News" tvg-logo="https://i.imgur.com/kx8metk.png",CCTV4
 https://dash.antik.sk/live/test_cctv_tizen/playlist.m3u8
 #EXTINF:-1 tvg-name="CCTV10" group-title="KÊNH ĐẶC SẮC" tvg-logo="https://i.imgur.com/W8JNs1s.png",CCTV10
 #http://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
