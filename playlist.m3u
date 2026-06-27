@@ -317,44 +317,9 @@ http://14.162.59.196:8889/ace/tv360mpd.php?id=33
 #http://222.254.48.230:8889/ace/tv360mpd.php?id=34
 http://14.162.59.196:8889/ace/tv360mpd.php?id=34
 
-#Báo và phát thanh, truyền hình Hà Tĩnh	BHTTV
-#EXTINF:10, Hà Tĩnh TV (720p)
-#EXTVLCOPT:network-caching=1000
-https://wse.hatinhtv.net/live/httv1/chunklist.m3u8
-#EXTINF:-1 tvg-id="hatinh" group-title="🇻🇳| Địa phươngTV360" tvg-logo="https://i.imgur.com/1qIRfAK.png", HTTV HD | TH Hà Tĩnh
-http://222.254.48.230:8889/ace/tv360mpd.php?id=58
-#EXTINF:-1 tvg-id="hatinh" group-title="🇻🇳| Địa phươngFPT" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/9fs1rt7q_ha-tinh_296_168.png", HTTV | Hà Tĩnh
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/fnxsd1/hatinh_hls.smil/chunklist.m3u8
 
-#Báo và phát thanh, truyền hình Hải Phòng	THP, THP3
-#EXTINF:30,HAI PHONG
-#EXTVLCOPT:network-caching=1000
-https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u8
-#EXTINF:-1 tvg-id="haiphong" group-title="🇻🇳| Địa phươngFPT" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/06/02xhmdvn_thp_296_168.png", THP | Hải Phòng
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="haiphong" group-title="🇻🇳| Địa phươngTV360" tvg-logo="https://i.imgur.com/2SCbEZD.png", THP HD | TH Hải Phòng
-http://222.254.48.230:8889/ace/tv360mpd.php?id=60
-#EXTINF:-1 tvg-id="haiphongplus" group-title="🇻🇳| Địa phươngTV360" tvg-logo="https://i.imgur.com/tDVRqcq.png", THP+ HD | TH Hải Phòng
-https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
 
-#Báo và phát thanh, truyền hình Huế	HUETV
-#EXTINF:32,HUE_HUE TV
-#EXTVLCOPT:network-caching=1000
-https://live.huetv.com.vn/TRT-Online/playlist.m3u8
-#EXTINF:-1 tvg-id="hue" group-title="🇻🇳| Địa phươngFPT"  tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/p5yvku7m_thua-thien-hue_296_168.png", TRT | Thừa Thiên Huế
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="hue" group-title="🇻🇳| Địa phươngTV360" tvg-logo="https://i.imgur.com/Z4p1rxr.png", TRT HD | TH Thừa Thiên Huế
-http://222.254.48.230:8889/ace/tv360mpd.php?id=63
 
-#Báo và phát thanh, truyền hình Hưng Yên	HY (HYTV)
-#EXTINF:-1 tvg-id="hungyen" group-title="🇻🇳| Địa phươngTV360" tvg-logo="https://i.imgur.com/e4oFERe.png", HY HD | TH Hưng Yên
-http://222.254.48.230:8889/ace/tv360mpd.php?id=64
-#EXTINF:-1 tvg-id="hungyen" group-title="🇻🇳| Địa phươngFPT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6NiW6gk-2T7ZBschiTicHZIOGbF9gzmQo06zx9jnfZw&s", HY | Hưng Yên
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/fnxsd1/hungyen_2000.stream/chunklist.m3u8
 
 #Báo và phát thanh, truyền hình Khánh Hòa	KTV, KTV1
 #EXTINF:32,KHANH HOA_tv.ktv.org.vn
@@ -369,74 +334,6 @@ https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="khanhhoa" group-title="🇻🇳| Địa phươngTV360" tvg-logo="https://i.imgur.com/c7PdhfJ.png", KTV HD | TH Khánh Hòa
 http://222.254.48.230:8889/ace/tv360mpd.php?id=65
 
-#Báo và phát thanh, truyền hình Lai Châu	LTV
-#EXTINF:-1 tvg-id="laichau" group-title="🇻🇳| Địa phươngFPT" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/08/LTV_Lai_Ch%C3%A2u_2017_c%C3%B3_website.png/revision/latest?cb=20230322103158&path-prefix=vi", LTV | Lai Châu
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/fnxsd1/laichau_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="laichau" group-title="🇻🇳| Địa phươngTV360" tvg-logo="https://i.imgur.com/OWif7hM.png", LTV HD | TH Lai Châu
-http://222.254.48.230:8889/ace/tv360mpd.php?id=68
-
-#Báo và phát thanh, truyền hình Lạng Sơn	LSTV
-#EXTINF:-1 tvg-id="langson" group-title="🇻🇳| Địa phươngTV360" tvg-logo="https://i.imgur.com/TCiOz5T.png", LSTV HD | TH Lạng Sơn
-http://222.254.48.230:8889/ace/tv360mpd.php?id=70
-
-#Báo và phát thanh, truyền hình Lào Cai	THLC
-
-#EXTINF:-1 tvg-id="laocai" group-title="🇻🇳| Địa phươngTV360" tvg-logo="https://i.imgur.com/o6mNcAN.png", THLC HD | TH Lào Cai
-http://222.254.48.230:8889/ace/tv360mpd.php?id=71
-
-#Báo và phát thanh, truyền hình Lâm Đồng	LTV1, LTV2, BTV6 - Shopping 24h
-#EXTINF:-1 tvg-id="lamdong" group-title="🇻🇳| Địa phươngTV360" tvg-logo="https://i.imgur.com/PcMt8Au.png", LTV HD | TH Lâm Đồng
-http://222.254.48.230:8889/ace/tv360mpd.php?id=69
-#EXTINF:-1 tvg-id="lamdong" group-title="🇻🇳| Địa phươngFPT" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/dg27e6ku_lam-dong_296_168.png", LTV | Lâm Đồng
-#EXTVLCOPT:http-user-agent=dovietsy
-https://live.fptplay53.net/epzsd1/lamdong_hls.smil/chunklist.m3u8
-
-#Báo và phát thanh, truyền hình Nghệ An	NTV[1]
-#EXTINF:-1 tvg-id="nghean" group-title="🇻🇳| Địa phươngTV360" tvg-logo="https://i.imgur.com/w4fTP8x.png", NTV HD | TH Nghệ An
-http://222.254.48.230:8889/ace/tv360mpd.php?id=74
-
-#Báo và phát thanh, truyền hình Ninh Bình	NBTV
-#EXTINF:-1 tvg-id="ninhbinh" group-title="🇻🇳| Địa phươngTV360" tvg-logo="https://i.imgur.com/GxlBjJF.png", NTV HD | TH Ninh Bình
-http://222.254.48.230:8889/ace/tv360mpd.php?id=75
-
-#Báo và phát thanh, truyền hình Phú Thọ	PTV
-#EXTINF:-1 tvg-id="phutho" group-title="🇻🇳| Địa phươngTV360" tvg-logo="https://i.imgur.com/BG97qge.png", PTV HD | TH Phú Thọ
-http://222.254.48.230:8889/ace/tv360mpd.php?id=77
-#Báo và phát thanh, truyền hình Quảng Ngãi	QNgTV1, QNgTV2
-#EXTINF:-1 tvg-id="quangngai" group-title="🇻🇳| Địa phươngTV360" tvg-logo="https://i.imgur.com/EwlMlTR.png", PTQ | TH Quảng Ngãi
-http://222.254.48.230:8889/ace/tv360mpd.php?id=81/index.m3u8
-
-#Báo và phát thanh, truyền hình Quảng Ninh	QTV1, QTV3
-#EXTINF:-1 tvg-id="quangninh1" group-title="🇻🇳| Địa phươngTV360" tvg-logo="https://i.imgur.com/pAy8Zr2.png", QTV1 HD | TH Quảng Ninh
-http://222.254.48.230:8889/ace/tv360mpd.php?id=82
-#EXTINF:-1 tvg-id="quangninh3" group-title="🇻🇳| Địa phươngTV360" tvg-logo="https://i.imgur.com/zlo5fHD.png", QTV3 HD | TH Quảng Ninh
-http://103.90.220.236/qtvlive/tv3live.m3u8
-
-#Báo và phát thanh, truyền hình Quảng Trị	QTTV
-#EXTINF:-1 tvg-id="quangtri" group-title="🇻🇳| Địa phươngTV360" tvg-logo="https://i.imgur.com/8AEOhJG.png", QRTV HD | TH Quảng Trị
-#EXTVLCOPT:http-user-agent=dovietsy
-
-#Báo và phát thanh, truyền hình Sơn La	STV
-#EXTINF:20,SON LA_STV
-#EXTVLCOPT:network-caching=1000
-https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/playlist.m3u8
-
-#Báo và phát thanh, truyền hình Tây Ninh	TN
-#EXTINF:-1 tvg-id="tayninh" group-title="🇻🇳| Địa phươngTV360" tvg-logo="https://i.imgur.com/4UHKPr2.png", TTV11 HD | TH Tây Ninh
-http://222.254.48.230:8889/ace/tv360mpd.php?id=86
-
-#Báo và phát thanh, truyền hình Thanh Hóa	TTV
-#EXTINF:-1 tvg-id="thanhhoa" group-title="🇻🇳| Địa phươngTV360" tvg-logo="https://i.imgur.com/yr1CSah.png", TTV HD | TH Thanh Hóa
-http://222.254.48.230:8889/ace/tv360mpd.php?id=89
-
-#Báo và phát thanh, truyền hình Thái Nguyên	TN
-#EXTINF:-1 tvg-id="thainguyen" group-title="🇻🇳| Địa phươngTV360" tvg-logo="https://i.imgur.com/E1Ntgzn.png", TN1 HD | TH Thái Nguyên
-http://222.254.48.230:8889/ace/tv360mpd.php?id=88
-
-#Báo và phát thanh, truyền hình Tuyên Quang	TTV
-#EXTINF:-1 tvg-id="tuyenquang" group-title="🇻🇳| Địa phươngTV360" tvg-logo="https://i.imgur.com/dHJaAwa.png", TTV HD | TH Tuyên Quang
-http://222.254.48.230:8889/ace/tv360mpd.php?id=92
 
 
 #Báo và phát thanh, truyền hình Vĩnh Long: THVL1, THVL2, THVL3, THVL4, THVL5
