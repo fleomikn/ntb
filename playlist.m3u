@@ -10,7 +10,7 @@ https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv2/playlist_720p.m3u8
 #http://14.162.60.100:8889/ace/tv360mpd.php?id=3
-http://14.162.60.100:8889/Vieon.php?id=vtv2
+#http://14.162.60.100:8889/Vieon.php?id=vtv2
 
 #5 VTV3
 #EXTINF:0 tvg-id="vtv3hd" group-title="VTV_360" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1280px-VTV3_logo_2013_final.svg.png",VTV3 [v]
