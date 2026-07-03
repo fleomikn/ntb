@@ -25,17 +25,20 @@ https://live.fptplay53.net/live/media/vtv4/live247-hls-avc/index.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://live-a.fptplay53.net/live/media/vtv5/live247-hls-avc/index.m3u8
 #8 VTV Can Tho (VTV10)
-#EXTINF:0 tvg-id="vtv3hd" group-title="VTV_V" tvg-logo="https://i.ibb.co/RTvyzQN1/VTV10-BEARTV.png",VTV10 (Can Tho) [V]
+#EXTINF:0 tvg-id="vtv3hd" group-title="VTV_V" tvg-logo="https://i.ibb.co/RTvyzQN1/VTV10-BEARTV.png",VTV10 (Can Tho)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
-http://14.162.60.100:8889/Vieon.php?id=vtv10
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv6/playlist_720p.m3u8
+
 #9 VTV7
 #EXTINF:0 tvg-id="vtv7hd" group-title="VTV_V" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/VTV7_logo_2016_final.svg/1280px-VTV7_logo_2016_final.svg.png",VTV7 [V]
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
-http://14.162.60.100:8889/Vieon.php?id=vtv7
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv7/playlist_720p.m3u8
+
 #10 VTV8
 #EXTINF:0 tvg-id="vtv8hd" group-title="VTV_F" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/VTV8_logo.png",VTV8 [F]
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://live.fptplay53.net/live/media/vtv8/live-hls-avc/index.m3u8
+
 #11 VTV9
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV_360" catchup="append" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/3840px-VTV9_logo_2013_final.svg.png",VTV9 [3]
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
@@ -1169,7 +1172,7 @@ http://14.162.60.100:8889/Vieon.php?id=vtv6
 
 #EXTINF:0 tvg-id="vtv7hd" group-title="❤️|VTV_V" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/03/05/2q571qa6_vtv7d7962270987bf20c053af427d6f13dad_296_168.png",❤️VTV7
 #EXTVLCOPT:http-user-agent=dovietsy
-http://14.162.60.100:8889/Vieon.php?id=vtv7
+#http://14.162.60.100:8889/Vieon.php?id=vtv7
 
 #EXTINF:-1 tvg-id="vtv8hd" group-title="❤️|VTV_V" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/ma6k05nf_vtv8_296_168.png",❤️VTV8
 #EXTVLCOPT:http-user-agent=dovietsy
@@ -1181,7 +1184,7 @@ http://14.162.60.100:8889/Vieon.php?id=vtv8
 
 #EXTINF:-1 tvg-id="vtv10hd" group-title="❤️|VTV_V" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2026/03/30/z0ra7tps_banner-dai-truyen-hinh_296_168.png",❤️VTV10
 #EXTVLCOPT:http-user-agent=dovietsy
-http://14.162.60.100:8889/Vieon.php?id=vtv10
+#http://14.162.60.100:8889/Vieon.php?id=vtv10
 
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="❤️|VTV_V" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2025/09/05/apb3bs61_banner1f7e02f487e949d751b54c5ff6a18e9dd_296_168.png",❤️VietNam Today
 #EXTVLCOPT:http-user-agent=dovietsy
