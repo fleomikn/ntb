@@ -5,18 +5,15 @@
 #EXTINF:-1 tvg-id="VTV1.vn@HD" tvg-logo="https://i.imgur.com/vZYlGIW.png" group-title="VTV_F",VTV1 HD (1080p) [F]
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8
+
 #4 VTV2
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV_360" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1280px-VTV2_logo_2013_final.svg.png",VTV2
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv2/playlist_720p.m3u8
-#http://14.162.60.100:8889/ace/tv360mpd.php?id=3
-#http://14.162.60.100:8889/Vieon.php?id=vtv2
 
 #5 VTV3
 #EXTINF:0 tvg-id="vtv3hd" group-title="VTV_360" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1280px-VTV3_logo_2013_final.svg.png",VTV3
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
-#http://14.162.60.100:8889/ace/tv360mpd.php?id=4
-#http://14.162.60.100:8889/Vieon.php?id=vtv3
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv3/playlist_720p.m3u8
 
 #6 VTV4
@@ -1198,11 +1195,12 @@ http://14.162.60.100:8889/ace/tv360mpd.php?id=2
 
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV_360" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1280px-VTV2_logo_2013_final.svg.png",VTV2
 #EXTVLCOPT:http-user-agent=dovietsy
-http://14.162.60.100:8889/ace/tv360mpd.php?id=3
+#http://14.162.60.100:8889/ace/tv360mpd.php?id=3
+
 
 #EXTINF:0 tvg-id="vtv3hd" group-title="VTV_360" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1280px-VTV3_logo_2013_final.svg.png",VTV3
 #EXTVLCOPT:http-user-agent=dovietsy
-http://14.162.60.100:8889/ace/tv360mpd.php?id=4
+#http://14.162.60.100:8889/ace/tv360mpd.php?id=4
 
 #EXTINF:0 tvg-id="vtv4hd" group-title="VTV_360" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Logo_VTV4.png",VTV4
 #EXTVLCOPT:http-user-agent=dovietsy
