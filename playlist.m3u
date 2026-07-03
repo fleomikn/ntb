@@ -20,17 +20,19 @@ https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv3/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="VTV4.vn@HD" tvg-logo="https://i.imgur.com/WsLLmR2.png" group-title="VTV_F",VTV4 HD (1080p) [F]
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://live.fptplay53.net/live/media/vtv4/live247-hls-avc/index.m3u8
+
 #7 VTV5
 #EXTINF:-1 tvg-id="VTV5.vn@HD" tvg-logo="https://i.imgur.com/Vnnna1C.png" group-title="VTV_F",VTV5 HD (1080p) [F]
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://live-a.fptplay53.net/live/media/vtv5/live247-hls-avc/index.m3u8
+
 #8 VTV Can Tho (VTV10)
 #EXTINF:0 tvg-id="vtv3hd" group-title="VTV_V" tvg-logo="https://i.ibb.co/RTvyzQN1/VTV10-BEARTV.png",VTV10 (Can Tho)
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv6/playlist_720p.m3u8
 
 #9 VTV7
-#EXTINF:0 tvg-id="vtv7hd" group-title="VTV_V" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/VTV7_logo_2016_final.svg/1280px-VTV7_logo_2016_final.svg.png",VTV7 [V]
+#EXTINF:0 tvg-id="vtv7hd" group-title="VTV_V" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/VTV7_logo_2016_final.svg/1280px-VTV7_logo_2016_final.svg.png",VTV7
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
 https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv7/playlist_720p.m3u8
 
@@ -40,10 +42,10 @@ https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv7/playlist_720p.m3u8
 https://live.fptplay53.net/live/media/vtv8/live-hls-avc/index.m3u8
 
 #11 VTV9
-#EXTINF:0 tvg-id="vtv9hd" group-title="VTV_360" catchup="append" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/3840px-VTV9_logo_2013_final.svg.png",VTV9 [3]
+#EXTINF:0 tvg-id="vtv9hd" group-title="VTV_360" catchup="append" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/3840px-VTV9_logo_2013_final.svg.png",VTV9
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
-#http://14.162.60.100:8889/ace/tv360mpd.php?id=8
-http://14.162.60.100:8889/Vieon.php?id=vtv9
+https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv9/playlist_720p.m3u8
+
 #VietNamToday
 #EXTINF:0 tvg-id="vietnamtoday" group-title="VTV_F" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Vietnam_Today_Logo.png",VietNamToday [F]
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
@@ -1200,7 +1202,6 @@ http://14.162.60.100:8889/ace/tv360mpd.php?id=2
 #EXTVLCOPT:http-user-agent=dovietsy
 #http://14.162.60.100:8889/ace/tv360mpd.php?id=3
 
-
 #EXTINF:0 tvg-id="vtv3hd" group-title="VTV_360" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1280px-VTV3_logo_2013_final.svg.png",VTV3
 #EXTVLCOPT:http-user-agent=dovietsy
 #http://14.162.60.100:8889/ace/tv360mpd.php?id=4
@@ -1235,7 +1236,7 @@ http://14.162.60.100:8889/ace/tv360mpd.php?id=115
 
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV_360" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/3840px-VTV9_logo_2013_final.svg.png",VTV9
 #EXTVLCOPT:http-user-agent=dovietsy
-http://14.162.60.100:8889/ace/tv360mpd.php?id=8
+#http://14.162.60.100:8889/ace/tv360mpd.php?id=8
 
 #EXTINF:0 tvg-id="vtv10hd" group-title="VTV_360" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://static.wikia.nocookie.net/ab3dc0cb-29c0-45be-9013-5d258d22be78/scale-to-width/755",VTV10
 #EXTVLCOPT:http-user-agent=dovietsy
