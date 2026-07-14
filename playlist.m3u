@@ -7,14 +7,16 @@
 https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8
 
 #4 VTV2
-#EXTINF:0 tvg-id="vtv2hd" group-title="VTV_360" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1280px-VTV2_logo_2013_final.svg.png",VTV2
+#EXTINF:0 tvg-id="vtv2hd" group-title="VTV_F" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1280px-VTV2_logo_2013_final.svg.png",VTV2 [F]
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
-https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv2/playlist_720p.m3u8
+#https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv2/playlist_720p.m3u8
+https://live.fptplay53.net/live/media/v2abr/live247-hls-avc/v2abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
 
 #5 VTV3
-#EXTINF:0 tvg-id="vtv3hd" group-title="VTV_360" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1280px-VTV3_logo_2013_final.svg.png",VTV3
+#EXTINF:0 tvg-id="vtv3hd" group-title="VTV_F" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1280px-VTV3_logo_2013_final.svg.png",VTV3 [F]
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
-https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv3/playlist_720p.m3u8
+#https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv3/playlist_720p.m3u8
+https://live.fptplay53.net/live/media/v3abr/live247-hls-avc/v3abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
 
 #6 VTV4
 #EXTINF:-1 tvg-id="VTV4.vn@HD" tvg-logo="https://i.imgur.com/WsLLmR2.png" group-title="VTV_F",VTV4 HD (1080p) [F]
