@@ -1246,33 +1246,34 @@ http://14.162.60.100:8889/ace/tv360mpd.php?id=115
 #EXTVLCOPT:http-user-agent=dovietsy
 #http://14.162.60.100:8889/ace/tv360mpd.php?id=8
 
-#EXTINF:0 tvg-id="vtv10hd" group-title="VTV_360" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://static.wikia.nocookie.net/ab3dc0cb-29c0-45be-9013-5d258d22be78/scale-to-width/755",VTV10
+#EXTINF:0 tvg-id="vtv10hd" group-title="[3]|VTV" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://static.wikia.nocookie.net/ab3dc0cb-29c0-45be-9013-5d258d22be78/scale-to-width/755",VTV10
 #EXTVLCOPT:http-user-agent=dovietsy
-http://14.162.60.100:8889/ace/tv360mpd.php?id=98
+http://14.248.58.208:8889/ace/tv360mpd.php?id=98
 
-#EXTINF:0 tvg-id="vietnamtoday" group-title="VTV_360" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Vietnam_Today_Logo.png",VietNamToday
+#EXTINF:0 tvg-id="vietnamtoday" group-title="[3]|VTV" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Vietnam_Today_Logo.png",VietNamToday
 #EXTVLCOPT:http-user-agent=dovietsy
-http://14.162.60.100:8889/ace/tv360mpd.php?id=9951
+#http://14.162.60.100:8889/ace/tv360mpd.php?id=9951
+http://14.248.58.208:8889/ace/tv360mpd.php?id=9951
 
 #EXTINF:0 tvg-id="vinhlong1hd" group-title="[3]| Địa phương_360" tvg-logo="https://i.imgur.com/YSDet7K.png",💚| Vĩnh Long 1 [F]
 #EXTVLCOPT:http-user-agent=dovietsy
 #http://14.162.60.100:8889/ace/tv360mpd.php?id=25
-http://14.248.58.208:8889:8889/ace/tv360mpd.php?id=25
+http://14.248.58.208:8889/ace/tv360mpd.php?id=25
 
 #EXTINF:0 tvg-id="vinhlong2hd" group-title="[3]| Địa phương_360" tvg-logo="https://i.imgur.com/oKKhKj8.png",💚| Vĩnh Long 2 [F]
 #EXTVLCOPT:http-user-agent=dovietsy
 #http://14.162.60.100:8889/ace/tv360mpd.php?id=26
-http://14.248.58.208:8889:8889/ace/tv360mpd.php?id=26
+http://14.248.58.208:8889/ace/tv360mpd.php?id=26
 
 #EXTINF:0 tvg-id="vinhlong3hd" group-title="[3]| Địa phương_360" tvg-logo="https://i.imgur.com/Otl740O.png",💚| Vĩnh Long 3 [3]
 #EXTVLCOPT:http-user-agent=dovietsy
 #http://14.162.60.100:8889/ace/tv360mpd.php?id=219
-http://14.248.58.208:8889:8889/ace/tv360mpd.php?id=219
+http://14.248.58.208:8889/ace/tv360mpd.php?id=219
 
 #EXTINF:0 tvg-id="vinhlong4hd" group-title="[3]| Địa phương_360" tvg-logo="https://i.imgur.com/9k1ZcWG.png",💚| Vĩnh Long 4 [3]
 #EXTVLCOPT:http-user-agent=dovietsy
 #http://14.162.60.100:8889/ace/tv360mpd.php?id=220
-http://14.248.58.208:8889:8889/ace/tv360mpd.php?id=220
+http://14.248.58.208:8889/ace/tv360mpd.php?id=220
 
 #EXTINF:0 tvg-id="vinhlong5hd" group-title="[3]| Địa phương_360" tvg-logo="https://static3.thvli.vn/assets/thumbnail/2025/08/28/gb1vfh5n_buttonchanels_thvl_2025_sua-1.png",💚| Vĩnh Long 5 [3]
 #EXTVLCOPT:http-user-agent=dovietsy
