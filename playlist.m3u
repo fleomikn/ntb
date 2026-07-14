@@ -1136,6 +1136,11 @@ https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv2/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-id="VTV3.vn@HD" tvg-logo="https://i.imgur.com/4lJG1fu.png" group-title="Undefined",VTV3 HD (1080p)
 #https://live.fptplay53.net/live/media/vtv3/live247-hls-avc/index.m3u8
+
+#EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/6dufbhs9_vtv4_296_168.png",VTV4 [F]
+#EXTVLCOPT:http-user-agent=dovietsy
+https://live.fptplay53.net/live/media/vtv4/live247-hls-avc/index.m3u8
+
 #EXTINF:-1 tvg-id="VTV5TayNamBo.vn@HD" tvg-logo="https://i.imgur.com/xiuHjEQ.png" group-title="Undefined",VTV5 Tây Nam Bộ HD (1080p)
 https://liveh12.vtvprime.vn/hls/VTV5_TNB/index.m3u8
 #EXTINF:-1 tvg-id="VTV5TayNguyen.vn@HD" tvg-logo="https://i.imgur.com/Hlcnqqt.png" group-title="Undefined",VTV5 Tây Nguyên HD (1080p)
@@ -1224,7 +1229,8 @@ http://14.248.58.208:8889/ace/tv360mpd.php?id=4
 
 #EXTINF:0 tvg-id="vtv4hd" group-title="[3]|VTV" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Logo_VTV4.png",3|VTV4
 #EXTVLCOPT:http-user-agent=dovietsy
-http://14.248.58.208:8889/ace/tv360mpd.php?id=108
+#http://14.248.58.208:8889/ace/tv360mpd.php?id=108
+http://14.248.58.208:8889/ace/tv360mpd.php?id=5
 
 #EXTINF:0 tvg-id="vtv5hd" group-title="[3]|VTV" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/960px-VTV5_logo_2013_final.svg.png",3|VTV5
 #EXTVLCOPT:http-user-agent=dovietsy
