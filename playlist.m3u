@@ -1157,7 +1157,6 @@ https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist.m3u8
 
 
 #-*-❤️-VTV*VIEON-*--#
-
 #EXTINF:0 tvg-id="vtv1hd" group-title="❤️|VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/03/13/d7g5o7kh_vtv1-1be0def1411539ad6b5a1b9f97df826a0_296_168.png",❤️VTV1
 #EXTVLCOPT:http-user-agent=dovietsy
 http://14.248.58.208:8889/Vieon.php?id=vtv1
@@ -1192,7 +1191,7 @@ http://14.248.58.208:8889/Vieon.php?id=vtv6
 
 #EXTINF:0 tvg-id="vtv7hd" group-title="❤️|VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/03/05/2q571qa6_vtv7d7962270987bf20c053af427d6f13dad_296_168.png",❤️VTV7
 #EXTVLCOPT:http-user-agent=dovietsy
-#http://14.248.58.208:8889/Vieon.php?id=vtv7
+http://14.248.58.208:8889/Vieon.php?id=vtv7
 
 #EXTINF:-1 tvg-id="vtv8hd" group-title="❤️|VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/ma6k05nf_vtv8_296_168.png",❤️VTV8
 #EXTVLCOPT:http-user-agent=dovietsy
@@ -1200,29 +1199,28 @@ http://14.248.58.208:8889/Vieon.php?id=vtv8
 
 #EXTINF:-1 tvg-id="vtv9hd" group-title="❤️|VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/03/08/25e5k1kt_vtv9d14cdaf0fbaa7d8a6d86e59bcba1fe0b_296_168.png",❤️VTV9
 #EXTVLCOPT:http-user-agent=dovietsy
-#http://14.248.58.208:8889/Vieon.php?id=vtv9
+http://14.248.58.208:8889/Vieon.php?id=vtv9
 
 #EXTINF:-1 tvg-id="vtv10hd" group-title="❤️|VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2026/03/30/z0ra7tps_banner-dai-truyen-hinh_296_168.png",❤️VTV10
 #EXTVLCOPT:http-user-agent=dovietsy
-#http://14.248.58.208:8889/Vieon.php?id=vtv10
+http://14.248.58.208:8889/Vieon.php?id=vtv10
 
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="❤️|VTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2025/09/05/apb3bs61_banner1f7e02f487e949d751b54c5ff6a18e9dd_296_168.png",❤️VietNam Today
 #EXTVLCOPT:http-user-agent=dovietsy
 http://14.248.58.208:8889/Vieon.php?id=vietnamtoday
 
 #-*-🌟-VTV*TV360-*--#
-
 #EXTINF:0 tvg-id="vtv1hd" group-title="[3]|VTV" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/VTV1_2013.png/960px-VTV1_2013.png",3|VTV1
 #EXTVLCOPT:http-user-agent=dovietsy
 http://14.248.58.208:8889/ace/tv360mpd.php?id=2
 
 #EXTINF:0 tvg-id="vtv2hd" group-title="[3]|VTV" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1280px-VTV2_logo_2013_final.svg.png",3|VTV2
 #EXTVLCOPT:http-user-agent=dovietsy
-#http://14.248.58.208:8889/ace/tv360mpd.php?id=3
+http://14.248.58.208:8889/ace/tv360mpd.php?id=3
 
 #EXTINF:0 tvg-id="vtv3hd" group-title="[3]|VTV" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1280px-VTV3_logo_2013_final.svg.png",3|VTV3
 #EXTVLCOPT:http-user-agent=dovietsy
-#http://14.248.58.208:8889/ace/tv360mpd.php?id=4
+http://14.248.58.208:8889/ace/tv360mpd.php?id=4
 
 #EXTINF:0 tvg-id="vtv4hd" group-title="[3]|VTV" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Logo_VTV4.png",3|VTV4
 #EXTVLCOPT:http-user-agent=dovietsy
