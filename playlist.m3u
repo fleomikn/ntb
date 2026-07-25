@@ -30,14 +30,16 @@ https://live.fptplay53.net/live/media/vtv4/live247-hls-avc/index.m3u8
 https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/index.m3u8
 
 #8 VTV Can Tho (VTV10)
-#EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.ibb.co/RTvyzQN1/VTV10-BEARTV.png",VTV10 (Can Tho)
+#EXTINF:0 tvg-id="vtv3hd" group-title="VTV_F" tvg-logo="https://i.ibb.co/RTvyzQN1/VTV10-BEARTV.png",VTV10 (Can Tho) [F]
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
-https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv6/playlist_720p.m3u8
+#https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv6/playlist_720p.m3u8
+https://live.fptplay53.net/live/media/v10abr/live247-hls-avc/v10abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
 
 #9 VTV7
-#EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/VTV7_logo_2016_final.svg/1280px-VTV7_logo_2016_final.svg.png",VTV7
+#EXTINF:0 tvg-id="vtv7hd" group-title="VTV_F" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/VTV7_logo_2016_final.svg/1280px-VTV7_logo_2016_final.svg.png",VTV7 [F]
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
-https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv7/playlist_720p.m3u8
+#https://vtvgolive-ssaimh.vtvdigital.vn/manifest/vtv7/playlist_720p.m3u8
+https://live.fptplay53.net/live/media/v7abr/live247-hls-avc/v7abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
 
 #10 VTV8
 #EXTINF:0 tvg-id="vtv8hd" group-title="VTV_F" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-10800.m3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/VTV8_logo.png",VTV8 [F]
@@ -61,7 +63,7 @@ https://liveh12.vtvprime.vn/hls/HTVKey/index.m3u8
 #13 HTV2
 #14 HTVC Gia Dinh
 #15 HTV7
-#EXTINF:12,HTV7(HD)[G-b][F]
+#EXTINF:12,HTV7 (HD)[G-b][F]
 #EXTVLCOPT:network-caching=1000
 https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist.m3u8
 
@@ -71,7 +73,7 @@ https://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="QPVN.vn@HD" tvg-logo="https://i.imgur.com/GQO7UNu.png" group-title="TH Quốc Gia",QPVN HD (1080p)
 https://liveh12.vtvprime.vn/hls/QPTV/index.m3u8
 #19 Ha Noi TV
-#EXTINF:-1 tvg-id="HanoiTV1.vn@SD" tvg-logo="https://i.imgur.com/Je3K25E.png" group-title="TH Quốc Gia",HanoiTV1 (1080p) [G-b]
+#EXTINF:-1 tvg-id="HanoiTV1.vn@SD" tvg-logo="https://i.imgur.com/Je3K25E.png" group-title="TH Quốc Gia",HanoiTV1 (1080p)[G-b]
 https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist.m3u8
 #EXTINF:10,HanoiTV2 (1080p)[G-b]
 #EXTVLCOPT:network-caching=1000
